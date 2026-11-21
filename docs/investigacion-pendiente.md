@@ -4,9 +4,6 @@ Estos datos están guardados pero **no se muestran** en la página (`"verificado
 
 ## Otomí
 - festividades: **Ceremonia mensual a los elementos naturales** (fuente: https://escapadas.mexicodesconocido.com.mx/atractivos/centro-ceremonial-otomi/)
-- artesanias: **Chincuete y quexquémetl** (fuente: https://es.wikipedia.org/wiki/Otomíes)
-- costumbres: **La milpa otomí** (fuente: https://cienciasagricolas.inifap.gob.mx/index.php/agricolas/article/download/3661/7507/39951)
-- costumbres: **Temazcal y plantas medicinales** (fuente: https://www.mexicodesconocido.com.mx/pueblo-otomi-otomies.html)
 
 ## Mazahua
 - gastronomia: **Charales, acociles y carpa de presa** (fuente: https://foem.edomex.gob.mx/sites/foem.edomex.gob.mx/files/catalogo/San%20Felipe%20del%20Progreso.pdf)
@@ -37,3 +34,5 @@ Estos datos están guardados pero **no se muestran** en la página (`"verificado
 - Frases tlahuicas: son nombres de platillos del libro *Cinco sabores tradicionales mexiquenses*; no son saludos.
 - Otomí, mazahua y nahua: no tienen frases porque no hubo fuente legible. El cuadernillo «Aprendiendo otomí, Temoaya» (gob.mx) es un PDF de imágenes.
 - Los tiempos de «cómo llegar» son aproximados.
+- Zona arqueológica Los Reyes La Paz (Acaquilpan): el equipo confirmó que existe, pero está muy abandonada y hay poco que ver; se deja oculta a propósito.
+- Confirmado por el equipo (21-nov-2026): Centro Ceremonial Otomí (construido en 1980 como homenaje), milpa otomí, chincuete y quexquémetl, temazcal.

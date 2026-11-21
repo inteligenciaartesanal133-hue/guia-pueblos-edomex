@@ -238,8 +238,9 @@
           "es": "Indumentaria femenina tradicional: el chincuete es una falda amplia de lana o manta, y el quexquémetl, una prenda que cubre los hombros. Suele acompañarse de una blusa bordada.",
           "en": "Traditional women's clothing: the chincuete is a wide wool or cotton wraparound skirt, and the quexquémetl a garment that covers the shoulders. It is usually worn with an embroidered blouse."
         },
-        "verificado": false,
-        "fuente": "https://es.wikipedia.org/wiki/Otomíes"
+        "verificado": true,
+        "fuente": "https://es.wikipedia.org/wiki/Otomíes",
+        "confirmado_por_equipo": true
       }
     ],
     "costumbres": [
@@ -279,8 +280,9 @@
           "es": "Sistema agrícola de maíz, frijol y chile que sostiene la alimentación familiar. Un estudio la describe como patrimonio biocultural de los Valles Altos mexiquenses, con el nombre ra huähi hñähñu.",
           "en": "An agricultural system of corn, beans and chile that sustains family diets. A study describes it as biocultural heritage of the State of Mexico's high valleys, under the name ra huähi hñähñu."
         },
-        "verificado": false,
-        "fuente": "https://cienciasagricolas.inifap.gob.mx/index.php/agricolas/article/download/3661/7507/39951"
+        "verificado": true,
+        "fuente": "https://cienciasagricolas.inifap.gob.mx/index.php/agricolas/article/download/3661/7507/39951",
+        "confirmado_por_equipo": true
       },
       {
         "id": "temazcal-y-plantas-medicinales",
@@ -292,8 +294,9 @@
           "es": "Se conserva el uso del temazcal para baños curativos y de plantas medicinales de origen prehispánico como parte del cuidado de la salud tradicional.",
           "en": "The use of the temazcal (traditional steam bath) for healing and of medicinal plants of pre-Hispanic origin continues as part of traditional health care."
         },
-        "verificado": false,
-        "fuente": "https://www.mexicodesconocido.com.mx/pueblo-otomi-otomies.html"
+        "verificado": true,
+        "fuente": "https://www.mexicodesconocido.com.mx/pueblo-otomi-otomies.html",
+        "confirmado_por_equipo": true
       }
     ],
     "frases": [],

@@ -17,7 +17,9 @@ md += "## Revisar a mano\n" +
   "- Frases matlatzincas: confirmar acentos y apóstrofos contra el prontuario INALI «Bot'una» (el texto se extrajo de un PDF).\n" +
   "- Frases tlahuicas: son nombres de platillos del libro *Cinco sabores tradicionales mexiquenses*; no son saludos.\n" +
   "- Otomí, mazahua y nahua: no tienen frases porque no hubo fuente legible. El cuadernillo «Aprendiendo otomí, Temoaya» (gob.mx) es un PDF de imágenes.\n" +
-  "- Los tiempos de «cómo llegar» son aproximados.\n";
+  "- Los tiempos de «cómo llegar» son aproximados.\n" +
+  "- Zona arqueológica Los Reyes La Paz (Acaquilpan): el equipo confirmó que existe, pero está muy abandonada y hay poco que ver; se deja oculta a propósito.\n" +
+  "- Confirmado por el equipo (21-nov-2026): Centro Ceremonial Otomí (construido en 1980 como homenaje), milpa otomí, chincuete y quexquémetl, temazcal.\n";
 writeFileSync("docs/investigacion-pendiente.md", md);
 
 const sinFoto = [...pueblos, ...destinos, ...zonas].filter((l) => !l.foto);

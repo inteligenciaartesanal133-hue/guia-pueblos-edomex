@@ -3,30 +3,69 @@
     "id": "destino-centro-ceremonial-otomi",
     "pueblo": "otomi",
     "tipo": "sitio",
-    "nombre": {"es": "Centro Ceremonial Otomí", "en": "Otomí Ceremonial Center"},
+    "nombre": {
+      "es": "Centro Ceremonial Otomí",
+      "en": "Otomí Ceremonial Center"
+    },
     "municipio": "Temoaya",
     "lat": 19.5306,
     "lon": -99.5242,
     "resena": {
-      "es": "El Centro Ceremonial Otomí es un parque estatal en el municipio de Temoaya, a unos 37 kilómetros de Toluca, inaugurado en 1980 para dar al pueblo otomí un espacio propio de encuentro y celebración. Se extiende sobre unas 45 hectáreas, a cerca de 3,200 metros de altitud, dentro del Parque Ecológico, Turístico y Recreativo Zempoala-La Bufa. Tiene plazas ceremoniales con esculturas monumentales, un mural del jaguar Dámishy y un museo sobre la cultura otomí. Aquí se realizan ceremonias como la del Quinto Sol, cada 18 de marzo. Es un lugar para visitar con respeto, pues sigue siendo un espacio ceremonial de la comunidad.",
-      "en": "The Otomí Ceremonial Center is a state park in the municipality of Temoaya, about 37 kilometers from Toluca, opened in 1980 to give the Otomí people a space of their own for gathering and celebration. It spreads over roughly 45 hectares at about 3,200 meters above sea level, inside the Zempoala-La Bufa ecological and recreational park. It has ceremonial plazas with monumental sculptures, a mural of the jaguar Dámishy and a museum on Otomí culture. Ceremonies such as the Quinto Sol (Fifth Sun) take place here every March 18. Visit with respect: it remains a ceremonial space for the community."
+      "es": "El Centro Ceremonial Otomí es un parque estatal en el municipio de Temoaya, a unos 37 kilómetros de Toluca, construido en 1980 como homenaje a la cultura otomí y como un espacio propio de encuentro y celebración para su pueblo. No es una zona prehispánica, sino un monumento moderno, y aun así es un muy buen lugar para visitar. Se extiende sobre unas 45 hectáreas, a cerca de 3,200 metros de altitud, dentro del Parque Ecológico, Turístico y Recreativo Zempoala-La Bufa. Tiene plazas ceremoniales con esculturas monumentales, un mural del jaguar Dámishy y un museo sobre la cultura otomí. Aquí se realizan ceremonias como la del Quinto Sol, cada 18 de marzo. Es un lugar para visitar con respeto, pues sigue siendo un espacio ceremonial de la comunidad.",
+      "en": "The Otomí Ceremonial Center is a state park in the municipality of Temoaya, about 37 kilometers from Toluca, built in 1980 as a tribute to Otomí culture and as a space of their own for the Otomí people to gather and celebrate. It is not a pre-Hispanic site but a modern monument, and it is still well worth a visit. It spreads over roughly 45 hectares at about 3,200 meters above sea level, inside the Zempoala-La Bufa ecological and recreational park. It has ceremonial plazas with monumental sculptures, a mural of the jaguar Dámishy and a museum on Otomí culture. Ceremonies such as the Quinto Sol (Fifth Sun) take place here every March 18. Visit with respect: it remains a ceremonial space for the community."
     },
     "como_llegar": {
       "es": "Desde Toluca, por carretera hacia Temoaya (unos 37 km, menos de una hora en auto) y después por la avenida Centro Ceremonial. Desde la Ciudad de México, unas 1.5 horas en auto (alrededor de 76 a 80 km) hasta Temoaya; en transporte público, autobús a Toluca y de ahí transporte local a Temoaya, con un trayecto total aproximado de 2 horas.",
       "en": "From Toluca, take the road toward Temoaya (about 37 km, under an hour by car) and then Avenida Centro Ceremonial. From Mexico City, about 1.5 hours by car (roughly 76 to 80 km) to Temoaya; by public transport, a bus to Toluca and then local transport to Temoaya, about 2 hours in total."
     },
     "actividades": [
-      {"nombre": {"es": "Recorrer las plazas ceremoniales y sus esculturas", "en": "Walk the ceremonial plazas and see the sculptures"}, "ambiente": "aire_libre"},
-      {"nombre": {"es": "Visitar el Museo de la Cultura Otomí", "en": "Visit the Museum of Otomí Culture"}, "ambiente": "bajo_techo"},
-      {"nombre": {"es": "Caminar por los senderos y hacer picnic en el entorno boscoso", "en": "Hike the trails and picnic in the wooded surroundings"}, "ambiente": "aire_libre"},
-      {"nombre": {"es": "Observar o asistir a las ceremonias abiertas, como la del Quinto Sol", "en": "Attend open ceremonies, such as the Quinto Sol"}, "ambiente": "aire_libre"}
+      {
+        "nombre": {
+          "es": "Recorrer las plazas ceremoniales y sus esculturas",
+          "en": "Walk the ceremonial plazas and see the sculptures"
+        },
+        "ambiente": "aire_libre"
+      },
+      {
+        "nombre": {
+          "es": "Visitar el Museo de la Cultura Otomí",
+          "en": "Visit the Museum of Otomí Culture"
+        },
+        "ambiente": "bajo_techo"
+      },
+      {
+        "nombre": {
+          "es": "Caminar por los senderos y hacer picnic en el entorno boscoso",
+          "en": "Hike the trails and picnic in the wooded surroundings"
+        },
+        "ambiente": "aire_libre"
+      },
+      {
+        "nombre": {
+          "es": "Observar o asistir a las ceremonias abiertas, como la del Quinto Sol",
+          "en": "Attend open ceremonies, such as the Quinto Sol"
+        },
+        "ambiente": "aire_libre"
+      }
     ],
     "foto": "destino-centro-ceremonial-otomi",
     "fuentes": [
-      {"titulo": "México Desconocido: Centro Ceremonial Otomí", "url": "https://escapadas.mexicodesconocido.com.mx/atractivos/centro-ceremonial-otomi/"},
-      {"titulo": "Posta: Conoces el Centro Ceremonial Otomí", "url": "https://www.posta.com.mx/edomex/conoces-el-centro-ceremonial-otomi-estas-son-las-actividades-que-puedes-hacer/vl1720299"},
-      {"titulo": "INAH: Centro Ceremonial Otomí", "url": "https://inah.gob.mx/foto-del-dia/centro-ceremonial-otomi"},
-      {"titulo": "Food and Pleasure: Temoaya, Estado de México", "url": "https://foodandpleasure.com/temoaya-estado-de-mexico/"}
+      {
+        "titulo": "México Desconocido: Centro Ceremonial Otomí",
+        "url": "https://escapadas.mexicodesconocido.com.mx/atractivos/centro-ceremonial-otomi/"
+      },
+      {
+        "titulo": "Posta: Conoces el Centro Ceremonial Otomí",
+        "url": "https://www.posta.com.mx/edomex/conoces-el-centro-ceremonial-otomi-estas-son-las-actividades-que-puedes-hacer/vl1720299"
+      },
+      {
+        "titulo": "INAH: Centro Ceremonial Otomí",
+        "url": "https://inah.gob.mx/foto-del-dia/centro-ceremonial-otomi"
+      },
+      {
+        "titulo": "Food and Pleasure: Temoaya, Estado de México",
+        "url": "https://foodandpleasure.com/temoaya-estado-de-mexico/"
+      }
     ],
     "verificado": true
   },
@@ -34,7 +73,10 @@
     "id": "destino-temoaya-tapetes",
     "pueblo": "otomi",
     "tipo": "comunidad",
-    "nombre": {"es": "Temoaya: talleres de tapetes y centro del pueblo", "en": "Temoaya: rug workshops and town center"},
+    "nombre": {
+      "es": "Temoaya: talleres de tapetes y centro del pueblo",
+      "en": "Temoaya: rug workshops and town center"
+    },
     "municipio": "Temoaya",
     "lat": 19.46707,
     "lon": -99.59411,
@@ -47,16 +89,49 @@
       "en": "From Toluca, take the road toward Temoaya, under an hour by car (about 20 minutes from downtown Toluca according to some sources). From Mexico City, roughly 76 to 80 km by road, about 1.5 hours by car; by public transport, around 2 hours with transfers."
     },
     "actividades": [
-      {"nombre": {"es": "Visitar talleres familiares de tapetes y conversar con los artesanos", "en": "Visit family rug workshops and talk with the artisans"}, "ambiente": "bajo_techo"},
-      {"nombre": {"es": "Recorrer el mercado local y probar la comida regional", "en": "Walk the local market and try regional food"}, "ambiente": "aire_libre"},
-      {"nombre": {"es": "Pasear por la plaza principal y la parroquia de Santiago Apóstol", "en": "Stroll the main plaza and the parish church of Santiago Apóstol"}, "ambiente": "aire_libre"},
-      {"nombre": {"es": "Acampar o pasear en la Presa de Iturbide", "en": "Camp or walk at the Iturbide Dam"}, "ambiente": "aire_libre"}
+      {
+        "nombre": {
+          "es": "Visitar talleres familiares de tapetes y conversar con los artesanos",
+          "en": "Visit family rug workshops and talk with the artisans"
+        },
+        "ambiente": "bajo_techo"
+      },
+      {
+        "nombre": {
+          "es": "Recorrer el mercado local y probar la comida regional",
+          "en": "Walk the local market and try regional food"
+        },
+        "ambiente": "aire_libre"
+      },
+      {
+        "nombre": {
+          "es": "Pasear por la plaza principal y la parroquia de Santiago Apóstol",
+          "en": "Stroll the main plaza and the parish church of Santiago Apóstol"
+        },
+        "ambiente": "aire_libre"
+      },
+      {
+        "nombre": {
+          "es": "Acampar o pasear en la Presa de Iturbide",
+          "en": "Camp or walk at the Iturbide Dam"
+        },
+        "ambiente": "aire_libre"
+      }
     ],
     "foto": "destino-temoaya-tapetes",
     "fuentes": [
-      {"titulo": "México Desconocido: Tapetes de Temoaya", "url": "https://www.mexicodesconocido.com.mx/tapetes-de-temoaya.html"},
-      {"titulo": "México Desconocido: Temoaya, la Persia de los tapetes", "url": "https://escapadas.mexicodesconocido.com.mx/temoaya-la-persia-de-los-tapetes-en-el-estado-de-mexico/"},
-      {"titulo": "Food and Pleasure: Temoaya, Estado de México", "url": "https://foodandpleasure.com/temoaya-estado-de-mexico/"}
+      {
+        "titulo": "México Desconocido: Tapetes de Temoaya",
+        "url": "https://www.mexicodesconocido.com.mx/tapetes-de-temoaya.html"
+      },
+      {
+        "titulo": "México Desconocido: Temoaya, la Persia de los tapetes",
+        "url": "https://escapadas.mexicodesconocido.com.mx/temoaya-la-persia-de-los-tapetes-en-el-estado-de-mexico/"
+      },
+      {
+        "titulo": "Food and Pleasure: Temoaya, Estado de México",
+        "url": "https://foodandpleasure.com/temoaya-estado-de-mexico/"
+      }
     ],
     "verificado": true
   }
