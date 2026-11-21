@@ -72,7 +72,7 @@ docs/fotos-faltantes.md
 
 ---
 
-### Tarea 1: Base del proyecto y validador de datos
+### Task 1: Base del proyecto y validador de datos
 
 **Archivos:**
 - Crear: `package.json` (`"type": "module"`, script `"test": "node --test tests/"`), `.gitignore` (`node_modules/`), `README.md` (cómo servir la página y cómo correr las pruebas, en español), carpetas vacías con `.gitkeep`, `vendor/leaflet/` (`leaflet.js`, `leaflet.css` e `images/` copiados de `node_modules/leaflet/dist` después de `npm install leaflet@1.9.4 --no-save`)
@@ -97,7 +97,7 @@ docs/fotos-faltantes.md
 - [ ] **Paso 5:** ejecutar `npm test` → PASA.
 - [ ] **Paso 6:** commit con el mensaje `chore: base del proyecto y validador de datos`.
 
-### Tarea 2: Investigación de los 5 pueblos → `data/pueblos.json`
+### Task 2: Investigación de los 5 pueblos → `data/pueblos.json`
 
 **Archivos:** modificar `data/pueblos.json`.
 
@@ -107,19 +107,19 @@ docs/fotos-faltantes.md
 - [ ] **Paso 4:** ejecutar `npm test` → PASA (5 pueblos, ids exactos, bilingüe completo, coordenadas dentro del Edomex).
 - [ ] **Paso 5:** crear `docs/investigacion-pendiente.md` con la lista de datos `verificado:false` para que el equipo los revise. Hacer commit con el mensaje `content: investigación de pueblos`.
 
-### Tarea 3: Destinos y zonas arqueológicas → `data/destinos.json`, `data/zonas.json`
+### Task 3: Destinos y zonas arqueológicas → `data/destinos.json`, `data/zonas.json`
 
 - [ ] **Paso 1:** destinos. Por pueblo, de 2 a 4 lugares visitables ligados a él (a confirmar: Centro Ceremonial Otomí en Temoaya, San Felipe del Progreso, San Francisco Oxtotilpan, San Juan Atzingo). Cada uno con `como_llegar` (desde Toluca y desde CDMX, en términos generales) y actividades con `ambiente`.
 - [ ] **Paso 2:** zonas. Todas las zonas arqueológicas del Edomex que el INAH tiene abiertas al público (al menos Teotihuacán, Malinalco, Calixtlahuaca, Teotenango, Huamango, Acozac, Tlapacoya y San Miguel Ixtapan), con `inah_url`. **Sin horarios ni precios.**
 - [ ] **Paso 3:** ejecutar `npm test` → PASA. Hacer commit con el mensaje `content: destinos y zonas arqueológicas`.
 
-### Tarea 4: Fotos → `assets/img/`, `data/fotos.json`
+### Task 4: Fotos → `assets/img/`, `data/fotos.json`
 
 - [ ] **Paso 1:** para cada `foto` en pueblos, destinos y zonas, buscar en Wikimedia Commons una imagen con licencia CC BY, CC BY-SA, CC0 o dominio público. Descargar la versión de 1280 px de ancho (`https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/<Archivo>&width=1280`) a `assets/img/<clave>.jpg`. Registrar `autor`, `licencia`, `url_original` y `alt` bilingüe.
 - [ ] **Paso 2:** si no hay foto libre, dejar `foto: null` y anotar el lugar en `docs/fotos-faltantes.md`.
 - [ ] **Paso 3:** ejecutar `npm test` → PASA. Comprobar que el total de `assets/img/` pese menos de 25 MB. Hacer commit.
 
-### Tarea 5: Sistema de diseño y 3 propuestas del ajolote — **PUNTO DE CONTROL DEL USUARIO**
+### Task 5: Sistema de diseño y 3 propuestas del ajolote — **PUNTO DE CONTROL DEL USUARIO**
 
 **Archivos:** crear `css/tokens.css`, `css/base.css`, `docs/diseno/propuestas-ajolote.html`, `.impeccable/` (lo que genere `init`).
 
@@ -128,14 +128,14 @@ docs/fotos-faltantes.md
 - [ ] **Paso 3:** dibujar 3 ajolotes SVG con estilos distintos: (a) tierno redondo con contorno grueso, parecido al de la imagen; (b) plano geométrico sin contorno; (c) estilo bordado otomí (tenango), con patrones. Los tres llevan blusa bordada y mochila, y están en la pose "saludando". Mostrarlos lado a lado en `docs/diseno/propuestas-ajolote.html` sobre el fondo crema y sobre el verde del encabezado.
 - [ ] **Paso 4:** **detenerse y pedir al usuario que elija.** No seguir con la Tarea 6 sin su respuesta. Hacer commit.
 
-### Tarea 6: Ilustraciones SVG en el estilo elegido
+### Task 6: Ilustraciones SVG en el estilo elegido
 
 **Archivos:** crear en `assets/svg/` los archivos `ajolote-saluda.svg`, `ajolote-senala.svg`, `ajolote-lee.svg`, `ajolote-duerme.svg`, `logo-piramide.svg`, `papel-picado.svg` (tira repetible), `flor-cempasuchil.svg`, `flor-bugambilia.svg`, `nopal.svg`, `volcan-iglesia.svg` (fondo de la portada) e íconos de categoría (`ico-artesanias.svg`, `ico-gastronomia.svg`, `ico-festividades.svg`, `ico-sitios.svg`, `ico-pueblos.svg`).
 
 - [ ] **Paso 1:** dibujar todo en el estilo elegido, usando solo los colores de `tokens.css` (como valores fijos en el SVG o con `currentColor` en los íconos). Cada archivo debe pesar menos de 40 KB y llevar `viewBox`, sin `width`/`height` fijos.
 - [ ] **Paso 2:** revisar visualmente con Playwright una hoja `docs/diseno/ilustraciones.html` que muestre todas. Hacer commit.
 
-### Tarea 7: Lógica central (datos, idioma, búsqueda, Mi Ruta)
+### Task 7: Lógica central (datos, idioma, búsqueda, Mi Ruta)
 
 **Archivos:** crear `js/datos.js`, `js/i18n.js`, `js/buscar.js`, `js/mi-ruta.js`, `i18n/es.json`, `i18n/en.json`, `tests/logica.test.js`.
 
@@ -171,7 +171,7 @@ docs/fotos-faltantes.md
 - [ ] **Paso 3:** implementar los 4 módulos y llenar `i18n/es.json` y `en.json` con todos los textos fijos: menú, botones, títulos de sección, mensajes de error (`SIN_SERVIDOR`, `SIN_DATOS`, no encontrado, mapa sin internet, ruta vacía) y el lema del pie.
 - [ ] **Paso 4:** ejecutar `npm test` → PASA. Hacer commit.
 
-### Tarea 8: Encabezado, pie y estilos de componentes
+### Task 8: Encabezado, pie y estilos de componentes
 
 **Archivos:** crear `js/layout.js` y `css/componentes.css`.
 
@@ -182,14 +182,14 @@ docs/fotos-faltantes.md
 - [ ] **Paso 1:** implementar siguiendo el diseño (tira de papel picado, botones de menú de colores, botón Mi Ruta rosa). En celular, el menú se vuelve un botón de hamburguesa accesible (con `aria-expanded`), y todo funciona con teclado y con foco visible.
 - [ ] **Paso 2:** con una página de prueba temporal, verificar con Playwright a 1280 px y 375 px: el cambio ES→EN cambia el menú, la búsqueda "malinalco" muestra un resultado y no hay errores en la consola. Abrir la página con `file://` y confirmar que se ve el aviso `SIN_SERVIDOR`. Hacer commit.
 
-### Tarea 9: Portada `index.html`
+### Task 9: Portada `index.html`
 
 **Archivos:** crear `index.html` y `js/paginas/inicio.js`.
 
 - [ ] **Paso 1:** maquetar las secciones del diseño en este orden: portada (ajolote saludando, título, banda, lema, fondo de volcán e iglesia, nopales y flores), buscador grande (usa `buscar`), 5 tarjetas de categoría (enlaces según la sección 9 del diseño), "Nuestros Destinos" (4 tarjetas: 2 destinos y 2 zonas, con foto y ♥), recuadro "Nuestros Pueblos Indígenas" (lista de 5 y "Conoce más" → `pueblos.html`) y mini mapa (Tarea 10).
 - [ ] **Paso 2:** verificar con Playwright en los dos tamaños y los dos idiomas, comparando contra `docs/diseno/referencia.jpg`. Hacer commit.
 
-### Tarea 10: Mapa
+### Task 10: Mapa
 
 **Archivos:** crear `js/mapa.js`; modificar `js/paginas/inicio.js`.
 
@@ -201,7 +201,7 @@ docs/fotos-faltantes.md
 - [ ] **Paso 2:** implementar `crearMapa` y el mini mapa de la portada (alto de 320 px).
 - [ ] **Paso 3:** verificar con Playwright: aparecen los marcadores, la ventanita abre y ♥ actualiza el contador. Con la red de teselas bloqueada (`route` de `*.tile.openstreetmap.org` abortada), aparece el aviso. Hacer commit.
 
-### Tarea 11: Pueblos y ficha de pueblo
+### Task 11: Pueblos y ficha de pueblo
 
 **Archivos:** crear `pueblos.html`, `pueblo.html`, `js/paginas/pueblos.js` y `js/paginas/pueblo.js`.
 
@@ -209,7 +209,7 @@ docs/fotos-faltantes.md
 - [ ] **Paso 2:** `pueblo.html?id=` muestra: cabecera con foto y nombre propio, reseña, lengua, "Frases para saludar" (solo las verificadas; si no hay, la sección se oculta), gastronomía, festividades (con fecha), artesanías, costumbres, mapa de sus destinos, fuentes y créditos de foto. Si el `id` falta o no existe, muestra "no encontrado" con `ajolote-duerme.svg` y enlace a `pueblos.html`.
 - [ ] **Paso 3:** verificar con Playwright `pueblo.html?id=otomi` en ES y EN, `pueblo.html?id=xyz` y `pueblo.html`. Hacer commit.
 
-### Tarea 12: Zonas arqueológicas y categorías
+### Task 12: Zonas arqueológicas y categorías
 
 **Archivos:** crear `zonas.html`, `categoria.html`, `js/paginas/zonas.js` y `js/paginas/categoria.js`.
 
@@ -217,7 +217,7 @@ docs/fotos-faltantes.md
 - [ ] **Paso 2:** `categoria.html?tipo=` acepta `artesanias`, `gastronomia` y `festividades`, y reúne esa lista de los 5 pueblos agrupada por pueblo, con enlace a su ficha. Con un `tipo` inválido, muestra "no encontrado".
 - [ ] **Paso 3:** verificar con Playwright los 3 tipos, uno inválido y `zonas.html#zona-malinalco` (que haga scroll hasta esa tarjeta). Hacer commit.
 
-### Tarea 13: Explora, Galería, Acerca de, Mi Ruta y 404
+### Task 13: Explora, Galería, Acerca de, Mi Ruta y 404
 
 **Archivos:** crear `explora.html`, `galeria.html`, `acerca.html`, `mi-ruta.html`, `404.html` y su JS en `js/paginas/`.
 
@@ -228,7 +228,7 @@ docs/fotos-faltantes.md
 - [ ] **Paso 5:** `404.html` muestra el ajolote dormido y enlace al inicio.
 - [ ] **Paso 6:** verificar con Playwright: agregar 2 lugares desde Explora, verlos en Mi Ruta, quitar uno y recargar (persiste). Hacer commit.
 
-### Tarea 14: Revisión final y pulido
+### Task 14: Revisión final y pulido
 
 - [ ] **Paso 1:** ejecutar `/impeccable critique` y `/impeccable audit`, y corregir lo importante.
 - [ ] **Paso 2:** ejecutar `/impeccable polish`.
