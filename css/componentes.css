@@ -185,3 +185,7 @@ main:focus { outline: none; }
 
 .creditos { font-size: var(--t-xs); color: var(--texto-suave); }
 .creditos a { color: inherit; }
+
+/* El aviso inicial solo se ve si el JavaScript no llega a cargar (por ejemplo, con doble clic). */
+#aviso-inicial { animation: aparecer 0s 2.5s both; }
+@keyframes aparecer { from { visibility: hidden; } to { visibility: visible; } }

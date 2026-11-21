@@ -33,3 +33,22 @@ fuente, y que las coordenadas caigan dentro del Estado de México.
 | `assets/` | Fotos, ilustraciones SVG y letras |
 | `vendor/leaflet/` | Librería del mapa (Leaflet 1.9.4) |
 | `docs/` | Diseño, plan e investigación |
+
+## Cambiar la imagen del ajolote
+Las rutas del ajolote están en `js/recursos.js` (constante `AJOLOTE`). Guarda tu imagen
+(de preferencia PNG con fondo transparente) en `assets/img/` y cambia ahí la ruta.
+
+## Actualizar el contenido
+1. Edita los borradores en `docs/investigacion/borradores/`.
+2. Ejecuta `node scripts/unir-investigacion.mjs` (junta todo en `data/`).
+3. Si agregaste fotos: `node scripts/bajar-fotos.mjs`.
+4. Ejecuta `node scripts/listar-pendientes.mjs` y `npm test`.
+
+Los datos con `"verificado": false` se guardan pero no se muestran. La lista está en
+`docs/investigacion-pendiente.md`; las fotos que faltan, en `docs/fotos-faltantes.md`.
+
+## Publicar gratis en GitHub Pages
+1. Crea un repositorio en GitHub y sube esta carpeta.
+2. En el repositorio: *Settings → Pages → Build and deployment*, elige la rama y la carpeta `/ (root)`.
+3. En unos minutos la página queda en `https://<tu-usuario>.github.io/<repositorio>/`.
+Todas las rutas son relativas, así que funciona sin cambios.
