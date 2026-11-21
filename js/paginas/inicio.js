@@ -26,10 +26,7 @@ const destacados = [
 
 document.getElementById("principal").innerHTML = `
   <section class="heroe" aria-labelledby="titulo-heroe">
-    <img class="heroe__fondo" src="assets/svg/paisaje.svg" alt="" aria-hidden="true">
-    <img class="heroe__nopal" src="assets/svg/nopal.svg" alt="" aria-hidden="true">
-    <img class="heroe__flor heroe__flor--1" src="assets/svg/flor-bugambilia.svg" alt="" aria-hidden="true">
-    <img class="heroe__flor heroe__flor--2" src="assets/svg/flor-cempasuchil.svg" alt="" aria-hidden="true">
+    <img class="heroe__fondo" src="assets/img/portada-paisaje.jpg" alt="" aria-hidden="true" width="1973" height="528">
     <div class="heroe__contenido envoltura">
       <img class="heroe__ajolote" src="${AJOLOTE.saluda}" alt="${idioma === "es" ? "Ajolote mascota saludando" : "Axolotl mascot waving"}" width="260" height="312">
       <div class="heroe__texto">
