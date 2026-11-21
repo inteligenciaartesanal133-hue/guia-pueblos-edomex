@@ -23,6 +23,8 @@ npm test
 Las pruebas revisan, entre otras cosas, que todos los datos tengan su traducción y
 fuente, y que las coordenadas caigan dentro del Estado de México.
 
+Para la explicación completa de cómo funciona todo, lee [docs/COMO-FUNCIONA.md](docs/COMO-FUNCIONA.md).
+
 ## Dónde está cada cosa
 | Carpeta | Qué guarda |
 |---|---|
