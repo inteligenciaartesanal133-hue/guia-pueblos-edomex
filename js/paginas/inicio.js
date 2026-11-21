@@ -10,11 +10,11 @@ const ctx = await iniciarPagina("inicio");
 const { datos, t, txt, idioma, almacen, indice } = ctx;
 
 const CATEGORIAS = [
-  { clave: "catArtesanias", url: "categoria.html?tipo=artesanias", icono: "ico-artesanias", color: "verde" },
-  { clave: "catGastronomia", url: "categoria.html?tipo=gastronomia", icono: "ico-gastronomia", color: "amarillo" },
-  { clave: "catFestividades", url: "categoria.html?tipo=festividades", icono: "ico-festividades", color: "rosa" },
-  { clave: "catSitios", url: "zonas.html", icono: "ico-sitios", color: "morado" },
-  { clave: "catPueblos", url: "pueblos.html", icono: "ico-pueblos", color: "verde" },
+  { clave: "catArtesanias", url: "categoria.html?tipo=artesanias", imagen: "cat-artesanias" },
+  { clave: "catGastronomia", url: "categoria.html?tipo=gastronomia", imagen: "cat-gastronomia" },
+  { clave: "catFestividades", url: "categoria.html?tipo=festividades", imagen: "cat-festividades" },
+  { clave: "catSitios", url: "zonas.html", imagen: "cat-sitios" },
+  { clave: "catPueblos", url: "pueblos.html", imagen: "cat-pueblos" },
 ];
 
 // Destacados: 2 comunidades con foto y 2 zonas con foto.
@@ -56,9 +56,9 @@ document.getElementById("principal").innerHTML = `
   <nav class="categorias envoltura" aria-label="${esc(idioma === "es" ? "Categorías" : "Categories")}">
     <ul>
       ${CATEGORIAS.map((c) => `
-        <li><a class="categoria categoria--${c.color}" href="${c.url}">
-          <img src="assets/svg/${c.icono}.svg" alt="" width="44" height="44">
-          <span>${esc(t(c.clave))}</span>
+        <li class="${c.imagen === "cat-pueblos" ? "categoria-ancha" : ""}"><a class="categoria-papel" href="${c.url}">
+          <img src="assets/img/${c.imagen}.png" alt="${esc(t(c.clave))}" loading="lazy">
+          ${idioma === "es" ? "" : `<span class="categoria-papel__en">${esc(t(c.clave))}</span>`}
         </a></li>`).join("")}
     </ul>
   </nav>

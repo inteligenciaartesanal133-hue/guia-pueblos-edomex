@@ -115,3 +115,17 @@ main { padding-top: 0; }
   .categorias li:last-child { grid-column: 1 / -1; }
   .mapa-cabecera img { width: 72px; }
 }
+
+/* Categorias con papel picado (imagenes del equipo). En ingles se agrega el nombre debajo. */
+.categorias ul { grid-template-columns: repeat(4, 1fr) 1.7fr; align-items: center; }
+.categoria-papel { display: grid; justify-items: center; gap: var(--e-1); text-decoration: none; border-radius: var(--radio); }
+.categoria-papel img {
+  width: 100%; height: auto; filter: drop-shadow(0 6px 8px rgba(74, 21, 48, 0.22));
+  transition: transform var(--movimiento), filter var(--movimiento);
+}
+.categoria-papel:hover img { transform: translateY(-4px) rotate(-1.5deg); filter: drop-shadow(0 12px 14px rgba(74, 21, 48, 0.28)); }
+.categoria-papel__en { font-family: var(--letra-titulo); font-weight: 600; color: var(--texto); }
+@media (max-width: 960px) {
+  .categorias ul { grid-template-columns: repeat(2, 1fr); }
+  .categoria-ancha { grid-column: 1 / -1; justify-self: center; width: min(100%, 420px); }
+}
