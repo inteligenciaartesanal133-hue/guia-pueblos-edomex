@@ -62,13 +62,6 @@
   height: 46px; background: url("../assets/img/tira-papel-picado.png") repeat-x 0 0 / auto 46px;
   position: absolute; left: 0; right: 0; top: 100%; pointer-events: none;
 }
-/* En el pie: tirita calada del mismo color que el pie (la forma es una mascara) */
-.papel-picado--pie {
-  position: static; height: 40px; background: var(--barra); transform: scaleY(-1);
-  -webkit-mask: url("../assets/svg/papel-picado.svg") repeat-x 0 0 / 76px 40px;
-  mask: url("../assets/svg/papel-picado.svg") repeat-x 0 0 / 76px 40px;
-}
-
 /* Buscador desplegable */
 .buscador { padding-bottom: var(--e-4); }
 .buscador__form input {
@@ -104,7 +97,11 @@
 }
 
 /* ================= Pie ================= */
-.pie { background: linear-gradient(transparent 40px, var(--barra) 40px); color: var(--blanco); margin-top: var(--e-8); }
+.pie { background: var(--barra); color: var(--blanco); margin-top: var(--e-8); }
+/* Adorno del pie: linea recta con volutas al centro */
+.pie__adorno { display: flex; align-items: center; gap: 0; padding-top: var(--e-5); color: var(--amarillo); }
+.pie__adorno svg { flex-shrink: 0; width: 150px; height: 40px; }
+.pie__linea { flex: 1; height: 2.6px; background: currentColor; border-radius: 1px; margin-top: 15px; }
 /* Pie: logo a la izquierda, lema exactamente al centro, hashtag a la derecha.
    Las columnas de los lados miden lo mismo (1fr) para que el lema quede centrado. */
 .pie__contenido { display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: var(--e-5); padding-block: var(--e-6); }

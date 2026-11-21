@@ -145,7 +145,16 @@ function pintarPie(t) {
   const pie = document.getElementById("pie");
   pie.className = "pie";
   pie.innerHTML = `
-    <div class="papel-picado papel-picado--pie" aria-hidden="true"></div>
+    <div class="pie__adorno envoltura" aria-hidden="true">
+      <span class="pie__linea"></span>
+      <svg viewBox="0 0 120 32" width="150" height="40" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M2 22 H34 C40 22 44 18 44 13 C44 8 39 6 36 9 C33 12 37 15 40 13"/>
+        <path d="M118 22 H86 C80 22 76 18 76 13 C76 8 81 6 84 9 C87 12 83 15 80 13"/>
+        <rect x="48" y="18" width="24" height="7" rx="2"/>
+        <path d="M60 18 C60 12 55 9 52 11 M60 18 C60 12 65 9 68 11 M60 16 V5 M57 8 L60 4 L63 8"/>
+      </svg>
+      <span class="pie__linea"></span>
+    </div>
     <div class="pie__contenido envoltura">
       <a class="marca marca--pie" href="index.html">
         <img class="marca__logo" src="assets/svg/logo-piramide.svg" alt="" width="48" height="33">
