@@ -1,17 +1,17 @@
 /* componentes.css — piezas que se repiten: encabezado, pie, tarjetas, botones, mapa. */
 
 /* ================= Encabezado ================= */
-.encabezado { position: relative; z-index: 20; background: var(--verde); color: var(--blanco); }
+.encabezado { position: relative; z-index: 20; background: var(--rosa-palo); color: var(--texto); }
 .encabezado__barra {
   display: flex; align-items: center; gap: var(--e-4);
   min-height: 76px; padding-block: var(--e-3);
 }
 .marca { display: flex; align-items: center; gap: var(--e-3); color: inherit; text-decoration: none; margin-right: auto; }
 .marca:hover { color: inherit; }
-.marca__logo { width: 48px; height: auto; filter: brightness(0) invert(1); }
+.marca__logo { width: 48px; height: auto; }
 .marca__texto { display: grid; line-height: 1; }
 .marca__nombre { font-family: var(--letra-titulo); font-weight: 700; font-size: 1.6rem; letter-spacing: -0.01em; }
-.marca__sub { font-family: var(--letra-rotulo); font-size: 0.95rem; color: var(--amarillo-claro); margin-top: 2px; }
+.marca__sub { font-family: var(--letra-rotulo); font-size: 0.95rem; color: var(--morado); margin-top: 2px; }
 
 .menu ul { display: flex; flex-wrap: wrap; gap: var(--e-2); list-style: none; margin: 0; padding: 0; }
 .menu__enlace {
@@ -36,9 +36,9 @@
 .encabezado__acciones { display: flex; align-items: center; gap: var(--e-2); }
 .boton-icono {
   display: inline-grid; place-items: center; width: 44px; height: 44px;
-  border-radius: 50%; border: 2px solid rgba(255, 255, 255, 0.6); background: transparent; color: var(--blanco);
+  border-radius: 50%; border: 2px solid rgba(59, 26, 46, 0.35); background: transparent; color: var(--texto);
 }
-.boton-icono:hover { background: rgba(255, 255, 255, 0.15); }
+.boton-icono:hover { background: rgba(59, 26, 46, 0.08); }
 .encabezado__menu { display: none; }
 .boton-ruta {
   display: inline-flex; align-items: center; gap: var(--e-2); min-height: 44px; padding: 0 var(--e-4);
@@ -53,18 +53,18 @@
 .boton-ruta__cuenta[hidden] { display: none; }
 .boton-idioma {
   display: inline-flex; align-items: center; gap: 6px; min-height: 44px; padding: 0 var(--e-3);
-  border-radius: var(--radio-pill); border: 2px solid rgba(255, 255, 255, 0.6); background: transparent; color: var(--blanco); font-weight: 800;
+  border-radius: var(--radio-pill); border: 2px solid rgba(59, 26, 46, 0.35); background: transparent; color: var(--texto); font-weight: 800;
 }
-.boton-idioma:hover { background: rgba(255, 255, 255, 0.15); }
+.boton-idioma:hover { background: rgba(59, 26, 46, 0.08); }
 
 /* Tira de papel picado: la forma es una mascara, el color lo pone background */
 .papel-picado {
-  height: 40px; background: var(--verde);
+  height: 40px; background: var(--rosa-palo-oscuro);
   -webkit-mask: url("../assets/svg/papel-picado.svg") repeat-x 0 0 / 76px 40px;
   mask: url("../assets/svg/papel-picado.svg") repeat-x 0 0 / 76px 40px;
   position: absolute; left: 0; right: 0; top: 100%;
 }
-.papel-picado--pie { position: static; background: var(--morado); transform: scaleY(-1); }
+.papel-picado--pie { position: static; background: var(--rosa-palo); transform: scaleY(-1); }
 
 /* Buscador desplegable */
 .buscador { padding-bottom: var(--e-4); }
@@ -101,19 +101,19 @@
 }
 
 /* ================= Pie ================= */
-.pie { background: linear-gradient(transparent 40px, var(--morado) 40px); color: var(--blanco); margin-top: var(--e-8); }
+.pie { background: linear-gradient(transparent 40px, var(--rosa-palo) 40px); color: var(--texto); margin-top: var(--e-8); }
 /* Pie: logo a la izquierda, lema exactamente al centro, hashtag a la derecha.
    Las columnas de los lados miden lo mismo (1fr) para que el lema quede centrado. */
 .pie__contenido { display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: var(--e-5); padding-block: var(--e-6); }
 .pie__contenido .marca { margin-right: 0; justify-self: start; }
-.pie__lema { font-family: var(--letra-rotulo); font-size: var(--t-xl); margin: 0; max-width: none; text-align: center; color: var(--amarillo-claro); }
+.pie__lema { font-family: var(--letra-rotulo); font-size: var(--t-xl); margin: 0; max-width: none; text-align: center; color: var(--rosa-hover); }
 .pie__extra { justify-self: end; }
 .pie__extra p { margin: 0; }
 @media (max-width: 720px) {
   .pie__contenido { grid-template-columns: 1fr; justify-items: center; text-align: center; }
   .pie__contenido .marca, .pie__extra { justify-self: center; }
 }
-.pie__hashtag { display: inline-block; background: var(--rosa-claro); color: var(--texto); padding: var(--e-2) var(--e-4); border-radius: var(--radio-pill); font-weight: 800; }
+.pie__hashtag { display: inline-block; background: var(--blanco); color: var(--texto); padding: var(--e-2) var(--e-4); border-radius: var(--radio-pill); font-weight: 800; }
 
 /* ================= Secciones y titulos ================= */
 main { display: block; padding-top: 40px; }
