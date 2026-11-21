@@ -154,8 +154,6 @@ function pintarPie(t) {
       <p class="pie__lema">${esc(t("pieLema"))}</p>
       <div class="pie__extra">
         <p class="pie__hashtag">#EdoMéxTurístico</p>
-        <p class="pie__nota">${esc(t("pieRedes"))}</p>
       </div>
-    </div>
-    <p class="pie__legal envoltura">${esc(t("pieNota"))}</p>`;
+    </div>`;
 }

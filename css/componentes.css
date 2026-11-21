@@ -102,7 +102,7 @@
 
 /* ================= Pie ================= */
 .pie { background: linear-gradient(transparent 40px, var(--morado) 40px); color: var(--blanco); margin-top: var(--e-8); }
-.pie__contenido { display: flex; flex-wrap: wrap; align-items: center; gap: var(--e-5); padding-block: var(--e-6) var(--e-4); }
+.pie__contenido { display: flex; flex-wrap: wrap; align-items: center; gap: var(--e-5); padding-block: var(--e-6); }
 .pie__lema { font-family: var(--letra-rotulo); font-size: var(--t-xl); margin: 0 auto; text-align: center; color: var(--amarillo-claro); }
 .pie__extra p { margin: 0; text-align: right; }
 .pie__hashtag { display: inline-block; background: var(--rosa-claro); color: var(--texto); padding: var(--e-2) var(--e-4); border-radius: var(--radio-pill); font-weight: 800; }
