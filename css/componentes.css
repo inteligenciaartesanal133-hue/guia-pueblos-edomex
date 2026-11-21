@@ -1,7 +1,7 @@
 /* componentes.css — piezas que se repiten: encabezado, pie, tarjetas, botones, mapa. */
 
 /* ================= Encabezado ================= */
-.encabezado { position: relative; z-index: 20; background: var(--rojo); color: var(--blanco); }
+.encabezado { position: relative; z-index: 20; background: var(--barra); color: var(--blanco); }
 .encabezado__barra {
   display: flex; align-items: center; gap: var(--e-4);
   min-height: 76px; padding-block: var(--e-3);
@@ -59,12 +59,12 @@
 
 /* Tira de papel picado: la forma es una mascara, el color lo pone background */
 .papel-picado {
-  height: 40px; background: var(--rojo-oscuro);
+  height: 40px; background: var(--barra-tira);
   -webkit-mask: url("../assets/svg/papel-picado.svg") repeat-x 0 0 / 76px 40px;
   mask: url("../assets/svg/papel-picado.svg") repeat-x 0 0 / 76px 40px;
   position: absolute; left: 0; right: 0; top: 100%;
 }
-.papel-picado--pie { position: static; background: var(--rojo); transform: scaleY(-1); }
+.papel-picado--pie { position: static; background: var(--barra); transform: scaleY(-1); }
 
 /* Buscador desplegable */
 .buscador { padding-bottom: var(--e-4); }
@@ -101,7 +101,7 @@
 }
 
 /* ================= Pie ================= */
-.pie { background: linear-gradient(transparent 40px, var(--rojo) 40px); color: var(--blanco); margin-top: var(--e-8); }
+.pie { background: linear-gradient(transparent 40px, var(--barra) 40px); color: var(--blanco); margin-top: var(--e-8); }
 /* Pie: logo a la izquierda, lema exactamente al centro, hashtag a la derecha.
    Las columnas de los lados miden lo mismo (1fr) para que el lema quede centrado. */
 .pie__contenido { display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: var(--e-5); padding-block: var(--e-6); }
