@@ -51,3 +51,10 @@ test("los datos reales de data/ son validos", () => {
   const datos = { pueblos: leer("pueblos"), destinos: leer("destinos"), zonas: leer("zonas"), fotos: leer("fotos") };
   assert.deepEqual(validarTodo(datos), []);
 });
+
+test("i18n/es.json e i18n/en.json tienen las mismas claves y ninguna vacia", () => {
+  const leer = (n) => JSON.parse(readFileSync(new URL(`../i18n/${n}.json`, import.meta.url), "utf8"));
+  const es = leer("es"), en = leer("en");
+  assert.deepEqual(Object.keys(en).sort(), Object.keys(es).sort());
+  for (const [k, v] of [...Object.entries(es), ...Object.entries(en)]) assert.ok(String(v).trim(), `vacio: ${k}`);
+});
