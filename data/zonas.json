@@ -1,1 +1,951 @@
-[]
+[
+  {
+    "id": "zona-teotihuacan",
+    "nombre": {
+      "es": "Zona Arqueológica de Teotihuacán",
+      "en": "Teotihuacan Archaeological Zone"
+    },
+    "municipio": "San Juan Teotihuacán",
+    "lat": 19.6925,
+    "lon": -98.8438,
+    "cultura": {
+      "es": "Teotihuacana",
+      "en": "Teotihuacan"
+    },
+    "resena": {
+      "es": "Teotihuacán, nombre náhuatl que significa «lugar donde fueron hechos los dioses», fue una de las ciudades más grandes de Mesoamérica, con más de cien mil habitantes en su apogeo. Fue sede del poder político, económico, comercial y religioso de una sociedad de gran influencia en todo el territorio mesoamericano. Se levanta en un valle rico en recursos naturales y, desde 1987, es Patrimonio Mundial de la UNESCO. Los mexicas la bautizaron así siglos después de su abandono, y se desconoce el nombre que le daban sus propios habitantes. Hoy conserva una traza monumental que se recorre a pie, con grandes plazas, templos y conjuntos residenciales.",
+      "en": "Teotihuacan, a Nahuatl name meaning \"place where the gods were made,\" was one of the largest cities in Mesoamerica, with more than one hundred thousand inhabitants at its height. It was the seat of political, economic, commercial and religious power for a society that influenced the whole Mesoamerican world. It stands in a valley rich in natural resources and has been a UNESCO World Heritage Site since 1987. The Mexicas gave it this name centuries after it was abandoned, and the name its own people used is unknown. Today it preserves a monumental layout that visitors explore on foot, with great plazas, temples and residential compounds."
+    },
+    "como_llegar": {
+      "es": "Desde la Ciudad de México, por la autopista México-Pachuca hasta la autopista Ecatepec-Pirámides, o por la carretera libre México-Teotihuacán; son cerca de 50 minutos a 1 hora en auto, y también hay autobuses desde la terminal del norte. Desde Toluca conviene pasar por la Ciudad de México o tomar el Arco Norte; calcule alrededor de 2 horas a 2 horas y media.",
+      "en": "From Mexico City, take the Mexico-Pachuca highway to the Ecatepec-Pirámides highway, or the free road to Teotihuacan; it is roughly 50 minutes to 1 hour by car, and buses also leave from the northern bus terminal. From Toluca, go through Mexico City or take the Arco Norte; allow about 2 to 2.5 hours."
+    },
+    "que_ver": [
+      {
+        "es": "Pirámide del Sol y Pirámide de la Luna",
+        "en": "Pyramid of the Sun and Pyramid of the Moon"
+      },
+      {
+        "es": "Calzada de los Muertos, eje de la ciudad",
+        "en": "Avenue of the Dead, the city's main axis"
+      },
+      {
+        "es": "Museo de la Pintura Mural Teotihuacana",
+        "en": "Teotihuacan Mural Painting Museum"
+      }
+    ],
+    "actividades": [
+      {
+        "nombre": {
+          "es": "Recorrido a pie por la Calzada de los Muertos",
+          "en": "Walk along the Avenue of the Dead"
+        },
+        "ambiente": "aire_libre"
+      },
+      {
+        "nombre": {
+          "es": "Visita al Museo de la Pintura Mural",
+          "en": "Visit the Mural Painting Museum"
+        },
+        "ambiente": "bajo_techo"
+      },
+      {
+        "nombre": {
+          "es": "Recorrido virtual 360° desde la página del INAH",
+          "en": "360° virtual tour on the INAH website"
+        },
+        "ambiente": "bajo_techo"
+      }
+    ],
+    "foto": "zona-teotihuacan",
+    "inah_url": "https://www.inah.gob.mx/zonas/23-zona-arqueologica-de-teotihuacan",
+    "fuentes": [
+      {
+        "titulo": "INAH - Zona Arqueológica de Teotihuacan",
+        "url": "https://www.inah.gob.mx/zonas/23-zona-arqueologica-de-teotihuacan"
+      },
+      {
+        "titulo": "UNESCO - Ciudad prehispánica de Teotihuacan",
+        "url": "https://whc.unesco.org/es/list/414/"
+      }
+    ],
+    "verificado": true
+  },
+  {
+    "id": "zona-malinalco",
+    "nombre": {
+      "es": "Zona Arqueológica de Malinalco",
+      "en": "Malinalco Archaeological Zone"
+    },
+    "municipio": "Malinalco",
+    "lat": 18.9514,
+    "lon": -99.4958,
+    "cultura": {
+      "es": "Matlatzinca y mexica",
+      "en": "Matlatzinca and Mexica"
+    },
+    "resena": {
+      "es": "Malinalco es un conjunto ceremonial y militar construido en la ladera del Cerro de los Ídolos. Un grupo local levantó los primeros vestigios antes de 1476, año en que los mexicas conquistaron la región. Su edificio principal, el Cuauhcalli o «Casa del Sol», se talló en la propia montaña a principios del siglo XVI, durante el gobierno del tlatoani Ahuizotl. Las construcciones funcionaban además como puestos de vigilancia desde los que se domina todo el valle. Para llegar hay que subir una larga escalinata de piedra, y la recompensa es una vista amplia del poblado y de sus alrededores.",
+      "en": "Malinalco is a ceremonial and military complex built on the slope of the Cerro de los Ídolos. A local group raised the earliest remains before 1476, the year the Mexicas conquered the region. Its main building, the Cuauhcalli or \"House of the Sun,\" was carved out of the mountain itself in the early sixteenth century, under the ruler Ahuizotl. The structures also served as lookout posts that command the whole valley. Reaching the site means climbing a long stone stairway, and the reward is a wide view of the town and its surroundings."
+    },
+    "como_llegar": {
+      "es": "Desde la Ciudad de México son unos 99 km por la carretera a Toluca hasta La Marquesa, y luego rumbo a Tenango del Valle; en Jajalpa se toma la desviación a Malinalco (cerca de 2 horas). Desde Toluca son unos 70 km por la vía Tenango-Jajalpa (alrededor de 1 hora y 20 minutos).",
+      "en": "From Mexico City it is about 99 km along the Toluca highway to La Marquesa, then toward Tenango del Valle; at Jajalpa take the turnoff to Malinalco (about 2 hours). From Toluca it is about 70 km via Tenango-Jajalpa (around 1 hour 20 minutes)."
+    },
+    "que_ver": [
+      {
+        "es": "Cuauhcalli o Casa del Sol, tallada en la roca",
+        "en": "Cuauhcalli, or House of the Sun, carved into the rock"
+      },
+      {
+        "es": "Puerta en forma de fauces de serpiente",
+        "en": "A doorway shaped like serpent jaws"
+      },
+      {
+        "es": "Águila de piedra y pedestales con ocelote y serpiente",
+        "en": "Stone eagle and pedestals with jaguar and serpent motifs"
+      }
+    ],
+    "actividades": [
+      {
+        "nombre": {
+          "es": "Ascenso por la escalinata al Cerro de los Ídolos",
+          "en": "Climb the stairway up the Cerro de los Ídolos"
+        },
+        "ambiente": "aire_libre"
+      },
+      {
+        "nombre": {
+          "es": "Observación del valle desde las terrazas",
+          "en": "Enjoy views of the valley from the terraces"
+        },
+        "ambiente": "aire_libre"
+      }
+    ],
+    "foto": "zona-malinalco",
+    "inah_url": "https://www.inah.gob.mx/zonas/135-zona-arqueologica-malinalco",
+    "fuentes": [
+      {
+        "titulo": "INAH - Zona Arqueológica Malinalco",
+        "url": "https://www.inah.gob.mx/zonas/135-zona-arqueologica-malinalco"
+      }
+    ],
+    "verificado": true
+  },
+  {
+    "id": "zona-calixtlahuaca",
+    "nombre": {
+      "es": "Zona Arqueológica de Calixtlahuaca",
+      "en": "Calixtlahuaca Archaeological Zone"
+    },
+    "municipio": "Toluca",
+    "lat": 19.328,
+    "lon": -99.689,
+    "cultura": {
+      "es": "Matlatzinca",
+      "en": "Matlatzinca"
+    },
+    "resena": {
+      "es": "Calixtlahuaca, «lugar de casas en la llanura» en náhuatl, se encuentra en la ladera norte del Cerro del Tenismó, cerca de la ciudad de Toluca. Fue un importante centro matlatzinca, con presencia previa de otomíes, teotihuacanos, toltecas, mazahuas y nahuas. Su ocupación va del Preclásico hasta la conquista mexica, entre 1471 y 1476, y el apogeo matlatzinca se ubica entre 1116 y 1474. Destacan los conjuntos El Panteón, Tláloc y Ehécatl Quetzalcóatl, alineados de sur a norte, además de vestigios de influencia teotihuacana como el juego de pelota y el culto a Quetzalcóatl y Tláloc.",
+      "en": "Calixtlahuaca, Nahuatl for \"place of houses on the plain,\" lies on the north slope of the Cerro del Tenismó, near the city of Toluca. It was an important Matlatzinca center, with earlier presence of Otomi, Teotihuacan, Toltec, Mazahua and Nahua peoples. It was occupied from the Preclassic until the Mexica conquest between 1471 and 1476, and the Matlatzinca peak falls between 1116 and 1474. Highlights are the El Panteón, Tláloc and Ehécatl Quetzalcóatl complexes, aligned from south to north, along with traces of Teotihuacan influence such as the ball court and the cult of Quetzalcoatl and Tlaloc."
+    },
+    "como_llegar": {
+      "es": "Desde la Ciudad de México, por la carretera México-Toluca (15) y luego la Toluca-Atlacomulco (55); unos 3 km adelante se toma la desviación al poblado de Calixtlahuaca, con señalamientos (cerca de 1 hora 30 minutos). Desde Toluca hay camiones que van a Calixtlahuaca (unos 20 a 30 minutos).",
+      "en": "From Mexico City, take the Mexico-Toluca highway (15) and then the Toluca-Atlacomulco road (55); about 3 km on, turn off toward the town of Calixtlahuaca, where the site is signposted (around 1 hour 30 minutes). From Toluca, buses run to Calixtlahuaca (about 20 to 30 minutes)."
+    },
+    "que_ver": [
+      {
+        "es": "Templo de Ehécatl Quetzalcóatl, de planta circular",
+        "en": "Temple of Ehécatl Quetzalcóatl, with a circular plan"
+      },
+      {
+        "es": "Conjunto de Tláloc",
+        "en": "The Tláloc complex"
+      },
+      {
+        "es": "Juego de pelota",
+        "en": "Ball court"
+      }
+    ],
+    "actividades": [
+      {
+        "nombre": {
+          "es": "Recorrido por los conjuntos ceremoniales",
+          "en": "Tour of the ceremonial complexes"
+        },
+        "ambiente": "aire_libre"
+      },
+      {
+        "nombre": {
+          "es": "Vista del valle de Toluca desde la ladera",
+          "en": "View of the Toluca valley from the hillside"
+        },
+        "ambiente": "aire_libre"
+      }
+    ],
+    "foto": "zona-calixtlahuaca",
+    "inah_url": "https://www.inah.gob.mx/zonas/129-zona-arqueologica-calixtlahuaca",
+    "fuentes": [
+      {
+        "titulo": "INAH - Zona Arqueológica Calixtlahuaca",
+        "url": "https://www.inah.gob.mx/zonas/129-zona-arqueologica-calixtlahuaca"
+      }
+    ],
+    "verificado": true
+  },
+  {
+    "id": "zona-teotenango",
+    "nombre": {
+      "es": "Zona Arqueológica de Teotenango",
+      "en": "Teotenango Archaeological Zone"
+    },
+    "municipio": "Tenango del Valle",
+    "lat": 19.0897,
+    "lon": -99.5983,
+    "cultura": {
+      "es": "Matlatzinca",
+      "en": "Matlatzinca"
+    },
+    "resena": {
+      "es": "Teotenango significa «en el lugar de la muralla sagrada o divina» en náhuatl. Fue una ciudad amurallada del valle de Toluca ocupada sucesivamente por varios grupos: los primeros pobladores, de raíces otomianas, se asentaron cerca del cerro Tetépetl, en el paraje Ojo de Agua; después llegó la influencia teotihuacana, hacia los años 600 a 700, y por último la ocupación mexica. Los matlatzincas, que se llamaban a sí mismos «gente del maíz», fueron agricultores. El sitio funcionó como centro cívico, religioso y militar, y su plaza principal y sus plataformas ocupan la cima de una larga loma.",
+      "en": "Teotenango means \"in the place of the sacred or divine wall\" in Nahuatl. It was a walled city in the Toluca valley occupied successively by several groups: the first settlers, with Otomian roots, settled near the Tetépetl hill, at a spot called Ojo de Agua; Teotihuacan influence followed around 600 to 700 CE, and finally the Mexica occupation. The Matlatzincas, who called themselves \"people of the maize,\" were farmers. The site served as a civic, religious and military center, and its main plaza and platforms occupy the top of a long ridge."
+    },
+    "como_llegar": {
+      "es": "Desde Toluca, por la carretera a Tenango del Valle, unos 30 minutos; la zona está en Tenango de Arista, sobre la avenida Dr. Román Piña Chan. Desde la Ciudad de México, por la carretera México-Toluca y rumbo a Tenango del Valle, cerca de 1 hora 45 minutos; también hay autobuses a Toluca y de ahí a Tenango.",
+      "en": "From Toluca, take the road to Tenango del Valle, about 30 minutes; the site is in Tenango de Arista, on Avenida Dr. Román Piña Chan. From Mexico City, take the Mexico-Toluca highway toward Tenango del Valle, about 1 hour 45 minutes; buses also run to Toluca and from there to Tenango."
+    },
+    "que_ver": [
+      {
+        "es": "Plaza del Jaguar",
+        "en": "Jaguar Plaza"
+      },
+      {
+        "es": "Estructura de la Serpiente, la mayor del sitio",
+        "en": "Serpent Structure, the largest in the site"
+      },
+      {
+        "es": "Muralla y cerro Tetépetl",
+        "en": "The wall and Tetépetl hill"
+      }
+    ],
+    "actividades": [
+      {
+        "nombre": {
+          "es": "Caminata por las plazas y plataformas",
+          "en": "Walk through the plazas and platforms"
+        },
+        "ambiente": "aire_libre"
+      },
+      {
+        "nombre": {
+          "es": "Visita al museo de sitio",
+          "en": "Visit the site museum"
+        },
+        "ambiente": "bajo_techo"
+      }
+    ],
+    "foto": "zona-teotenango",
+    "inah_url": "https://www.inah.gob.mx/zonas/44-zona-arqueologica-de-teotenango",
+    "fuentes": [
+      {
+        "titulo": "INAH - Zona Arqueológica de Teotenango",
+        "url": "https://www.inah.gob.mx/zonas/44-zona-arqueologica-de-teotenango"
+      },
+      {
+        "titulo": "Lugares INAH - Teotenango",
+        "url": "https://lugares.inah.gob.mx/en/node/4469"
+      }
+    ],
+    "verificado": true
+  },
+  {
+    "id": "zona-huamango",
+    "nombre": {
+      "es": "Zona Arqueológica de Huamango",
+      "en": "Huamango Archaeological Zone"
+    },
+    "municipio": "Acambay",
+    "lat": 19.9788,
+    "lon": -99.8686,
+    "cultura": {
+      "es": "Otomí",
+      "en": "Otomi"
+    },
+    "resena": {
+      "es": "Huamango, que significa «lugar de vigas» o «madera sin labrar», es un asentamiento otomí en la mesa de San Miguel, municipio de Acambay. Estuvo habitado entre los años 900 y 1300, con dos fases: una hacia 900 a 1100, con similitudes con Tula, y otra hacia 1200 a 1300, relacionada con Teotenango y Calixtlahuaca. Su posición estratégica permitía vigilar el movimiento de personas y productos. Se le considera un centro ceremonial, posiblemente dedicado al Padre Viejo (Sol y Fuego) y a la Madre Vieja (Luna y Tierra). Los objetos hallados en las exploraciones de 1976 y 1977 se resguardan en el Museo Antonio Ruiz Pérez, en Acambay.",
+      "en": "Huamango, meaning \"place of beams\" or \"unworked wood,\" is an Otomi settlement on the San Miguel mesa in the municipality of Acambay. It was inhabited between 900 and 1300 CE, in two phases: one around 900 to 1100, with similarities to Tula, and another around 1200 to 1300, linked to Teotenango and Calixtlahuaca. Its strategic position made it possible to watch the movement of people and goods. It is considered a ceremonial center, possibly dedicated to the Old Father (Sun and Fire) and the Old Mother (Moon and Earth). Objects found in the 1976 and 1977 excavations are kept in the Antonio Ruiz Pérez Museum in Acambay."
+    },
+    "como_llegar": {
+      "es": "Está a unos 5 km al norte de la cabecera de Acambay, sobre la carretera Panamericana (Toluca-Querétaro, km 93). Desde Toluca son cerca de 1 hora 30 minutos por la autopista Toluca-Atlacomulco; desde la Ciudad de México, alrededor de 2 horas 30 minutos.",
+      "en": "It lies about 5 km north of Acambay's town center, on the Pan-American highway (Toluca-Querétaro, km 93). From Toluca it is about 1 hour 30 minutes via the Toluca-Atlacomulco highway; from Mexico City, around 2 hours 30 minutes."
+    },
+    "que_ver": [
+      {
+        "es": "Mesa de San Miguel con vista al valle",
+        "en": "The San Miguel mesa and its valley views"
+      },
+      {
+        "es": "Museo Antonio Ruiz Pérez en Acambay, con las ofrendas halladas",
+        "en": "Antonio Ruiz Pérez Museum in Acambay, with the recovered offerings"
+      }
+    ],
+    "actividades": [
+      {
+        "nombre": {
+          "es": "Visita al sitio y a su entorno",
+          "en": "Visit the site and its surroundings"
+        },
+        "ambiente": "aire_libre"
+      },
+      {
+        "nombre": {
+          "es": "Visita al museo municipal de Acambay",
+          "en": "Visit the Acambay municipal museum"
+        },
+        "ambiente": "bajo_techo"
+      }
+    ],
+    "foto": "zona-huamango",
+    "inah_url": "https://www.inah.gob.mx/zonas/45-zona-arqueologica-de-huamango",
+    "fuentes": [
+      {
+        "titulo": "INAH - Zona Arqueológica de Huamango",
+        "url": "https://www.inah.gob.mx/zonas/45-zona-arqueologica-de-huamango"
+      }
+    ],
+    "verificado": true
+  },
+  {
+    "id": "zona-acozac",
+    "nombre": {
+      "es": "Zona Arqueológica de Acozac (Ixtapaluca)",
+      "en": "Acozac Archaeological Zone (Ixtapaluca)"
+    },
+    "municipio": "Ixtapaluca",
+    "lat": 19.3167,
+    "lon": -98.8667,
+    "cultura": {
+      "es": "Acolhua",
+      "en": "Acolhua"
+    },
+    "resena": {
+      "es": "Acozac, también llamada Ixtapaluca Viejo, fue la antigua Ixtapalocan, una ciudad fronteriza del señorío acolhua. Estuvo ocupada desde la fase teotihuacana (alrededor de 300 a 750) hasta el Posclásico, con su mayor auge entre 1350 y 1521. Según las fuentes históricas, resistió un ataque tepaneca en tiempos de Ixtlilxóchitl, pasó después al control de Chalco y volvió al dominio acolhua con Nezahualcóyotl. El nombre actual viene de la antigua hacienda de Acozac, en cuyos terrenos se ubica. Es una visita cercana a la Ciudad de México para conocer la historia de la frontera entre Texcoco y Chalco.",
+      "en": "Acozac, also called Old Ixtapaluca, was the ancient Ixtapalocan, a border city of the Acolhua realm. It was occupied from the Teotihuacan phase (about 300 to 750 CE) through the Postclassic, with its peak between 1350 and 1521. According to historical sources, it repelled a Tepanec attack under Ixtlilxochitl, later fell under Chalco's control, and returned to Acolhua rule under Nezahualcoyotl. Its present name comes from the former Acozac hacienda, on whose land it stands. It is an easy visit from Mexico City for anyone interested in the history of the frontier between Texcoco and Chalco."
+    },
+    "como_llegar": {
+      "es": "Desde la Ciudad de México, por la carretera federal México-Puebla hasta el km 30, con desvío a la izquierda y calles hacia la calle Tláloc Sur (cerca de 1 hora). También se llega en transporte público desde los metros Aeropuerto o La Paz. Desde Toluca, unas 2 horas por la autopista a la Ciudad de México y la México-Puebla.",
+      "en": "From Mexico City, take the federal Mexico-Puebla highway to km 30, turn left at the fork and follow local streets to Tláloc Sur (about 1 hour). It can also be reached by public transport from the Aeropuerto or La Paz metro stations. From Toluca, about 2 hours via the highway to Mexico City and then the Mexico-Puebla road."
+    },
+    "que_ver": [
+      {
+        "es": "Basamentos piramidales del antiguo Ixtapalocan",
+        "en": "Pyramid bases of ancient Ixtapalocan"
+      },
+      {
+        "es": "Entorno de la Sierra Nevada hacia el oriente",
+        "en": "Views of the Sierra Nevada to the east"
+      }
+    ],
+    "actividades": [
+      {
+        "nombre": {
+          "es": "Recorrido por el conjunto arqueológico",
+          "en": "Tour of the archaeological complex"
+        },
+        "ambiente": "aire_libre"
+      }
+    ],
+    "foto": "zona-acozac",
+    "inah_url": "https://www.inah.gob.mx/zonas/128-zona-arqueologica-azocac-o-ixtapaluca",
+    "fuentes": [
+      {
+        "titulo": "INAH - Zona Arqueológica Azocac o Ixtapaluca",
+        "url": "https://www.inah.gob.mx/zonas/128-zona-arqueologica-azocac-o-ixtapaluca"
+      },
+      {
+        "titulo": "México Desconocido - Las zonas arqueológicas del Estado de México",
+        "url": "https://www.mexicodesconocido.com.mx/zonas-arqueologicas-estado-de-mexico.html"
+      }
+    ],
+    "verificado": true
+  },
+  {
+    "id": "zona-tlapacoya",
+    "nombre": {
+      "es": "Zona Arqueológica de Tlapacoya",
+      "en": "Tlapacoya Archaeological Zone"
+    },
+    "municipio": "Ixtapaluca",
+    "lat": 19.31,
+    "lon": -98.9,
+    "cultura": {
+      "es": "Formativo (primeros pobladores de la Cuenca de México)",
+      "en": "Formative period (early settlers of the Basin of Mexico)"
+    },
+    "resena": {
+      "es": "Tlapacoya, «lugar donde se lava» en náhuatl, está al pie del cerro El Elefante. Sus primeros restos se fechan hacia el 7000 a. C., y el mayor crecimiento del sitio ocurrió en el Formativo tardío, entre 400 a. C. y 200 d. C. Destaca un basamento piramidal de varias plataformas construido en tres etapas. Los arqueólogos Beatriz Barba y Román Piña Chan lo investigaron en 1954 y 1955 y hallaron tres tumbas con restos humanos y ofrendas de conchas, jade, serpentina, obsidiana y cerámica. Es uno de los lugares que ayudan a entender cómo vivieron los primeros habitantes de la cuenca.",
+      "en": "Tlapacoya, Nahuatl for \"place where things are washed,\" lies at the foot of the Cerro El Elefante. Its earliest remains date to about 7000 BCE, and the site grew most in the Late Formative, between 400 BCE and 200 CE. Its highlight is a multi-platform pyramid base built in three stages. Archaeologists Beatriz Barba and Román Piña Chan studied it in 1954 and 1955 and found three tombs with human remains and offerings of shells, jade, serpentine, obsidian and pottery. It is one of the places that helps us understand how the first inhabitants of the basin lived."
+    },
+    "como_llegar": {
+      "es": "Desde la Ciudad de México, por la carretera federal México-Puebla (190); en el km 28 se gira a la derecha por la calle 5 de Mayo hasta la calle del Silencio (cerca de 1 hora). En transporte público, del metro Santa Martha en microbús rumbo a Chalco o Ayotla. Desde Toluca, unas 2 horas pasando por la Ciudad de México.",
+      "en": "From Mexico City, take the federal Mexico-Puebla highway (190); at km 28 turn right onto calle 5 de Mayo and continue to calle del Silencio (about 1 hour). By public transport, take a minibus toward Chalco or Ayotla from Santa Martha metro station. From Toluca, about 2 hours via Mexico City."
+    },
+    "que_ver": [
+      {
+        "es": "Basamento piramidal de plataformas superpuestas",
+        "en": "Pyramid base of stacked platforms"
+      },
+      {
+        "es": "Cerro El Elefante y su entorno",
+        "en": "Cerro El Elefante and its surroundings"
+      }
+    ],
+    "actividades": [
+      {
+        "nombre": {
+          "es": "Recorrido por el basamento piramidal",
+          "en": "Visit the pyramid base"
+        },
+        "ambiente": "aire_libre"
+      },
+      {
+        "nombre": {
+          "es": "Caminata en el cerro El Elefante",
+          "en": "Hike on Cerro El Elefante"
+        },
+        "ambiente": "aire_libre"
+      }
+    ],
+    "foto": "zona-tlapacoya",
+    "inah_url": "https://www.inah.gob.mx/zonas/139-zona-arqueologica-tlapacoya",
+    "fuentes": [
+      {
+        "titulo": "INAH - Zona Arqueológica Tlapacoya",
+        "url": "https://www.inah.gob.mx/zonas/139-zona-arqueologica-tlapacoya"
+      }
+    ],
+    "verificado": true
+  },
+  {
+    "id": "zona-san-miguel-ixtapan",
+    "nombre": {
+      "es": "Zona Arqueológica de San Miguel Ixtapan",
+      "en": "San Miguel Ixtapan Archaeological Zone"
+    },
+    "municipio": "Tejupilco",
+    "lat": 18.8072,
+    "lon": -100.1505,
+    "cultura": {
+      "es": "Clásico, Epiclásico y mexica (filiación no determinada)",
+      "en": "Classic, Epiclassic and Mexica (cultural affiliation undetermined)"
+    },
+    "resena": {
+      "es": "San Miguel Ixtapan, nombre náhuatl que significa «lugar donde hay sal», refleja la importancia de la explotación de ese recurso desde la época prehispánica. El sitio tuvo cuatro etapas de ocupación, desde el Clásico (500 a 750) hasta la ocupación mexica (1200 a 1521), con su mayor auge en el Epiclásico (750 a 900). Se hallaron además figurillas del Preclásico, aunque sin contexto claro. Cuenta con un museo de sitio, inaugurado en 1995, cuya colección se ordena cronológicamente y por material. Está en el municipio de Tejupilco, en el sur del estado, una región poco visitada de tierra caliente.",
+      "en": "San Miguel Ixtapan, a Nahuatl name meaning \"place where there is salt,\" reflects the importance of salt production since pre-Hispanic times. The site had four phases of occupation, from the Classic (500 to 750 CE) to the Mexica occupation (1200 to 1521), with its peak in the Epiclassic (750 to 900). Preclassic figurines were also found, though without clear context. It has a site museum, opened in 1995, whose collection is arranged by period and material. It lies in the municipality of Tejupilco, in the south of the state, a seldom-visited warm-lowland region."
+    },
+    "como_llegar": {
+      "es": "Está unos 115 km al sur de Toluca por la carretera federal 134 hasta Tejupilco (cerca de 2 horas 30 minutos), y luego unos 15 km por la carretera estatal 8 rumbo a Amatepec. Desde la Ciudad de México, calcule alrededor de 4 horas, pasando por Toluca; hay autobuses a Tejupilco.",
+      "en": "It is about 115 km south of Toluca via federal highway 134 to Tejupilco (around 2 hours 30 minutes), then about 15 km along state road 8 toward Amatepec. From Mexico City, allow around 4 hours, going through Toluca; buses run to Tejupilco."
+    },
+    "que_ver": [
+      {
+        "es": "Museo de sitio con piezas ordenadas cronológicamente",
+        "en": "Site museum with objects arranged chronologically"
+      },
+      {
+        "es": "Basamentos del sitio prehispánico",
+        "en": "Pre-Hispanic platform bases"
+      }
+    ],
+    "actividades": [
+      {
+        "nombre": {
+          "es": "Visita al museo de sitio",
+          "en": "Visit the site museum"
+        },
+        "ambiente": "bajo_techo"
+      },
+      {
+        "nombre": {
+          "es": "Recorrido por los basamentos",
+          "en": "Walk around the platform bases"
+        },
+        "ambiente": "aire_libre"
+      }
+    ],
+    "foto": "zona-san-miguel-ixtapan",
+    "inah_url": "https://www.inah.gob.mx/zonas/46-zona-arqueologica-de-san-miguel-ixtapan",
+    "fuentes": [
+      {
+        "titulo": "INAH - Zona Arqueológica de San Miguel Ixtapan",
+        "url": "https://www.inah.gob.mx/zonas/46-zona-arqueologica-de-san-miguel-ixtapan"
+      }
+    ],
+    "verificado": true
+  },
+  {
+    "id": "zona-tetzcotzinco",
+    "nombre": {
+      "es": "Zona Arqueológica de Tetzcotzinco",
+      "en": "Tetzcotzinco Archaeological Zone"
+    },
+    "municipio": "Texcoco",
+    "lat": 19.4833,
+    "lon": -98.8167,
+    "cultura": {
+      "es": "Acolhua",
+      "en": "Acolhua"
+    },
+    "resena": {
+      "es": "Tetzcotzinco, «lugar hermoso y apreciado», es un cerro cercano a San Nicolás Tlaminca, en Texcoco, que alcanzó su máximo esplendor en el reinado de Nezahualcóyotl. La página del INAH lo describe como una de las mayores obras de ingeniería hidráulica de la época prehispánica, con jardines y un complejo sistema de agua. Sirvió como lugar de retiro y meditación, de observación astronómica y de rituales sociales y religiosos. Se le conoce popularmente como los baños de Nezahualcóyotl. La visita combina caminata en el cerro, naturaleza y arqueología; el último tramo se hace a pie, desde donde comienza el ascenso.",
+      "en": "Tetzcotzinco, \"beautiful and cherished place,\" is a hill near San Nicolás Tlaminca, in Texcoco, which reached its greatest splendor under Nezahualcoyotl. INAH describes it as one of the greatest hydraulic engineering works of the pre-Hispanic era, with gardens and a complex water system. It served as a place of retreat and meditation, astronomical observation, and social and religious rituals. It is popularly known as the baths of Nezahualcoyotl. The visit combines hiking, nature and archaeology; the last stretch is done on foot, starting where the climb begins."
+    },
+    "como_llegar": {
+      "es": "Desde la Ciudad de México, por la carretera México-Texcoco o la autopista Peñón-Texcoco; a la entrada de Texcoco se toma el rumbo al Parque Molino de Flores y unos 3 km después la desviación a San Nicolás Tlaminca, de ahí el ascenso es a pie (cerca de 1 hora 15 minutos en auto). Desde Toluca, unas 2 horas 30 minutos pasando por la Ciudad de México.",
+      "en": "From Mexico City, take the Mexico-Texcoco highway or the Peñón-Texcoco highway; at the entrance to Texcoco head toward Parque Molino de Flores and about 3 km later take the turnoff to San Nicolás Tlaminca, from where the ascent is on foot (about 1 hour 15 minutes by car). From Toluca, around 2 hours 30 minutes via Mexico City."
+    },
+    "que_ver": [
+      {
+        "es": "Obra hidráulica y jardines en el cerro",
+        "en": "Hydraulic works and gardens on the hill"
+      },
+      {
+        "es": "Baños y miradores con vista a Texcoco",
+        "en": "Baths and viewpoints overlooking Texcoco"
+      }
+    ],
+    "actividades": [
+      {
+        "nombre": {
+          "es": "Ascenso a pie por el cerro",
+          "en": "Hike up the hill"
+        },
+        "ambiente": "aire_libre"
+      },
+      {
+        "nombre": {
+          "es": "Observación del paisaje y de la obra hidráulica",
+          "en": "Take in the landscape and hydraulic works"
+        },
+        "ambiente": "aire_libre"
+      }
+    ],
+    "foto": "zona-tetzcotzinco",
+    "inah_url": "https://www.inah.gob.mx/zonas/138-zona-arqueologica-tetzcotzinco",
+    "fuentes": [
+      {
+        "titulo": "INAH - Zona Arqueológica Tetzcotzinco",
+        "url": "https://www.inah.gob.mx/zonas/138-zona-arqueologica-tetzcotzinco"
+      }
+    ],
+    "verificado": true
+  },
+  {
+    "id": "zona-santa-cecilia-acatitlan",
+    "nombre": {
+      "es": "Zona Arqueológica de Santa Cecilia Acatitlán",
+      "en": "Santa Cecilia Acatitlán Archaeological Zone"
+    },
+    "municipio": "Tlalnepantla de Baz",
+    "lat": 19.542,
+    "lon": -99.175,
+    "cultura": {
+      "es": "Tolteca-chichimeca",
+      "en": "Toltec-Chichimeca"
+    },
+    "resena": {
+      "es": "Santa Cecilia Acatitlán, «en el lugar de los carrizos» en náhuatl, es una zona arqueológica en el pueblo del mismo nombre, en Tlalnepantla. Hacia 1180 a 1200, grupos tolteca-chichimecas se asentaron en las partes altas de la Sierra de Guadalupe y del Cerro Tonan, mezclando conocimientos de astronomía, arquitectura, agricultura y escritura. Sus habitantes practicaban agricultura de temporal, aprovechaban la fauna del lago y explotaban la sal. Los primeros trabajos arqueológicos se hicieron entre 1923 y 1924, y en 1961 el arqueólogo Eduardo Pareyón exploró el sitio por completo. Se cree que fue abandonado mucho antes de la llegada de los españoles.",
+      "en": "Santa Cecilia Acatitlán, Nahuatl for \"in the place of the reeds,\" is an archaeological zone in the town of the same name, in Tlalnepantla. Around 1180 to 1200, Toltec-Chichimeca groups settled on the high parts of the Sierra de Guadalupe and the Cerro Tonan, combining knowledge of astronomy, architecture, agriculture and writing. Its people practiced rain-fed farming, used the lake's wildlife and exploited salt. The first archaeological work took place in 1923 and 1924, and in 1961 archaeologist Eduardo Pareyón explored the whole site. It is believed to have been abandoned long before the Spaniards arrived."
+    },
+    "como_llegar": {
+      "es": "Desde la Ciudad de México, por la Calzada Vallejo o el Eje Central hasta Tenayuca y luego la avenida Santa Cecilia-San Rafael (unos 40 minutos). En transporte público, la Línea 3 del Metrobús llega a Tenayuca. Desde Toluca, unas 1 hora 45 minutos por la autopista México-Toluca y el Periférico.",
+      "en": "From Mexico City, take Calzada Vallejo or Eje Central to Tenayuca and then Avenida Santa Cecilia-San Rafael (about 40 minutes). By public transport, Metrobús Line 3 reaches Tenayuca. From Toluca, about 1 hour 45 minutes via the Mexico-Toluca highway and the Periférico."
+    },
+    "que_ver": [
+      {
+        "es": "Basamento piramidal en el centro del pueblo",
+        "en": "Pyramid base in the heart of the town"
+      },
+      {
+        "es": "Templos en la parte alta del edificio",
+        "en": "Temples at the top of the building"
+      }
+    ],
+    "actividades": [
+      {
+        "nombre": {
+          "es": "Visita a la pirámide y su explanada",
+          "en": "Visit the pyramid and its esplanade"
+        },
+        "ambiente": "aire_libre"
+      }
+    ],
+    "foto": "zona-santa-cecilia-acatitlan",
+    "inah_url": "https://www.inah.gob.mx/zonas/136-zona-arqueologica-santa-cecilia-acatitlan",
+    "fuentes": [
+      {
+        "titulo": "INAH - Zona Arqueológica Santa Cecilia Acatitlán",
+        "url": "https://www.inah.gob.mx/zonas/136-zona-arqueologica-santa-cecilia-acatitlan"
+      },
+      {
+        "titulo": "Chilango - Zonas arqueológicas en el Estado de México",
+        "url": "https://www.chilango.com/agenda/otros/zonas-arqueologicas-en-el-estado-de-mexico/amp/"
+      }
+    ],
+    "verificado": true
+  },
+  {
+    "id": "zona-tenayuca",
+    "nombre": {
+      "es": "Zona Arqueológica de Tenayuca I y II",
+      "en": "Tenayuca I and II Archaeological Zone"
+    },
+    "municipio": "Tlalnepantla de Baz",
+    "lat": 19.529,
+    "lon": -99.166,
+    "cultura": {
+      "es": "Nahua (chichimeca y mexica)",
+      "en": "Nahua (Chichimeca and Mexica)"
+    },
+    "resena": {
+      "es": "Tenayuca, «lugar amurallado» en náhuatl, fue un centro ceremonial importante de la Cuenca de México, fundado hacia 1250 por el grupo chichimeca de Xólotl y sometido después por los mexicas. Su Templo Mayor, dedicado a Tláloc y Huitzilopochtli, se amplió siete veces; la última etapa fue entre 1450 y 1500. Lo rodea el Coatepantli, una muralla de serpientes de piedra con colmillos, ojos y lengua bífida. Tenayuca II es un conjunto habitacional contemporáneo, a unos trescientos metros, recuperado en un rescate arqueológico a finales de los años ochenta. Está en el norte de la zona metropolitana.",
+      "en": "Tenayuca, Nahuatl for \"walled place,\" was an important ceremonial center in the Basin of Mexico, founded around 1250 by Xolotl's Chichimeca group and later subjugated by the Mexicas. Its Great Temple, dedicated to Tlaloc and Huitzilopochtli, was enlarged seven times; the final stage dates to between 1450 and 1500. It is surrounded by the Coatepantli, a wall of stone serpents with fangs, eyes and forked tongues. Tenayuca II is a contemporary residential complex about three hundred meters away, recovered in a rescue excavation in the late 1980s. It lies in the north of the metropolitan area."
+    },
+    "como_llegar": {
+      "es": "Desde la Ciudad de México, por la Calzada Vallejo (Eje 1 Poniente) hacia el norte, o por el Eje Central hasta la avenida Tenayuca (unos 40 minutos). La Línea 3 del Metrobús llega a Tenayuca. Desde Toluca, cerca de 1 hora 45 minutos por la autopista México-Toluca y el Periférico.",
+      "en": "From Mexico City, take Calzada Vallejo (Eje 1 Poniente) north, or Eje Central to Avenida Tenayuca (about 40 minutes). Metrobús Line 3 reaches Tenayuca. From Toluca, about 1 hour 45 minutes via the Mexico-Toluca highway and the Periférico."
+    },
+    "que_ver": [
+      {
+        "es": "Basamento del Templo Mayor de Tenayuca",
+        "en": "Base of the Tenayuca Great Temple"
+      },
+      {
+        "es": "Coatepantli, la muralla de serpientes",
+        "en": "The Coatepantli, the serpent wall"
+      },
+      {
+        "es": "Conjunto habitacional de Tenayuca II",
+        "en": "The Tenayuca II residential complex"
+      }
+    ],
+    "actividades": [
+      {
+        "nombre": {
+          "es": "Recorrido por el templo y el Coatepantli",
+          "en": "Tour of the temple and the Coatepantli"
+        },
+        "ambiente": "aire_libre"
+      }
+    ],
+    "foto": "zona-tenayuca",
+    "inah_url": "https://www.inah.gob.mx/zonas/137-zona-arqueologica-tenayuca-i-y-ii",
+    "fuentes": [
+      {
+        "titulo": "INAH - Zona Arqueológica Tenayuca I y II",
+        "url": "https://www.inah.gob.mx/zonas/137-zona-arqueologica-tenayuca-i-y-ii"
+      }
+    ],
+    "verificado": true
+  },
+  {
+    "id": "zona-huexotla",
+    "nombre": {
+      "es": "Zona Arqueológica de Huexotla",
+      "en": "Huexotla Archaeological Zone"
+    },
+    "municipio": "Texcoco",
+    "lat": 19.465,
+    "lon": -98.91,
+    "cultura": {
+      "es": "Acolhua",
+      "en": "Acolhua"
+    },
+    "resena": {
+      "es": "Huexotla, «lugar donde hay sauces» en náhuatl, se ubica en el pueblo de San Luis Huexotla, en el antiguo Acolhuacan, al oriente de la cuenca de México. Estuvo ocupada en el Posclásico temprano y tardío, entre 1150 y 1521. Es uno de los sitios más representativos de la región para entender su secuencia cultural. Algunas de sus estructuras se exploraron parcialmente desde 1904 y los trabajos de conservación continúan. Entre lo que se puede ver están Santa María Grande, el Circular o Templo de Ehécatl, La Estancia y La Comunidad, repartidos entre calles y casas del pueblo actual.",
+      "en": "Huexotla, Nahuatl for \"place of willows,\" lies in the town of San Luis Huexotla, in the former Acolhuacan, on the eastern side of the Basin of Mexico. It was occupied in the Early and Late Postclassic, between 1150 and 1521. It is one of the most representative sites in the region for understanding its cultural sequence. Some of its structures were partially explored as early as 1904, and conservation work continues. Visitors can see Santa María Grande, El Circular or Temple of Ehecatl, La Estancia and La Comunidad, spread among the streets and houses of the present-day town."
+    },
+    "como_llegar": {
+      "es": "Desde la Ciudad de México, por la carretera libre México-Texcoco o la autopista Peñón-Texcoco hasta la glorieta de la Universidad Autónoma Chapingo y de ahí a San Luis Huexotla (cerca de 1 hora). En transporte público, de TAPO a Texcoco y luego colectivo. Desde Toluca, unas 2 horas 30 minutos.",
+      "en": "From Mexico City, take the free Mexico-Texcoco road or the Peñón-Texcoco highway to the Chapingo University roundabout and then on to San Luis Huexotla (about 1 hour). By public transport, from TAPO to Texcoco and then a colectivo. From Toluca, around 2 hours 30 minutes."
+    },
+    "que_ver": [
+      {
+        "es": "Santa María Grande",
+        "en": "Santa María Grande"
+      },
+      {
+        "es": "El Circular o Templo de Ehécatl",
+        "en": "El Circular, or Temple of Ehecatl"
+      },
+      {
+        "es": "La Estancia y La Comunidad",
+        "en": "La Estancia and La Comunidad"
+      }
+    ],
+    "actividades": [
+      {
+        "nombre": {
+          "es": "Recorrido por las estructuras del pueblo",
+          "en": "Tour of the structures in the town"
+        },
+        "ambiente": "aire_libre"
+      }
+    ],
+    "foto": "zona-huexotla",
+    "inah_url": "https://www.inah.gob.mx/zonas/132-zona-arqueologica-huexotla",
+    "fuentes": [
+      {
+        "titulo": "INAH - Zona Arqueológica Huexotla",
+        "url": "https://www.inah.gob.mx/zonas/132-zona-arqueologica-huexotla"
+      }
+    ],
+    "verificado": true
+  },
+  {
+    "id": "zona-los-melones",
+    "nombre": {
+      "es": "Zona Arqueológica de Los Melones",
+      "en": "Los Melones Archaeological Zone"
+    },
+    "municipio": "Texcoco",
+    "lat": 19.462,
+    "lon": -98.914,
+    "cultura": {
+      "es": "Acolhua",
+      "en": "Acolhua"
+    },
+    "resena": {
+      "es": "Los Melones, también conocida como Ahuehuetitlán, se encuentra en el pueblo de San Luis Huexotla, en Texcoco. Texcoco fue sede del señorío del Acolhuacan y una de las tres ciudades de la Triple Alianza, junto con México-Tenochtitlan y Tlacopan. La página del INAH vincula el sitio con los gobernantes acolhuas, entre ellos Nezahualcóyotl, y menciona que uno de sus palacios pudo estar aquí. El nombre Ahuehuetitlán alude a los muchos ahuehuetes del lugar. El origen de «Los Melones» se desconoce; una tradición oral lo relaciona con unas plantas silvestres de chilacayote parecidas a melones.",
+      "en": "Los Melones, also known as Ahuehuetitlan, is found in the town of San Luis Huexotla, in Texcoco. Texcoco was the seat of the Acolhuacan realm and one of the three cities of the Triple Alliance, together with Mexico-Tenochtitlan and Tlacopan. INAH links the site to Acolhua rulers, including Nezahualcoyotl, and notes that one of his palaces may have stood here. The name Ahuehuetitlan refers to the many ahuehuete trees of the place. The origin of \"Los Melones\" is unknown; one oral tradition ties it to wild chilacayote plants that looked like melons."
+    },
+    "como_llegar": {
+      "es": "Desde la Ciudad de México, por la carretera libre México-Texcoco o la autopista Peñón-Texcoco hasta la glorieta de la Universidad Autónoma Chapingo y luego a San Luis Huexotla; el acceso está sobre la calle San Francisco (cerca de 1 hora). Desde Toluca, unas 2 horas 30 minutos pasando por la Ciudad de México.",
+      "en": "From Mexico City, take the free Mexico-Texcoco road or the Peñón-Texcoco highway to the Chapingo University roundabout and then to San Luis Huexotla; the access is on Calle San Francisco (about 1 hour). From Toluca, around 2 hours 30 minutes via Mexico City."
+    },
+    "que_ver": [
+      {
+        "es": "Conjunto arquitectónico principal junto a la entrada",
+        "en": "The main architectural complex next to the entrance"
+      },
+      {
+        "es": "Ahuehuetes del entorno",
+        "en": "The surrounding ahuehuete trees"
+      }
+    ],
+    "actividades": [
+      {
+        "nombre": {
+          "es": "Visita al conjunto arquitectónico",
+          "en": "Visit the architectural complex"
+        },
+        "ambiente": "aire_libre"
+      }
+    ],
+    "foto": "zona-los-melones",
+    "inah_url": "https://www.inah.gob.mx/zonas/133-zona-arqueologica-los-melones",
+    "fuentes": [
+      {
+        "titulo": "INAH - Zona Arqueológica Los Melones",
+        "url": "https://www.inah.gob.mx/zonas/133-zona-arqueologica-los-melones"
+      }
+    ],
+    "verificado": true
+  },
+  {
+    "id": "zona-chimalhuacan",
+    "nombre": {
+      "es": "Zona Arqueológica de Chimalhuacán",
+      "en": "Chimalhuacán Archaeological Zone"
+    },
+    "municipio": "Chimalhuacán",
+    "lat": 19.4215,
+    "lon": -98.904,
+    "cultura": {
+      "es": "Chichimeca, con influencias teotihuacana, tolteca y acolhua",
+      "en": "Chichimeca, with Teotihuacan, Toltec and Acolhua influences"
+    },
+    "resena": {
+      "es": "Chimalhuacán, «lugar donde tienen escudos» en náhuatl, conserva los restos de un gran palacio, el Técpan de Chimalhuacán, que el INAH considera uno de los palacios mejor conservados del Altiplano. Se atribuye a los chichimecas y se fecha hacia 1300, con influencias arquitectónicas teotihuacana, tolteca y acolhua. La ocupación del lugar tiene tres fases: Preclásico (400 a 100 a. C.), Clásico (200 a 450) y Posclásico (800 a 1000 y 1100 a 1521). El sitio se encuentra detrás de la presidencia municipal, en el barrio de San Andrés, en pleno entorno urbano.",
+      "en": "Chimalhuacán, Nahuatl for \"place where they have shields,\" preserves the remains of a large palace, the Técpan de Chimalhuacán, which INAH considers one of the best-preserved palaces of the Altiplano. It is attributed to the Chichimecas and dated to around 1300, with Teotihuacan, Toltec and Acolhua architectural influences. The place was occupied in three phases: Preclassic (400 to 100 BCE), Classic (200 to 450 CE) and Postclassic (800 to 1000 and 1100 to 1521). The site lies behind the municipal presidency, in the San Andrés neighborhood, in the middle of the urban fabric."
+    },
+    "como_llegar": {
+      "es": "Desde la Ciudad de México, por la carretera México-Texcoco (190) y el desvío a Chimalhuacán; el sitio está detrás de la presidencia municipal (cerca de 1 hora). También hay Mexibús. Desde Toluca, unas 2 horas 30 minutos pasando por la Ciudad de México.",
+      "en": "From Mexico City, take the Mexico-Texcoco highway (190) and turn toward Chimalhuacán; the site is behind the municipal presidency (about 1 hour). The Mexibús also serves the area. From Toluca, around 2 hours 30 minutes via Mexico City."
+    },
+    "que_ver": [
+      {
+        "es": "Vestigios del Técpan, el palacio",
+        "en": "Remains of the Técpan, the palace"
+      },
+      {
+        "es": "Explanadas y escalinatas del conjunto",
+        "en": "The complex's esplanades and stairways"
+      }
+    ],
+    "actividades": [
+      {
+        "nombre": {
+          "es": "Recorrido por los vestigios del palacio",
+          "en": "Tour of the palace remains"
+        },
+        "ambiente": "aire_libre"
+      }
+    ],
+    "foto": "zona-chimalhuacan",
+    "inah_url": "https://www.inah.gob.mx/zonas/130-zona-arqueologica-chimalhuacan",
+    "fuentes": [
+      {
+        "titulo": "INAH - Zona Arqueológica Chimalhuacán",
+        "url": "https://www.inah.gob.mx/zonas/130-zona-arqueologica-chimalhuacan"
+      }
+    ],
+    "verificado": true
+  },
+  {
+    "id": "zona-el-conde",
+    "nombre": {
+      "es": "Zona Arqueológica de El Conde",
+      "en": "El Conde Archaeological Zone"
+    },
+    "municipio": "Naucalpan de Juárez",
+    "lat": 19.478,
+    "lon": -99.238,
+    "cultura": {
+      "es": "Posclásico tardío (fases Azteca II y III)",
+      "en": "Late Postclassic (Aztec II and III phases)"
+    },
+    "resena": {
+      "es": "El Conde es una pequeña zona arqueológica en la colonia del mismo nombre, en Naucalpan. Corresponde al Posclásico tardío, aproximadamente entre 1200 y 1521, con fases Azteca II y III y cerámica de tipo Tollán. Su nombre viene de Manuel Conde, quien vivió allí a mediados del siglo XIX, y el terreno formó parte de la hacienda El Prieto, del siglo XVI. Según el INAH, es uno de los últimos ejemplos de arquitectura civil del Posclásico tardío. Su planta recuerda a la de un palacio dibujado en el Mapa Quinatzin. Destaca su montículo principal, con escalinata frontal y cuartos adosados.",
+      "en": "El Conde is a small archaeological zone in the neighborhood of the same name, in Naucalpan. It belongs to the Late Postclassic, roughly 1200 to 1521, with Aztec II and III phases and Tollan-type pottery. Its name comes from Manuel Conde, who lived there in the mid-nineteenth century, and the land was part of the sixteenth-century El Prieto hacienda. According to INAH, it is one of the last examples of civil architecture from the Late Postclassic. Its layout resembles a palace drawn in the Quinatzin Map. Its main mound stands out, with a front stairway and attached rooms."
+    },
+    "como_llegar": {
+      "es": "Desde la Ciudad de México, por el Anillo Periférico norte y la avenida Primero de Mayo hacia el poniente, y luego por calles locales hasta la calle Ozumba (cerca de 50 minutos). Desde Toluca, unas 1 hora 30 minutos por la autopista México-Toluca y el Periférico.",
+      "en": "From Mexico City, take the Anillo Periférico north and Avenida Primero de Mayo westward, then local streets to calle Ozumba (about 50 minutes). From Toluca, about 1 hour 30 minutes via the Mexico-Toluca highway and the Periférico."
+    },
+    "que_ver": [
+      {
+        "es": "Montículo principal con hiladas de piedra tipo Xamitl",
+        "en": "Main mound with Xamitl-style stone courses"
+      },
+      {
+        "es": "Escalinata frontal y cuartos adosados",
+        "en": "Front stairway and attached rooms"
+      }
+    ],
+    "actividades": [
+      {
+        "nombre": {
+          "es": "Visita a la zona dentro de la colonia",
+          "en": "Visit the zone inside the neighborhood"
+        },
+        "ambiente": "aire_libre"
+      }
+    ],
+    "foto": null,
+    "inah_url": "https://www.inah.gob.mx/zonas/131-zona-arqueologica-el-conde",
+    "fuentes": [
+      {
+        "titulo": "INAH - Zona Arqueológica El Conde",
+        "url": "https://www.inah.gob.mx/zonas/131-zona-arqueologica-el-conde"
+      }
+    ],
+    "verificado": true
+  },
+  {
+    "id": "zona-ocoyoacac",
+    "nombre": {
+      "es": "Zona Arqueológica de Ocoyoacac",
+      "en": "Ocoyoacac Archaeological Zone"
+    },
+    "municipio": "Ocoyoacac",
+    "lat": 19.27,
+    "lon": -99.445,
+    "cultura": {
+      "es": "Horizonte Clásico (posibles inmigrantes teotihuacanos)",
+      "en": "Classic Horizon (possibly Teotihuacan immigrants)"
+    },
+    "resena": {
+      "es": "Ocoyoacac es un asentamiento del Horizonte Clásico en el Altiplano Central, posiblemente habitado por inmigrantes teotihuacanos, entre 250 y 450 aproximadamente (fases Tlamimilolpa y Xolalpan). Parece haber sido una pequeña comunidad agrícola. Su conjunto arquitectónico consiste en cuartos sencillos con muros de piedra unida con lodo. Pudo ser un punto de paso entre las rutas de intercambio y tributo de la Cuenca de México y el valle de Toluca. Tras el colapso del estado teotihuacano, el sitio parece haberse abandonado de forma repentina. Se encuentra junto a la carretera federal México-Toluca.",
+      "en": "Ocoyoacac is a Classic Horizon settlement in the Central Highlands, possibly inhabited by Teotihuacan immigrants, roughly between 250 and 450 CE (Tlamimilolpa and Xolalpan phases). It appears to have been a small farming community. Its architectural complex consists of simple rooms with stone walls joined with mud. It may have been a stopover along the exchange and tribute routes between the Basin of Mexico and the Toluca valley. After the collapse of the Teotihuacan state, the site seems to have been abandoned suddenly. It stands beside the federal Mexico-Toluca highway."
+    },
+    "como_llegar": {
+      "es": "Desde la Ciudad de México, por la carretera federal México-Toluca (15), cerca del km 45.5 (unos 50 minutos); frente al sitio hay un restaurante de referencia. Desde Toluca, unos 30 a 40 minutos por la misma carretera.",
+      "en": "From Mexico City, take the federal Mexico-Toluca highway (15) near km 45.5 (about 50 minutes); a roadside restaurant stands in front of the site as a landmark. From Toluca, about 30 to 40 minutes along the same road."
+    },
+    "que_ver": [
+      {
+        "es": "Cuartos de piedra del conjunto habitacional",
+        "en": "Stone rooms of the residential complex"
+      },
+      {
+        "es": "Muros de piedra unida con lodo",
+        "en": "Walls of stone joined with mud"
+      }
+    ],
+    "actividades": [
+      {
+        "nombre": {
+          "es": "Recorrido por el conjunto arquitectónico",
+          "en": "Walk through the architectural complex"
+        },
+        "ambiente": "aire_libre"
+      }
+    ],
+    "foto": null,
+    "inah_url": "https://www.inah.gob.mx/zonas/50-zona-arqueologica-de-ocoyoacac",
+    "fuentes": [
+      {
+        "titulo": "INAH - Zona Arqueológica de Ocoyoacac",
+        "url": "https://www.inah.gob.mx/zonas/50-zona-arqueologica-de-ocoyoacac"
+      }
+    ],
+    "verificado": true
+  },
+  {
+    "id": "zona-los-reyes-la-paz",
+    "nombre": {
+      "es": "Zona Arqueológica de Los Reyes La Paz (Acaquilpan)",
+      "en": "Los Reyes La Paz Archaeological Zone (Acaquilpan)"
+    },
+    "municipio": "La Paz",
+    "lat": 19.359,
+    "lon": -98.976,
+    "cultura": {
+      "es": "Coyotlatelco, Mazapa y chichimeca-azteca",
+      "en": "Coyotlatelco, Mazapa and Chichimeca-Aztec"
+    },
+    "resena": {
+      "es": "La zona de Los Reyes Acaquilpan, en La Paz, se conocía como Azaquilpan o Axaquilpan, que en náhuatl significa «sobre la hierba de la arena». El INAH la relaciona con las fases Mazapa (800 a 1100), Azteca II (1200 a 1430) y Azteca III (1430 a 1521); unos 500 metros al este existió un asentamiento Coyotlatelco (600 a 800). Después del auge de Tula, hacia el 800, la gente de asentamientos anteriores se trasladó a Los Reyes, y más tarde grupos chichimecas la reocuparon. Probablemente estuvo bajo la influencia de la cercana Chimalhuacán, tributaria de Texcoco. El INAH no indica su estado actual de apertura.",
+      "en": "The Los Reyes Acaquilpan zone, in La Paz, was known as Azaquilpan or Axaquilpan, which in Nahuatl means \"over the sand grass.\" INAH ties it to the Mazapa (800 to 1100), Aztec II (1200 to 1430) and Aztec III (1430 to 1521) phases; about 500 meters to the east there was a Coyotlatelco settlement (600 to 800). After Tula rose around 800, people from earlier settlements moved to Los Reyes, and Chichimeca groups later reoccupied it. It was probably under the influence of nearby Chimalhuacán, which paid tribute to Texcoco. INAH does not state its current opening status."
+    },
+    "como_llegar": {
+      "es": "Desde la Ciudad de México, por la carretera México-Texcoco (190) y en Los Reyes por la prolongación Benito Juárez hasta el sitio; la estación del metro más cercana es Santa Martha (cerca de 45 minutos). Desde Toluca, unas 2 horas pasando por la Ciudad de México.",
+      "en": "From Mexico City, take the Mexico-Texcoco highway (190) and, in Los Reyes, follow Prolongación Benito Juárez to the site; the nearest metro station is Santa Martha (about 45 minutes). From Toluca, around 2 hours via Mexico City."
+    },
+    "que_ver": [
+      {
+        "es": "Vestigios de arquitectura del Posclásico",
+        "en": "Postclassic architectural remains"
+      }
+    ],
+    "actividades": [
+      {
+        "nombre": {
+          "es": "Visita a los vestigios (confirmar apertura con el INAH)",
+          "en": "Visit the remains (confirm opening with INAH)"
+        },
+        "ambiente": "aire_libre"
+      }
+    ],
+    "foto": null,
+    "inah_url": "https://www.inah.gob.mx/zonas/134-zona-arqueologica-los-reyes-la-paz",
+    "fuentes": [
+      {
+        "titulo": "INAH - Zona Arqueológica Los Reyes La Paz",
+        "url": "https://www.inah.gob.mx/zonas/134-zona-arqueologica-los-reyes-la-paz"
+      }
+    ],
+    "verificado": false
+  }
+]

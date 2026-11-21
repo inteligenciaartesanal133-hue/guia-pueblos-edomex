@@ -1,1 +1,1719 @@
-[]
+[
+  {
+    "id": "otomi",
+    "nombre": {
+      "es": "Otomí",
+      "en": "Otomí"
+    },
+    "nombrePropio": "Hñähñu",
+    "lengua": {
+      "es": "Otomí (ñätho en el valle de Toluca y hñähñu en otras regiones), de la familia lingüística oto-mangue",
+      "en": "Otomí (called ñätho in the Toluca valley and hñähñu in other regions), of the Oto-Manguean language family"
+    },
+    "municipios": [
+      {
+        "nombre": "Temoaya",
+        "lat": 19.468611,
+        "lon": -99.593333
+      },
+      {
+        "nombre": "Jiquipilco",
+        "lat": 19.55713,
+        "lon": -99.60772
+      },
+      {
+        "nombre": "Acambay",
+        "lat": 19.959,
+        "lon": -99.848
+      },
+      {
+        "nombre": "San Felipe del Progreso",
+        "lat": 19.71333,
+        "lon": -99.95306
+      },
+      {
+        "nombre": "Otzolotepec",
+        "lat": 19.444139,
+        "lon": -99.532417
+      },
+      {
+        "nombre": "Amanalco",
+        "lat": 19.2532,
+        "lon": -100.0201
+      },
+      {
+        "nombre": "Villa del Carbón",
+        "lat": 19.72875,
+        "lon": -99.46362
+      }
+    ],
+    "resena": {
+      "es": "El pueblo otomí, que en el Estado de México se nombra a sí mismo ñätho y en otras regiones hñähñu, es uno de los cinco pueblos indígenas originarios de la entidad, junto con los mazahuas, nahuas, matlatzincas y tlahuicas. Sus comunidades se concentran en el norte y el occidente del estado, sobre todo en Temoaya, que reúne el mayor número de localidades con población otomí, y también en Acambay, Jiquipilco y San Felipe del Progreso. Su vida comunitaria gira en torno a la milpa, las mayordomías, las fiestas patronales y una lengua que sigue viva. Hoy se les conoce por sus tapetes anudados, su cestería y el Centro Ceremonial de Temoaya.",
+      "en": "The Otomí people, who call themselves ñätho in the State of Mexico and hñähñu in other regions, are one of the five Indigenous peoples native to the state, alongside the Mazahua, Nahua, Matlatzinca and Tlahuica. Their communities are concentrated in the north and west of the state, above all in Temoaya, which has the largest number of localities with an Otomí population, and also in Acambay, Jiquipilco and San Felipe del Progreso. Community life revolves around the milpa, the mayordomías (religious stewardships), patron saint festivals and a language that is still spoken today. They are known for their hand-knotted rugs, their basketry and the Otomí Ceremonial Center in Temoaya."
+    },
+    "gastronomia": [
+      {
+        "id": "barbacoa-de-borrego",
+        "nombre": {
+          "es": "Barbacoa de borrego",
+          "en": "Barbacoa de borrego (slow-cooked lamb)"
+        },
+        "descripcion": {
+          "es": "Carne de borrego cocida lentamente, a veces en hoyo, que es una de las proteínas más consumidas en la cocina otomí y una especialidad de Temoaya para las fiestas y reuniones familiares.",
+          "en": "Lamb cooked slowly, sometimes in a pit oven, one of the most widely eaten meats in Otomí cooking and a specialty of Temoaya, served at festivals and family gatherings."
+        },
+        "verificado": true,
+        "fuente": "https://foodandpleasure.com/temoaya-estado-de-mexico/"
+      },
+      {
+        "id": "mole-de-pipian-con-charales-y-quelites",
+        "nombre": {
+          "es": "Mole de pipián con charales y quelites",
+          "en": "Mole de pipián con charales y quelites"
+        },
+        "descripcion": {
+          "es": "Guiso tradicional mexiquense de herencia otomí, preparado con semillas de calabaza, charales y quelites. Expresa el aprovechamiento de lo que da la tierra y el agua de la región.",
+          "en": "A traditional dish from the State of Mexico with Otomí roots, made with pumpkin seeds, charales (small dried fish) and quelites (wild greens). It reflects the use of what the land and local waters provide."
+        },
+        "verificado": true,
+        "fuente": "https://www.posta.com.mx/edomex/el-platillo-milenario-del-edomex-con-herencia-otomi-que-no-puedes-dejar-de-probar/vl2076128"
+      },
+      {
+        "id": "quelites",
+        "nombre": {
+          "es": "Quelites",
+          "en": "Quelites (wild greens)"
+        },
+        "descripcion": {
+          "es": "Hierbas comestibles que crecen en la milpa y el campo; se comen cocidas y en tacos. Un estudio documentó su uso en la comunidad otomí de San Pedro Arriba, en Temoaya.",
+          "en": "Edible wild greens that grow in the milpa and the fields, eaten cooked and in tacos. A study documented their use in the Otomí community of San Pedro Arriba, in Temoaya."
+        },
+        "verificado": true,
+        "fuente": "https://foodandpleasure.com/temoaya-estado-de-mexico/"
+      },
+      {
+        "id": "tamales",
+        "nombre": {
+          "es": "Tamales",
+          "en": "Tamales"
+        },
+        "descripcion": {
+          "es": "Tamales de maíz, como los de frijol, que se preparan para las fiestas comunitarias; en la Feria Gastronómica Otomí de Villa del Carbón forman parte de la oferta de las cocineras de las comunidades.",
+          "en": "Corn tamales, including bean tamales, prepared for community celebrations. At the Otomí Gastronomic Fair in Villa del Carbón they are part of what local cooks from the communities offer."
+        },
+        "verificado": true,
+        "fuente": "https://www.chilango.com/que-hacer/feria-gastronomica-otomi-2025-edomex/"
+      },
+      {
+        "id": "pulque",
+        "nombre": {
+          "es": "Pulque",
+          "en": "Pulque"
+        },
+        "descripcion": {
+          "es": "Bebida fermentada del aguamiel del maguey, una de las más representativas de la región. Se elabora también con frutas, como el pulque de moras de Villa del Carbón.",
+          "en": "A fermented drink made from maguey sap, one of the most representative of the region. It is also made with fruit, such as the blackberry pulque of Villa del Carbón."
+        },
+        "verificado": true,
+        "fuente": "https://www.mexicodesconocido.com.mx/pueblo-otomi-otomies.html"
+      }
+    ],
+    "festividades": [
+      {
+        "id": "ceremonia-del-quinto-sol",
+        "nombre": {
+          "es": "Ceremonia del Quinto Sol",
+          "en": "Ceremony of the Fifth Sun (Quinto Sol)"
+        },
+        "descripcion": {
+          "es": "Ceremonia que se celebra en el Centro Ceremonial Otomí de Temoaya hacia el equinoccio de primavera, con el encendido del Fuego Nuevo. Es una ocasión de encuentro para las comunidades otomíes.",
+          "en": "A ceremony held at the Otomí Ceremonial Center in Temoaya around the spring equinox, with the lighting of the New Fire. It is a gathering for Otomí communities."
+        },
+        "fecha": {
+          "es": "18 de marzo (cerca del equinoccio de primavera)",
+          "en": "March 18 (near the spring equinox)"
+        },
+        "verificado": true,
+        "fuente": "https://escapadas.mexicodesconocido.com.mx/atractivos/centro-ceremonial-otomi/"
+      },
+      {
+        "id": "fiesta-de-la-santa-cruz",
+        "nombre": {
+          "es": "Fiesta de la Santa Cruz",
+          "en": "Feast of the Holy Cross (Santa Cruz)"
+        },
+        "descripcion": {
+          "es": "Fiesta que mezcla devoción católica y culto a los cerros. En Santa Cruz Tepexpan, Jiquipilco, el 3 de mayo se reúnen peregrinos, danzantes y pastoras en el santuario del cerro.",
+          "en": "A feast that blends Catholic devotion with the veneration of sacred hills. In Santa Cruz Tepexpan, Jiquipilco, pilgrims, dancers and pastoras gather at the hilltop shrine on May 3."
+        },
+        "fecha": {
+          "es": "3 de mayo",
+          "en": "May 3"
+        },
+        "verificado": true,
+        "fuente": "https://www.jornada.com.mx/2014/08/16/cam-vida.html"
+      },
+      {
+        "id": "feria-gastronomica-otomi",
+        "nombre": {
+          "es": "Feria Gastronómica Otomí Hnini Ndosküä",
+          "en": "Hnini Ndosküä Otomí Gastronomic Fair"
+        },
+        "descripcion": {
+          "es": "Feria en Las Moras, Villa del Carbón, donde cocineras de las comunidades comparten pulque de moras, mole de guajolote, tamales de frijol y otros platillos tradicionales.",
+          "en": "A fair in Las Moras, Villa del Carbón, where cooks from the communities share blackberry pulque, turkey mole, bean tamales and other traditional dishes."
+        },
+        "fecha": {
+          "es": "Abril (edición 2025: 26 de abril)",
+          "en": "April (2025 edition: April 26)"
+        },
+        "verificado": true,
+        "fuente": "https://www.chilango.com/que-hacer/feria-gastronomica-otomi-2025-edomex/"
+      },
+      {
+        "id": "ceremonia-mensual-centro-ceremonial",
+        "nombre": {
+          "es": "Ceremonia mensual a los elementos naturales",
+          "en": "Monthly ceremony honoring the natural elements"
+        },
+        "descripcion": {
+          "es": "Ceremonia periódica en el Centro Ceremonial Otomí de Temoaya en honor a los elementos de la naturaleza. Las fuentes no coinciden en qué domingo del mes se realiza.",
+          "en": "A recurring ceremony at the Otomí Ceremonial Center in Temoaya honoring the elements of nature. Sources disagree on which Sunday of the month it takes place."
+        },
+        "fecha": {
+          "es": "Un domingo de cada mes (primero o último, según la fuente)",
+          "en": "One Sunday each month (first or last, depending on the source)"
+        },
+        "verificado": false,
+        "fuente": "https://escapadas.mexicodesconocido.com.mx/atractivos/centro-ceremonial-otomi/"
+      }
+    ],
+    "artesanias": [
+      {
+        "id": "tapetes-de-temoaya",
+        "nombre": {
+          "es": "Tapetes anudados de Temoaya",
+          "en": "Hand-knotted rugs of Temoaya"
+        },
+        "descripcion": {
+          "es": "Tapetes de lana anudados a mano en telar, con motivos de la iconografía otomí, mazahua y otras. La técnica se aprendió desde 1969 y hoy se conserva en talleres familiares de Temoaya.",
+          "en": "Wool rugs knotted by hand on a loom, with designs drawn from Otomí, Mazahua and other iconography. The technique was learned from 1969 and is kept alive today in family workshops in Temoaya."
+        },
+        "verificado": true,
+        "fuente": "https://www.mexicodesconocido.com.mx/tapetes-de-temoaya.html"
+      },
+      {
+        "id": "cesteria",
+        "nombre": {
+          "es": "Cestería",
+          "en": "Basketry"
+        },
+        "descripcion": {
+          "es": "Cestas y charolas tejidas con fibras naturales como la palma y el carrizo, que se elaboran y venden en talleres familiares de Temoaya y sus alrededores.",
+          "en": "Baskets and trays woven from natural fibers such as palm and reed, made and sold in family workshops in and around Temoaya."
+        },
+        "verificado": true,
+        "fuente": "https://foodandpleasure.com/temoaya-estado-de-mexico/"
+      },
+      {
+        "id": "textiles-bordados",
+        "nombre": {
+          "es": "Textiles y bordados",
+          "en": "Textiles and embroidery"
+        },
+        "descripcion": {
+          "es": "Textiles de telar de cintura y prendas bordadas a mano, con flores y otros motivos, que forman parte de la identidad y la vestimenta otomí.",
+          "en": "Textiles woven on the backstrap loom and garments embroidered by hand with floral and other designs, which are an important part of Otomí identity and traditional dress."
+        },
+        "verificado": true,
+        "fuente": "https://www.mexicodesconocido.com.mx/pueblo-otomi-otomies.html"
+      },
+      {
+        "id": "chincuete-y-quexquemetl",
+        "nombre": {
+          "es": "Chincuete y quexquémetl",
+          "en": "Chincuete and quexquémetl"
+        },
+        "descripcion": {
+          "es": "Indumentaria femenina tradicional: el chincuete es una falda amplia de lana o manta, y el quexquémetl, una prenda que cubre los hombros. Suele acompañarse de una blusa bordada.",
+          "en": "Traditional women's clothing: the chincuete is a wide wool or cotton wraparound skirt, and the quexquémetl a garment that covers the shoulders. It is usually worn with an embroidered blouse."
+        },
+        "verificado": false,
+        "fuente": "https://es.wikipedia.org/wiki/Otomíes"
+      }
+    ],
+    "costumbres": [
+      {
+        "id": "mayordomias",
+        "nombre": {
+          "es": "Mayordomías y fiestas patronales",
+          "en": "Mayordomías and patron saint festivals"
+        },
+        "descripcion": {
+          "es": "Las mayordomías, un sistema de cargos religiosos y comunitarios, organizan las fiestas patronales, el acontecimiento más importante de la comunidad. Los cambios de mayordomos son momentos de gran participación.",
+          "en": "Mayordomías, a system of religious and community stewardships, organize the patron saint festivals, the most important event in community life. The handover of mayordomos draws wide participation."
+        },
+        "verificado": true,
+        "fuente": "https://www.mexicodesconocido.com.mx/pueblo-otomi-otomies.html"
+      },
+      {
+        "id": "ceremonias-agricolas-y-culto-a-los-muertos",
+        "nombre": {
+          "es": "Ceremonias agrícolas y culto a los muertos",
+          "en": "Agricultural ceremonies and honoring the dead"
+        },
+        "descripcion": {
+          "es": "Junto a las celebraciones católicas se mantienen ceremonias para pedir buenas cosechas y el culto a los difuntos, en una religiosidad que combina elementos católicos y prehispánicos.",
+          "en": "Alongside Catholic celebrations, ceremonies to ask for good harvests and the veneration of the dead continue, in a religious life that combines Catholic and pre-Hispanic elements."
+        },
+        "verificado": true,
+        "fuente": "https://www.mexicodesconocido.com.mx/pueblo-otomi-otomies.html"
+      },
+      {
+        "id": "milpa-otomi",
+        "nombre": {
+          "es": "La milpa otomí",
+          "en": "The Otomí milpa"
+        },
+        "descripcion": {
+          "es": "Sistema agrícola de maíz, frijol y chile que sostiene la alimentación familiar. Un estudio la describe como patrimonio biocultural de los Valles Altos mexiquenses, con el nombre ra huähi hñähñu.",
+          "en": "An agricultural system of corn, beans and chile that sustains family diets. A study describes it as biocultural heritage of the State of Mexico's high valleys, under the name ra huähi hñähñu."
+        },
+        "verificado": false,
+        "fuente": "https://cienciasagricolas.inifap.gob.mx/index.php/agricolas/article/download/3661/7507/39951"
+      },
+      {
+        "id": "temazcal-y-plantas-medicinales",
+        "nombre": {
+          "es": "Temazcal y plantas medicinales",
+          "en": "Temazcal and medicinal plants"
+        },
+        "descripcion": {
+          "es": "Se conserva el uso del temazcal para baños curativos y de plantas medicinales de origen prehispánico como parte del cuidado de la salud tradicional.",
+          "en": "The use of the temazcal (traditional steam bath) for healing and of medicinal plants of pre-Hispanic origin continues as part of traditional health care."
+        },
+        "verificado": false,
+        "fuente": "https://www.mexicodesconocido.com.mx/pueblo-otomi-otomies.html"
+      }
+    ],
+    "frases": [],
+    "foto": "otomi-portada",
+    "fuentes": [
+      {
+        "titulo": "México Desconocido: Pueblo otomí o hñänñu, origen, historia y tradiciones",
+        "url": "https://www.mexicodesconocido.com.mx/pueblo-otomi-otomies.html"
+      },
+      {
+        "titulo": "México Desconocido: Tapetes de Temoaya",
+        "url": "https://www.mexicodesconocido.com.mx/tapetes-de-temoaya.html"
+      },
+      {
+        "titulo": "México Desconocido: Centro Ceremonial Otomí",
+        "url": "https://escapadas.mexicodesconocido.com.mx/atractivos/centro-ceremonial-otomi/"
+      },
+      {
+        "titulo": "Gobierno de México: Aprendiendo otomí, Temoaya, Estado de México",
+        "url": "https://www.gob.mx/cms/uploads/attachment/file/302157/aprendiendo-otomi-temoaya-estado-de-mexico-web.pdf"
+      },
+      {
+        "titulo": "COESPO Edomex: Población indígena del Estado de México (2021)",
+        "url": "https://coespo.edomex.gob.mx/sites/coespo.edomex.gob.mx/files/files/2021/Poblaci%C3%B3n%20indigena%20del%20Estado%20de%20M%C3%A9xico%20Marzo%20COESPO%202021.pdf"
+      },
+      {
+        "titulo": "Irma Ramírez: Los otomíes del Estado de México",
+        "url": "https://www.aacademica.org/salomon.nahmad.sitton/56.pdf"
+      },
+      {
+        "titulo": "La Jornada: Peregrinación al Señor del Cerrito",
+        "url": "https://www.jornada.com.mx/2014/08/16/cam-vida.html"
+      },
+      {
+        "titulo": "Chilango: Feria Gastronómica Otomí 2025",
+        "url": "https://www.chilango.com/que-hacer/feria-gastronomica-otomi-2025-edomex/"
+      },
+      {
+        "titulo": "Food and Pleasure: Temoaya, Estado de México",
+        "url": "https://foodandpleasure.com/temoaya-estado-de-mexico/"
+      },
+      {
+        "titulo": "Posta: El platillo milenario del Edomex con herencia otomí",
+        "url": "https://www.posta.com.mx/edomex/el-platillo-milenario-del-edomex-con-herencia-otomi-que-no-puedes-dejar-de-probar/vl2076128"
+      },
+      {
+        "titulo": "Wikipedia: Otomíes",
+        "url": "https://es.wikipedia.org/wiki/Otomíes"
+      }
+    ]
+  },
+  {
+    "id": "mazahua",
+    "nombre": {
+      "es": "Mazahua",
+      "en": "Mazahua"
+    },
+    "nombrePropio": "Jñatjo",
+    "lengua": {
+      "es": "Mazahua (jñatjo o jñatrjo), lengua de la familia otomangue, grupo otopame, emparentada con el otomí",
+      "en": "Mazahua (Jñatjo or Jñatrjo), an Otomanguean language of the Oto-Pamean branch, related to Otomi"
+    },
+    "municipios": [
+      {
+        "nombre": "San Felipe del Progreso",
+        "lat": 19.7117,
+        "lon": -99.9503
+      },
+      {
+        "nombre": "San José del Rincón",
+        "lat": 19.6833,
+        "lon": -100.1333
+      },
+      {
+        "nombre": "Ixtlahuaca",
+        "lat": 19.5683,
+        "lon": -99.7667
+      },
+      {
+        "nombre": "Atlacomulco",
+        "lat": 19.7967,
+        "lon": -99.8764
+      },
+      {
+        "nombre": "Villa Victoria",
+        "lat": 19.4417,
+        "lon": -100.005
+      },
+      {
+        "nombre": "Temascalcingo",
+        "lat": 19.9156,
+        "lon": -100.0003
+      }
+    ],
+    "resena": {
+      "es": "El pueblo mazahua, que se nombra a sí mismo jñatjo, es el más numeroso entre los pueblos originarios del Estado de México y habita sobre todo el noroeste y el centro-oeste de la entidad, en municipios como San Felipe del Progreso, San José del Rincón, Ixtlahuaca, Villa Victoria y Temascalcingo. Su vida se organiza en torno a la familia, las faenas comunitarias y las mayordomías que cuidan las fiestas. Cultivan maíz, haba y frijol, y sus mujeres bordan y tejen prendas llenas de significado. Su cultura une rituales antiguos de petición de lluvia con celebraciones católicas, y la lengua jñatjo sigue siendo un vínculo de identidad, aunque cada vez menos niños la aprenden.",
+      "en": "The Mazahua people, who call themselves Jñatjo, are the largest Indigenous people of the State of Mexico. They live mainly in the northwest and west-central parts of the state, in municipalities such as San Felipe del Progreso, San José del Rincón, Ixtlahuaca, Villa Victoria and Temascalcingo. Community life is organized around the family, shared communal work (faenas) and the mayordomías, the stewardships that look after the festivals. They grow corn, fava beans and beans, and Mazahua women embroider and weave garments rich in meaning. Their culture joins ancient rain-petition rituals with Catholic celebrations, and the Jñatjo language remains a bond of identity, even though fewer children learn it today."
+    },
+    "gastronomia": [
+      {
+        "id": "mole-guajolote",
+        "nombre": {
+          "es": "Mole de guajolote",
+          "en": "Mole de guajolote (turkey in mole)"
+        },
+        "descripcion": {
+          "es": "Mole rojo o verde con guajolote, platillo de las fiestas y reuniones familiares en San Felipe del Progreso y otras comunidades, acompañado de arroz rojo y tortillas hechas a mano.",
+          "en": "Red or green mole with turkey, a dish for festivals and family gatherings in San Felipe del Progreso and other communities, served with red rice and handmade tortillas."
+        },
+        "verificado": true,
+        "fuente": "https://foem.edomex.gob.mx/sites/foem.edomex.gob.mx/files/catalogo/San%20Felipe%20del%20Progreso.pdf"
+      },
+      {
+        "id": "tamales-mazahuas",
+        "nombre": {
+          "es": "Tamales de charales y de sal",
+          "en": "Tamales de charales and tamales de sal"
+        },
+        "descripcion": {
+          "es": "Tamales de charal, de sal y de frijol, además de versiones dulces, que se venden en los tianguis y mercados de San Felipe del Progreso y de las comunidades cercanas.",
+          "en": "Tamales filled with charales (tiny lake fish), salted tamales and bean tamales, plus sweet versions, sold in the markets of San Felipe del Progreso and nearby communities."
+        },
+        "verificado": true,
+        "fuente": "https://foem.edomex.gob.mx/sites/foem.edomex.gob.mx/files/catalogo/San%20Felipe%20del%20Progreso.pdf"
+      },
+      {
+        "id": "sendechjo",
+        "nombre": {
+          "es": "Sendechjo",
+          "en": "Sendechjo (ceremonial corn drink)"
+        },
+        "descripcion": {
+          "es": "Bebida ceremonial de maíz nativo azul, hojas de pino, pulque, agua y piloncillo, que tarda entre 25 y 30 días en prepararse. Se ofrece en bautizos, bodas, funerales y fiestas religiosas.",
+          "en": "A ceremonial drink made from native blue corn, pine leaves, pulque, water and unrefined cane sugar, taking 25 to 30 days to prepare. It is served at baptisms, weddings, funerals and religious festivals."
+        },
+        "verificado": true,
+        "fuente": "https://www.scielo.org.mx/pdf/esracdr/v35n66/2395-9169-esracdr-35-66-e251603.pdf"
+      },
+      {
+        "id": "pulque",
+        "nombre": {
+          "es": "Pulque",
+          "en": "Pulque"
+        },
+        "descripcion": {
+          "es": "Bebida fermentada del aguamiel del maguey, que los tlachiqueros raspan y recogen en la región. Es también ingrediente indispensable del sendechjo.",
+          "en": "A fermented drink made from maguey sap (aguamiel), gathered by tlachiqueros in the region. It is also an essential ingredient of sendechjo."
+        },
+        "verificado": true,
+        "fuente": "https://foem.edomex.gob.mx/sites/foem.edomex.gob.mx/files/catalogo/San%20Felipe%20del%20Progreso.pdf"
+      },
+      {
+        "id": "pescado-de-presa",
+        "nombre": {
+          "es": "Charales, acociles y carpa de presa",
+          "en": "Charales, acociles and carp from the reservoirs"
+        },
+        "descripcion": {
+          "es": "Charales fritos o en tortitas, acociles en salsa roja con nopales y carpa asada, productos de las presas y lagunas de la región mazahua, junto con quelites y hongos de temporada.",
+          "en": "Fried charales or patties, acociles (freshwater shrimp) in red sauce with nopales, and grilled carp, from the region's reservoirs and lagoons, alongside seasonal quelites (wild greens) and mushrooms."
+        },
+        "verificado": false,
+        "fuente": "https://foem.edomex.gob.mx/sites/foem.edomex.gob.mx/files/catalogo/San%20Felipe%20del%20Progreso.pdf"
+      }
+    ],
+    "festividades": [
+      {
+        "id": "fiesta-nuestro-padre-jesus",
+        "nombre": {
+          "es": "Fiesta de Nuestro Padre Jesús",
+          "en": "Festival of Nuestro Padre Jesús"
+        },
+        "descripcion": {
+          "es": "Fiesta patronal de San Felipe del Progreso, con portadas de semillas y flores, procesión con adornos de palomitas de maíz, castillos de pirotecnia, carreras de caballos y peregrinos de Michoacán.",
+          "en": "The patron-saint festival of San Felipe del Progreso, with portals made of seeds and flowers, a procession adorned with popcorn garlands, fireworks towers, horse races and pilgrims from Michoacán."
+        },
+        "fecha": {
+          "es": "Tercer miércoles de enero, con duración de 20 días o más",
+          "en": "Third Wednesday of January, lasting 20 days or more"
+        },
+        "verificado": true,
+        "fuente": "https://foem.edomex.gob.mx/sites/foem.edomex.gob.mx/files/catalogo/San%20Felipe%20del%20Progreso.pdf"
+      },
+      {
+        "id": "ceremonia-fuego-nuevo",
+        "nombre": {
+          "es": "Ceremonia del Fuego Nuevo",
+          "en": "New Fire ceremony"
+        },
+        "descripcion": {
+          "es": "Ceremonia principal del Centro Ceremonial Mazahua, que se realiza en marzo. En el centro también se celebran ceremonias tradicionales el primer domingo de cada mes.",
+          "en": "The main ceremony of the Mazahua Ceremonial Center, held in March. The center also hosts traditional ceremonies on the first Sunday of each month."
+        },
+        "fecha": {
+          "es": "Marzo (21 de marzo)",
+          "en": "March (March 21)"
+        },
+        "verificado": true,
+        "fuente": "https://foem.edomex.gob.mx/sites/foem.edomex.gob.mx/files/catalogo/San%20Felipe%20del%20Progreso.pdf"
+      },
+      {
+        "id": "dia-de-la-santa-cruz",
+        "nombre": {
+          "es": "Día de la Santa Cruz",
+          "en": "Day of the Holy Cross"
+        },
+        "descripcion": {
+          "es": "Ritual agrícola de petición de lluvia y buenas cosechas en comunidades como San Pedro de los Baños, Ixtlahuaca, con danzas de pastoras, concheros y Santiagos, y mayordomas que sahúman y ofrendan.",
+          "en": "An agricultural ritual to ask for rain and good harvests in communities such as San Pedro de los Baños, Ixtlahuaca, featuring pastoras, concheros and Santiagos dances, and mayordomas who offer incense and offerings."
+        },
+        "fecha": {
+          "es": "1 de mayo",
+          "en": "May 1"
+        },
+        "verificado": true,
+        "fuente": "https://www.redalyc.org/pdf/3713/371345325015.pdf"
+      },
+      {
+        "id": "san-isidro-labrador",
+        "nombre": {
+          "es": "Fiesta de San Isidro Labrador",
+          "en": "Festival of San Isidro Labrador"
+        },
+        "descripcion": {
+          "es": "Celebración en comunidades de San Felipe del Progreso para pedir lluvia y proteger las cosechas, con banda, misa y grupos de danza como las pastoras y las arrieras.",
+          "en": "A celebration in communities of San Felipe del Progreso to ask for rain and protect the harvest, with a brass band, Mass and dance groups such as the pastoras and arrieras."
+        },
+        "fecha": {
+          "es": "15 de mayo",
+          "en": "May 15"
+        },
+        "verificado": true,
+        "fuente": "https://www.redalyc.org/pdf/3713/371345325015.pdf"
+      }
+    ],
+    "artesanias": [
+      {
+        "id": "bordado-mazahua",
+        "nombre": {
+          "es": "Bordado mazahua",
+          "en": "Mazahua embroidery"
+        },
+        "descripcion": {
+          "es": "Bordado de dos agujas, punto de cruz, cadenilla y otras técnicas, con motivos de sol, luna, mazorcas, flores, aves y venado. Se aplica a blusas, vestidos, servilletas y las llamadas caritas.",
+          "en": "Two-needle embroidery, cross-stitch, chain stitch and other techniques, with motifs of the sun, moon, corn cobs, flowers, birds and deer. It adorns blouses, dresses, napkins and the small cloths known as caritas."
+        },
+        "verificado": true,
+        "fuente": "https://www.mexicodesconocido.com.mx/artesanias-mazahuas.html"
+      },
+      {
+        "id": "textiles-telar",
+        "nombre": {
+          "es": "Textiles de telar: fajas y quesquémil",
+          "en": "Loom textiles: fajas and quesquémil"
+        },
+        "descripcion": {
+          "es": "Fajas, cobijas, morrales, chalecos y quesquémiles tejidos en telar de cintura o de pedal. Las fajas se consideran verdaderos códices textiles donde se expresa la cosmovisión mazahua.",
+          "en": "Sashes (fajas), blankets, bags, vests and quesquémiles (shoulder capes) woven on backstrap or treadle looms. The fajas are regarded as textile codices that express the Mazahua worldview."
+        },
+        "verificado": true,
+        "fuente": "https://www.mexicodesconocido.com.mx/artesanias-mazahuas.html"
+      },
+      {
+        "id": "plateria-plateros",
+        "nombre": {
+          "es": "Platería de Plateros",
+          "en": "Silverwork of Plateros"
+        },
+        "descripcion": {
+          "es": "Taller de plata en la comunidad de Plateros, San Felipe del Progreso, famosa por sus aretes de palomita: una paloma indica mujer soltera y dos, de frente, mujer casada.",
+          "en": "Silver workshops in the community of Plateros, San Felipe del Progreso, known for dove (palomita) earrings: one dove marks an unmarried woman and two facing doves a married one."
+        },
+        "verificado": true,
+        "fuente": "https://foem.edomex.gob.mx/sites/foem.edomex.gob.mx/files/catalogo/San%20Felipe%20del%20Progreso.pdf"
+      },
+      {
+        "id": "trenzado-fibras",
+        "nombre": {
+          "es": "Trenzado de fibras vegetales",
+          "en": "Plant-fiber braiding"
+        },
+        "descripcion": {
+          "es": "Oficio artesanal registrado entre las y los artesanos de San José del Rincón, junto con el bordado y el telar de pedal.",
+          "en": "A craft listed in the municipal register of artisans of San José del Rincón, where it is practiced alongside embroidery and treadle-loom weaving."
+        },
+        "verificado": false,
+        "fuente": "https://sanjosedelrincon.gob.mx/transparencia/ArtesaniasSJR/2023/Registro%20Municipal%20de%20Artesanas%20y%20Artesanos.pdf"
+      }
+    ],
+    "costumbres": [
+      {
+        "id": "mayordomias",
+        "nombre": {
+          "es": "Mayordomías y faenas",
+          "en": "Mayordomías and faenas"
+        },
+        "descripcion": {
+          "es": "Mayordomos, fiscales y mayordomitos organizan los ritos y fiestas según su cargo. Las faenas son trabajos comunitarios, y la familia, nuclear o extensa, es la base de la organización social.",
+          "en": "Mayordomos, fiscales and mayordomitos organize rites and festivals according to their appointed term. Faenas are shared community work, and the family, nuclear or extended, is the basis of social life."
+        },
+        "verificado": false,
+        "fuente": "https://es.wikipedia.org/wiki/Mazahuas"
+      },
+      {
+        "id": "danza-pastoras",
+        "nombre": {
+          "es": "Danza de las pastoras",
+          "en": "Dance of the pastoras"
+        },
+        "descripcion": {
+          "es": "Las pastoras bailan en procesiones y fiestas agrícolas. Su bastón simboliza fertilidad y los cascabeles aluden al sonido de la lluvia y el trueno.",
+          "en": "The pastoras dance in processions and agricultural festivals. Their staff symbolizes fertility and the bells recall the sound of rain and thunder."
+        },
+        "verificado": true,
+        "fuente": "https://www.redalyc.org/pdf/3713/371345325015.pdf"
+      },
+      {
+        "id": "carreras-de-caballos",
+        "nombre": {
+          "es": "Acompañar al santo a caballo",
+          "en": "Accompanying the saint on horseback"
+        },
+        "descripcion": {
+          "es": "En muchas fiestas patronales, jinetes acompañan la imagen en su recorrido y luego hay carreras de caballos. Después se les ofrece comida en agradecimiento por su apoyo.",
+          "en": "In many patron-saint festivals, riders escort the image along its route and horse races follow. Afterward they are offered food as thanks for their help."
+        },
+        "verificado": true,
+        "fuente": "https://foem.edomex.gob.mx/sites/foem.edomex.gob.mx/files/catalogo/San%20Felipe%20del%20Progreso.pdf"
+      },
+      {
+        "id": "vestimenta-mazahua",
+        "nombre": {
+          "es": "Vestimenta tradicional",
+          "en": "Traditional dress"
+        },
+        "descripcion": {
+          "es": "Muchas mujeres portan a diario enaguas, blusas bordadas, quesquémil y collares y aretes de plata. La vestimenta es expresión de identidad y se aprecia en mercados y fiestas.",
+          "en": "Many women wear skirts, embroidered blouses, quesquémiles and silver necklaces and earrings every day. Dress is an expression of identity, seen in markets and festivals."
+        },
+        "verificado": true,
+        "fuente": "https://foem.edomex.gob.mx/sites/foem.edomex.gob.mx/files/catalogo/San%20Felipe%20del%20Progreso.pdf"
+      },
+      {
+        "id": "boda-tradicional",
+        "nombre": {
+          "es": "Boda tradicional",
+          "en": "Traditional wedding"
+        },
+        "descripcion": {
+          "es": "En el noviazgo tradicional, el novio debe hacer al menos tres visitas a la casa de la novia antes de formalizar el compromiso.",
+          "en": "In traditional courtship, the groom must make at least three visits to the bride's home before the engagement is formalized."
+        },
+        "verificado": false,
+        "fuente": "https://es.wikipedia.org/wiki/Mazahuas"
+      }
+    ],
+    "frases": [],
+    "foto": "mazahua-portada",
+    "fuentes": [
+      {
+        "titulo": "San Felipe del Progreso, Pueblo con Encanto (Gobierno del Estado de México)",
+        "url": "https://foem.edomex.gob.mx/sites/foem.edomex.gob.mx/files/catalogo/San%20Felipe%20del%20Progreso.pdf"
+      },
+      {
+        "titulo": "Elaboración del Sendechjo: bebida mazahua de maíz nativo en San Nicolás Guadalupe (Estudios Sociales, 2025)",
+        "url": "https://www.scielo.org.mx/pdf/esracdr/v35n66/2395-9169-esracdr-35-66-e251603.pdf"
+      },
+      {
+        "titulo": "Rituales agrícolas: la fiesta de la Santa Cruz y de San Isidro Labrador en dos municipios mazahuas (Diálogo Andino, 2016)",
+        "url": "https://www.redalyc.org/pdf/3713/371345325015.pdf"
+      },
+      {
+        "titulo": "Artesanías mazahuas (México Desconocido)",
+        "url": "https://www.mexicodesconocido.com.mx/artesanias-mazahuas.html"
+      },
+      {
+        "titulo": "Población indígena del Estado de México (COESPO, 2021)",
+        "url": "https://coespo.edomex.gob.mx/sites/coespo.edomex.gob.mx/files/files/2021/Poblaci%C3%B3n%20indigena%20del%20Estado%20de%20M%C3%A9xico%20Marzo%20COESPO%202021.pdf"
+      },
+      {
+        "titulo": "Registro Municipal de Artesanas y Artesanos (San José del Rincón)",
+        "url": "https://sanjosedelrincon.gob.mx/transparencia/ArtesaniasSJR/2023/Registro%20Municipal%20de%20Artesanas%20y%20Artesanos.pdf"
+      },
+      {
+        "titulo": "Mazahuas (Wikipedia, solo como pista)",
+        "url": "https://es.wikipedia.org/wiki/Mazahuas"
+      }
+    ]
+  },
+  {
+    "id": "nahua",
+    "nombre": {
+      "es": "Pueblo nahua",
+      "en": "Nahua people"
+    },
+    "nombrePropio": "Nahua",
+    "lengua": {
+      "es": "Náhuatl (nahuatl)",
+      "en": "Nahuatl"
+    },
+    "municipios": [
+      {
+        "nombre": "Texcoco",
+        "lat": 19.5167,
+        "lon": -98.8833
+      },
+      {
+        "nombre": "Amecameca",
+        "lat": 19.125,
+        "lon": -98.7667
+      },
+      {
+        "nombre": "Malinalco",
+        "lat": 18.95,
+        "lon": -99.496
+      },
+      {
+        "nombre": "Tejupilco",
+        "lat": 18.9054,
+        "lon": -100.1544
+      },
+      {
+        "nombre": "Temascaltepec",
+        "lat": 19.043,
+        "lon": -100.045
+      },
+      {
+        "nombre": "Sultepec",
+        "lat": 18.865,
+        "lon": -99.961
+      },
+      {
+        "nombre": "Xalatlaco",
+        "lat": 19.179,
+        "lon": -99.4
+      },
+      {
+        "nombre": "Capulhuac",
+        "lat": 19.19,
+        "lon": -99.463
+      }
+    ],
+    "resena": {
+      "es": "El pueblo nahua es el tercero en número de hablantes de lengua indígena en el Estado de México. El CEDIPIEM lo ubica sobre todo en Temascaltepec, Sultepec, Tejupilco, Malinalco, Joquicingo, Amecameca, Tianguistenco, Tenango del Valle, Xalatlaco, Capulhuac y Texcoco. En la sierra de Texcoco, comunidades como San Jerónimo Amanalco, Santa Catarina del Monte, Santa María Tecuanulco y San Miguel Tlaixpan conservan el náhuatl y un ciclo festivo ligado a los cerros, el agua y el santo patrono. Aunque la urbanización ha cambiado muchas costumbres, siguen vivas las fiestas religiosas, la vestimenta, la gastronomía y la lengua que sostienen su identidad.",
+      "en": "The Nahua are the third-largest group of indigenous-language speakers in the State of Mexico. CEDIPIEM places them mainly in Temascaltepec, Sultepec, Tejupilco, Malinalco, Joquicingo, Amecameca, Tianguistenco, Tenango del Valle, Xalatlaco, Capulhuac and Texcoco. In the Texcoco highlands, communities such as San Jerónimo Amanalco, Santa Catarina del Monte, Santa María Tecuanulco and San Miguel Tlaixpan keep Nahuatl alive, along with a festive cycle tied to the hills, water and the patron saint. Although urbanization has changed many customs, religious festivals, dress, food and language remain alive and sustain their identity."
+    },
+    "gastronomia": [
+      {
+        "id": "tortitas-flor-zompantle",
+        "nombre": {
+          "es": "Tortitas de flor de zompantle",
+          "en": "Tortitas de flor de zompantle (zompantle flower fritters)"
+        },
+        "descripcion": {
+          "es": "Tortitas hechas con la flor del zompantle, un árbol de la región. Aparecen en la sección nahua del libro de cocina tradicional que reúne la receta de cocineras de los cinco pueblos originarios mexiquenses.",
+          "en": "Fritters made with the flower of the zompantle tree. They appear in the Nahua section of the traditional cookbook that gathers recipes from cooks of the State of Mexico's five indigenous peoples."
+        },
+        "verificado": true,
+        "fuente": "https://ipomex.org.mx/recursos/ipo/files_ipo3/2018/44020/12/535100621a8d34043bd744bab43a2618.pdf"
+      },
+      {
+        "id": "tamales-extendidos",
+        "nombre": {
+          "es": "Tamales extendidos",
+          "en": "Tamales extendidos (spread-style tamales)"
+        },
+        "descripcion": {
+          "es": "Platillo de la cocina nahua registrado en el libro Cinco sabores tradicionales mexiquenses, elaborado por CEDIPIEM, la UIEM y cocineras tradicionales, con recetas presentadas también en lengua originaria.",
+          "en": "A Nahua dish recorded in the book Cinco sabores tradicionales mexiquenses, produced by CEDIPIEM, the UIEM and traditional cooks, with recipes also presented in the indigenous language."
+        },
+        "verificado": true,
+        "fuente": "https://ipomex.org.mx/recursos/ipo/files_ipo3/2018/44020/12/535100621a8d34043bd744bab43a2618.pdf"
+      },
+      {
+        "id": "chileatole",
+        "nombre": {
+          "es": "Chileatole",
+          "en": "Chileatole (a chile and corn atole)"
+        },
+        "descripcion": {
+          "es": "Atole con chile, parte del recetario nahua de Cinco sabores tradicionales mexiquenses. Es un ejemplo de la cocina cotidiana basada en el maíz, cultivo central en las comunidades nahuas.",
+          "en": "A chile-flavored atole included in the Nahua recipes of Cinco sabores tradicionales mexiquenses. It reflects everyday cooking based on corn, a central crop in Nahua communities."
+        },
+        "verificado": true,
+        "fuente": "https://ipomex.org.mx/recursos/ipo/files_ipo3/2018/44020/12/535100621a8d34043bd744bab43a2618.pdf"
+      },
+      {
+        "id": "nopales-con-espina",
+        "nombre": {
+          "es": "Nopales con espina",
+          "en": "Nopales con espina (nopales cooked with their spines)"
+        },
+        "descripcion": {
+          "es": "Receta incluida en la sección nahua del libro de cocina tradicional mexiquense. Su nombre indica un modo particular de preparar el nopal, que se documenta junto con la receta de la cocinera que la comparte.",
+          "en": "A recipe included in the Nahua section of the State of Mexico traditional cookbook. Its name points to a particular way of preparing nopal, documented along with the recipe of the cook who shares it."
+        },
+        "verificado": true,
+        "fuente": "https://ipomex.org.mx/recursos/ipo/files_ipo3/2018/44020/12/535100621a8d34043bd744bab43a2618.pdf"
+      },
+      {
+        "id": "mole-con-pollo-y-arroz",
+        "nombre": {
+          "es": "Mole con pollo y arroz",
+          "en": "Mole with chicken and rice"
+        },
+        "descripcion": {
+          "es": "En las bodas nahuas de la sierra de Texcoco, los compadres y familiares comparten comúnmente mole con pollo y arroz, tras entregar pan y otros obsequios como parte de la ceremonia de compromiso.",
+          "en": "At Nahua weddings in the Texcoco highlands, godparents and relatives commonly share mole with chicken and rice, after the exchange of bread and other gifts that is part of the engagement ceremony."
+        },
+        "verificado": true,
+        "fuente": "https://www.gob.mx/cms/uploads/attachment/file/12558/nahuas_texcoco.pdf"
+      }
+    ],
+    "festividades": [
+      {
+        "id": "apantla",
+        "nombre": {
+          "es": "La Apantla (fiesta del agua)",
+          "en": "La Apantla (water festival)"
+        },
+        "descripcion": {
+          "es": "Fiesta en honor al agua en Santa Catarina del Monte, Texcoco. Sus nahuahablantes traducen Apantla como \"el caño se limpia\". Se celebra junto con la Santa Cruz, con ofrendas, música y rezos para que no falte el agua.",
+          "en": "A festival honoring water in Santa Catarina del Monte, Texcoco. Nahuatl speakers translate Apantla as \"the ditch is cleaned.\" It is held with the Holy Cross feast, with offerings, music and prayers so that water does not run short."
+        },
+        "fecha": {
+          "es": "3 de mayo",
+          "en": "May 3"
+        },
+        "verificado": true,
+        "fuente": "https://www.scielo.org.mx/pdf/cuicui/v22n63/v22n63a3.pdf"
+      },
+      {
+        "id": "ofrenda-cerro-tlapahuetzia",
+        "nombre": {
+          "es": "Ofrenda floral a la Santa Cruz en el cerro",
+          "en": "Flower offering to the Holy Cross on the hill"
+        },
+        "descripcion": {
+          "es": "En San Jerónimo Amanalco se cree que en la cima del cerro Tlapahuetzia hay una abertura cubierta con una cruz, a la que cada 3 de mayo se ofrece una ofrenda floral.",
+          "en": "In San Jerónimo Amanalco it is held that a hole on the summit of Tlapahuetzia hill is covered by a cross, to which a flower offering is made every May 3."
+        },
+        "fecha": {
+          "es": "3 de mayo",
+          "en": "May 3"
+        },
+        "verificado": true,
+        "fuente": "https://www.gob.mx/cms/uploads/attachment/file/12558/nahuas_texcoco.pdf"
+      },
+      {
+        "id": "candelaria",
+        "nombre": {
+          "es": "Fiesta de la Candelaria",
+          "en": "Candlemas (Candelaria)"
+        },
+        "descripcion": {
+          "es": "En la sierra de Texcoco, el periodo de servicio de los cargos religiosos y mayordomías se inicia el 2 de febrero, día de la Candelaria, cuando se organiza la fiesta y se renuevan responsabilidades comunitarias.",
+          "en": "In the Texcoco highlands, the service period of religious posts and mayordomías begins on February 2, Candlemas, when the feast is organized and community responsibilities are renewed."
+        },
+        "fecha": {
+          "es": "2 de febrero",
+          "en": "February 2"
+        },
+        "verificado": true,
+        "fuente": "https://www.gob.mx/cms/uploads/attachment/file/12558/nahuas_texcoco.pdf"
+      },
+      {
+        "id": "san-miguel-arcangel",
+        "nombre": {
+          "es": "Fiesta de San Miguel Arcángel",
+          "en": "Feast of San Miguel Arcángel"
+        },
+        "descripcion": {
+          "es": "Fiesta que en esta zona se celebra el 29 de septiembre, época de los primeros elotes. Se vincula con relatos de la región sobre San Miguel y el santuario de Molino de Flores, donde se venera un Cristo Negro.",
+          "en": "A feast celebrated in this area on September 29, the season of the first young corn. It is tied to regional stories about San Miguel and the Molino de Flores sanctuary, where a Black Christ is venerated."
+        },
+        "fecha": {
+          "es": "29 de septiembre",
+          "en": "September 29"
+        },
+        "verificado": true,
+        "fuente": "https://www.gob.mx/cms/uploads/attachment/file/12558/nahuas_texcoco.pdf"
+      },
+      {
+        "id": "miercoles-ceniza-sacromonte",
+        "nombre": {
+          "es": "Miércoles de Ceniza en el Sacromonte",
+          "en": "Ash Wednesday at the Sacromonte"
+        },
+        "descripcion": {
+          "es": "En Amecameca, miles de fieles acuden al santuario del Señor del Sacromonte a recibir la ceniza. Una asociación civil local organiza parte de las celebraciones del cerro, con raíces anteriores a la colonia.",
+          "en": "In Amecameca, thousands of worshippers visit the Señor del Sacromonte sanctuary to receive ashes. A local civic association organizes part of the hill's celebrations, which have pre-colonial roots."
+        },
+        "fecha": {
+          "es": "Miércoles de Ceniza (fecha variable)",
+          "en": "Ash Wednesday (date varies)"
+        },
+        "verificado": false,
+        "fuente": "https://amp.milenio.com/politica/comunidad/cristo-sacromonte-miles-fieles-toman-ceniza-amecameca"
+      }
+    ],
+    "artesanias": [
+      {
+        "id": "figuras-de-perlilla",
+        "nombre": {
+          "es": "Figuras de vara de perlilla",
+          "en": "Perlilla twig figures"
+        },
+        "descripcion": {
+          "es": "En Santa Catarina del Monte se elaboran venados, patos, coronas, canastas y nacimientos con la vara del arbusto de perlilla. En la tarea participa toda la familia.",
+          "en": "In Santa Catarina del Monte, deer, ducks, wreaths, baskets and nativity scenes are made from the twigs of the perlilla shrub. The whole family takes part in the work."
+        },
+        "verificado": true,
+        "fuente": "https://www.scielo.org.mx/pdf/conver/v15n46/v15n46a10.pdf"
+      },
+      {
+        "id": "cestas-y-arreglos-de-perlilla",
+        "nombre": {
+          "es": "Cestas y arreglos florales de perlilla",
+          "en": "Perlilla baskets and flower arrangements"
+        },
+        "descripcion": {
+          "es": "La vara de perlilla, una vez procesada, sirve de armazón para cestas y para arreglos florales, ligando la artesanía con la floricultura, actividad importante en Texcoco.",
+          "en": "Once processed, perlilla twigs serve as the frame for baskets and flower arrangements, linking the craft with floriculture, an important activity in Texcoco."
+        },
+        "verificado": true,
+        "fuente": "https://www.scielo.org.mx/pdf/conver/v15n46/v15n46a10.pdf"
+      },
+      {
+        "id": "textiles-texcoco",
+        "nombre": {
+          "es": "Textiles de Texcoco",
+          "en": "Texcoco textiles"
+        },
+        "descripcion": {
+          "es": "Una fuente divulgativa señala que los nahuas de Texcoco se dedican al trabajo textil. Faltan detalles sobre técnicas y piezas, por lo que este dato requiere confirmación adicional.",
+          "en": "A general-interest source notes that the Nahua of Texcoco work in textiles. Details on techniques and pieces are lacking, so this item needs further confirmation."
+        },
+        "verificado": false,
+        "fuente": "https://www.mexicodesconocido.com.mx/que-pueblos-indigenas-viven-en-el-estado-de-mexico.html"
+      }
+    ],
+    "costumbres": [
+      {
+        "id": "cargos-y-mayordomias",
+        "nombre": {
+          "es": "Sistema de cargos y mayordomías",
+          "en": "Cargo system and mayordomías"
+        },
+        "descripcion": {
+          "es": "La vida religiosa se organiza mediante cargos como fiscales, mayordomos y campaneros, que son obligatorios y sirven para organizar las fiestas del santo patrono y coordinar a la comunidad.",
+          "en": "Religious life is organized through posts such as fiscales, mayordomos and bell-ringers. These posts are obligatory and serve to organize the patron saint's festivals and coordinate the community."
+        },
+        "verificado": true,
+        "fuente": "https://www.gob.mx/cms/uploads/attachment/file/12558/nahuas_texcoco.pdf"
+      },
+      {
+        "id": "culto-al-santo-patrono-y-cerros",
+        "nombre": {
+          "es": "Santo patrono, cerros y agua",
+          "en": "Patron saint, hills and water"
+        },
+        "descripcion": {
+          "es": "En la sierra de Texcoco, el santo patrono se relaciona con los cerros cercanos, como Coatemulco o Tecuani, y con el agua. Las ofrendas en altares domésticos y cerros mantienen esa visión del territorio.",
+          "en": "In the Texcoco highlands, the patron saint is linked to nearby hills such as Coatemulco or Tecuani, and to water. Offerings at home altars and on hills maintain this view of the territory."
+        },
+        "verificado": true,
+        "fuente": "https://www.gob.mx/cms/uploads/attachment/file/12558/nahuas_texcoco.pdf"
+      },
+      {
+        "id": "milpa",
+        "nombre": {
+          "es": "Cultivo de la milpa",
+          "en": "Milpa farming"
+        },
+        "descripcion": {
+          "es": "El cultivo de la milpa continúa en comunidades como San Jerónimo Amanalco. La economía se ha diversificado con la floricultura, los oficios y el trabajo en la ciudad, pero la tradición agrícola sigue presente.",
+          "en": "Milpa farming continues in communities such as San Jerónimo Amanalco. The economy has diversified with floriculture, trades and urban work, but the farming tradition remains present."
+        },
+        "verificado": true,
+        "fuente": "https://www.gob.mx/cms/uploads/attachment/file/12558/nahuas_texcoco.pdf"
+      },
+      {
+        "id": "danzas-y-bandas",
+        "nombre": {
+          "es": "Danzas y bandas de música",
+          "en": "Dances and brass bands"
+        },
+        "descripcion": {
+          "es": "Las fiestas de Amanalco incluyen la danza de santiagueros, la danza de vaqueros y bandas de música, que acompañan las celebraciones religiosas del pueblo.",
+          "en": "Festivals in Amanalco include the santiagueros dance, the vaqueros dance and music bands, which accompany the town's religious celebrations."
+        },
+        "verificado": true,
+        "fuente": "https://www.gob.mx/cms/uploads/attachment/file/12558/nahuas_texcoco.pdf"
+      },
+      {
+        "id": "pan-y-bodas",
+        "nombre": {
+          "es": "Bodas y pan de fiesta",
+          "en": "Weddings and festival bread"
+        },
+        "descripcion": {
+          "es": "En las bodas, las familias intercambian pan, cigarrillos y vino, y los emisarios llevan el aviso del compromiso. El pan de fiesta, horneado en hornos locales, también es un oficio en la región.",
+          "en": "At weddings, families exchange bread, cigarettes and wine, and messengers carry news of the engagement. Festival bread, baked in local ovens, is also a trade in the region."
+        },
+        "verificado": true,
+        "fuente": "https://www.gob.mx/cms/uploads/attachment/file/12558/nahuas_texcoco.pdf"
+      }
+    ],
+    "frases": [],
+    "foto": "nahua-portada",
+    "fuentes": [
+      {
+        "titulo": "Nahuas de Texcoco (Carreón Flores, CDI, 2007)",
+        "url": "https://www.gob.mx/cms/uploads/attachment/file/12558/nahuas_texcoco.pdf"
+      },
+      {
+        "titulo": "Población indígena en el Estado de México (COESPO, 2021)",
+        "url": "https://coespo.edomex.gob.mx/sites/coespo.edomex.gob.mx/files/files/2021/Poblaci%C3%B3n%20indigena%20del%20Estado%20de%20M%C3%A9xico%20Marzo%20COESPO%202021.pdf"
+      },
+      {
+        "titulo": "La Apantla: el agradecimiento para que no falte el agua (Cuicuilco, 2015)",
+        "url": "https://www.scielo.org.mx/pdf/cuicui/v22n63/v22n63a3.pdf"
+      },
+      {
+        "titulo": "La artesanía como producción cultural en Santa Catarina del Monte (Convergencia, 2008)",
+        "url": "https://www.scielo.org.mx/pdf/conver/v15n46/v15n46a10.pdf"
+      },
+      {
+        "titulo": "Cinco sabores tradicionales mexiquenses (CEDIPIEM/UIEM)",
+        "url": "https://ipomex.org.mx/recursos/ipo/files_ipo3/2018/44020/12/535100621a8d34043bd744bab43a2618.pdf"
+      },
+      {
+        "titulo": "¿Qué pueblos indígenas viven en el Estado de México? (México Desconocido)",
+        "url": "https://www.mexicodesconocido.com.mx/que-pueblos-indigenas-viven-en-el-estado-de-mexico.html"
+      }
+    ]
+  },
+  {
+    "id": "matlatzinca",
+    "nombre": {
+      "es": "Matlatzinca",
+      "en": "Matlatzinca"
+    },
+    "nombrePropio": "Bot'una",
+    "lengua": {
+      "es": "Matlatzinca (bot'una), de la familia otopame",
+      "en": "Matlatzinca (Bot'una), of the Otopamean family"
+    },
+    "municipios": [
+      {
+        "nombre": "Temascaltepec",
+        "lat": 19.0409,
+        "lon": -100.0425
+      }
+    ],
+    "resena": {
+      "es": "El pueblo matlatzinca, cuya lengua se nombra bot'una, vive hoy sobre todo en San Francisco Oxtotilpan, comunidad del municipio de Temascaltepec, a unos 2,700 metros de altitud. Su lengua, de la familia otopame, es la indígena con menos hablantes en el Estado de México y la comunidad trabaja para mantenerla viva. La vida local gira en torno al ciclo agrícola del maíz, el sistema de cargos y las fiestas de los santos patronos, que comparte con los pueblos vecinos de San Mateo y San Miguel. El Día de Muertos, con campanas, palmas y ofrendas, es una de sus celebraciones más importantes.",
+      "en": "The Matlatzinca people, whose language is called Bot'una, live today mainly in San Francisco Oxtotilpan, a community in the municipality of Temascaltepec, at about 2,700 meters above sea level. Their language, of the Otopamean family, has the fewest speakers of any Indigenous language in the State of Mexico, and the community works to keep it alive. Local life revolves around the maize farming cycle, the system of community offices and the feasts of patron saints, which they share with the neighboring villages of San Mateo and San Miguel. Day of the Dead, with church bells, palm arches and offerings, is one of their most important celebrations."
+    },
+    "gastronomia": [
+      {
+        "id": "maiz-frijol-habas",
+        "nombre": {
+          "es": "Maíz, frijol, habas y hierbas del monte",
+          "en": "Maize, beans, fava beans and wild greens"
+        },
+        "descripcion": {
+          "es": "Base de la alimentación diaria matlatzinca: maíz, frijol, chile, habas y hierbas del monte. En temporada también se recolectan hongos; la carne se reserva sobre todo para las fiestas.",
+          "en": "The foundation of everyday Matlatzinca food: maize, beans, chile, fava beans and wild greens. Mushrooms are gathered in season, and meat is kept mostly for festivities."
+        },
+        "verificado": true,
+        "fuente": "https://temascaltepec.edomex.gob.mx/matlatzincas"
+      },
+      {
+        "id": "tamales-mole-ofrenda",
+        "nombre": {
+          "es": "Tamales y pollo en mole de ofrenda",
+          "en": "Tamales and chicken in mole for the offering"
+        },
+        "descripcion": {
+          "es": "En las ofrendas nocturnas de Día de Muertos se reúnen tamales y pollo en mole rojo o de semilla de calabaza, acompañados de café, aguardiente y pan.",
+          "en": "In the night offerings of Day of the Dead, families gather tamales and chicken in red mole or pumpkin-seed mole, served with coffee, aguardiente and bread."
+        },
+        "verificado": true,
+        "fuente": "https://temascaltepec.edomex.gob.mx/matlatzincas"
+      },
+      {
+        "id": "pulque",
+        "nombre": {
+          "es": "Pulque de aguamiel",
+          "en": "Pulque from agave sap"
+        },
+        "descripcion": {
+          "es": "Bebida fermentada que se produce en la comunidad a partir del aguamiel del maguey, parte de la vida cotidiana y de las celebraciones del pueblo.",
+          "en": "A fermented drink made in the community from maguey sap (aguamiel), part of everyday life and of the people's celebrations."
+        },
+        "verificado": true,
+        "fuente": "https://temascaltepec.edomex.gob.mx/matlatzincas"
+      },
+      {
+        "id": "pan-mixtu",
+        "nombre": {
+          "es": "Pan de animales (mixtu)",
+          "en": "Animal-shaped bread (mixtu)"
+        },
+        "descripcion": {
+          "es": "Pan con formas de animales que se coloca en la ofrenda matlatzinca de Día de Muertos, junto con tamales blancos y de ceniza. La grafía del nombre no está confirmada.",
+          "en": "Bread shaped like animals placed on the Matlatzinca Day of the Dead offering, together with white and ash tamales. The spelling of the name is not confirmed."
+        },
+        "verificado": false,
+        "fuente": "https://diarioportal.com/nacional/2020-11-03-dia-de-muertos-importante-tradicion-para-los-pueblos-originarios-mexiquenses"
+      }
+    ],
+    "festividades": [
+      {
+        "id": "san-marcos",
+        "nombre": {
+          "es": "San Marcos y petición de lluvia",
+          "en": "San Marcos and the rain petition"
+        },
+        "fecha": {
+          "es": "25 de abril",
+          "en": "April 25"
+        },
+        "descripcion": {
+          "es": "Inicio del ciclo de fiestas agrícolas: se pide la lluvia para las siembras. Forma parte de una serie de celebraciones que acompañan el cultivo del maíz durante el año.",
+          "en": "Part of the agricultural feast cycle: rain is requested for the crops. It belongs to a series of celebrations that accompany the maize-growing year."
+        },
+        "verificado": true,
+        "fuente": "https://temascaltepec.edomex.gob.mx/matlatzincas"
+      },
+      {
+        "id": "san-isidro-ropa-vieja",
+        "nombre": {
+          "es": "San Isidro Labrador, fiesta de la ropa vieja",
+          "en": "San Isidro Labrador, the feast of the old clothes"
+        },
+        "fecha": {
+          "es": "15 de mayo",
+          "en": "May 15"
+        },
+        "descripcion": {
+          "es": "Fiesta dedicada al santo de los agricultores, conocida localmente como la fiesta de la ropa vieja, dentro del calendario ligado a la protección de los campos.",
+          "en": "A feast for the patron saint of farmers, known locally as the feast of the old clothes, within the calendar tied to the protection of the fields."
+        },
+        "verificado": true,
+        "fuente": "https://temascaltepec.edomex.gob.mx/matlatzincas"
+      },
+      {
+        "id": "san-francisco-de-asis",
+        "nombre": {
+          "es": "Fiesta patronal de San Francisco de Asís",
+          "en": "Patron saint feast of San Francisco de Asís"
+        },
+        "fecha": {
+          "es": "4 de octubre",
+          "en": "October 4"
+        },
+        "descripcion": {
+          "es": "Fiesta del santo patrono de Oxtotilpan. Días antes, las imágenes de los pueblos vecinos se visitan entre sí, y la banda de viento matlatzinca acompaña procesiones y celebraciones.",
+          "en": "Feast of Oxtotilpan's patron saint. Days earlier, the images of neighboring villages visit one another, and the Matlatzinca wind band accompanies processions and celebrations."
+        },
+        "verificado": true,
+        "fuente": "https://temascaltepec.edomex.gob.mx/matlatzincas"
+      },
+      {
+        "id": "dia-de-muertos",
+        "nombre": {
+          "es": "Día de Muertos",
+          "en": "Day of the Dead"
+        },
+        "fecha": {
+          "es": "1 y 2 de noviembre",
+          "en": "November 1 and 2"
+        },
+        "descripcion": {
+          "es": "Una de las fiestas más importantes. Las campanas repican para llamar a los muertos y se colocan ofrendas con frutas, velas y un arco de palma que representa los rayos del sol.",
+          "en": "One of the most important feasts. Church bells ring to call the dead, and offerings are set with fruit, candles and a palm arch that represents the rays of the sun."
+        },
+        "verificado": true,
+        "fuente": "https://cedipiem.edomex.gob.mx/usos_costumbres_matlazinca"
+      },
+      {
+        "id": "san-andres-cargos",
+        "nombre": {
+          "es": "San Andrés y nombramiento de cargos",
+          "en": "San Andrés and the naming of offices"
+        },
+        "fecha": {
+          "es": "29 de noviembre",
+          "en": "November 29"
+        },
+        "descripcion": {
+          "es": "Fecha en que se nombran los cargos de la mayordomía que organizarán y sostendrán las fiestas religiosas durante el año siguiente.",
+          "en": "The date when the mayordomía offices are named; their holders will organize and sustain the religious feasts for the following year."
+        },
+        "verificado": true,
+        "fuente": "https://temascaltepec.edomex.gob.mx/matlatzincas"
+      }
+    ],
+    "artesanias": [
+      {
+        "id": "traje-hombre",
+        "nombre": {
+          "es": "Indumentaria tradicional de hombre",
+          "en": "Traditional men's clothing"
+        },
+        "descripcion": {
+          "es": "Calzón y camisa de algodón blanco, gabán de lana, huaraches, sombrero de palma y faja roja bordada. Hoy se usa sobre todo en las festividades del pueblo.",
+          "en": "White cotton trousers and shirt, a wool overcoat, sandals, a palm hat and a red embroidered sash. Today it is worn mainly at the people's festivities."
+        },
+        "verificado": true,
+        "fuente": "https://cedipiem.edomex.gob.mx/vestimenta_matlazinca"
+      },
+      {
+        "id": "traje-mujer",
+        "nombre": {
+          "es": "Indumentaria tradicional de mujer",
+          "en": "Traditional women's clothing"
+        },
+        "descripcion": {
+          "es": "Enredo o chincuete de lana de colores, blusa bordada, quexquémetl y faja para sujetar la falda. Es parte del vestuario festivo de la comunidad.",
+          "en": "A long multicolored wool skirt (enredo or chincuete), an embroidered blouse, a quexquémetl shawl and a sash to hold the skirt. It is part of the community's festive dress."
+        },
+        "verificado": true,
+        "fuente": "https://cedipiem.edomex.gob.mx/vestimenta_matlazinca"
+      },
+      {
+        "id": "fajas-tejidas",
+        "nombre": {
+          "es": "Fajas tejidas",
+          "en": "Woven sashes"
+        },
+        "descripcion": {
+          "es": "Un estudio académico registra el tejido de fajas en San Francisco Oxtotilpan, prenda que forma parte de la vestimenta tradicional. Los detalles de la técnica no se confirmaron.",
+          "en": "An academic study records sash weaving in San Francisco Oxtotilpan, a garment that is part of traditional dress. Details of the technique were not confirmed."
+        },
+        "verificado": false,
+        "fuente": "https://journals.unam.mx/index.php/eco/article/download/49568/44599/136835"
+      }
+    ],
+    "costumbres": [
+      {
+        "id": "sistema-de-cargos",
+        "nombre": {
+          "es": "Mayordomía y sistema de cargos",
+          "en": "Mayordomía and system of offices"
+        },
+        "descripcion": {
+          "es": "La vida social se organiza en torno a lo religioso: ocho mayordomos con ayudantes, encabezados por el fiscal, sirven por un año y financian las fiestas de los santos.",
+          "en": "Social life is organized around religion: eight mayordomos with helpers, led by the fiscal, serve for one year and fund the feasts of the saints."
+        },
+        "verificado": true,
+        "fuente": "https://temascaltepec.edomex.gob.mx/matlatzincas"
+      },
+      {
+        "id": "faena",
+        "nombre": {
+          "es": "Faena y trabajo comunitario",
+          "en": "Faena, communal work"
+        },
+        "descripcion": {
+          "es": "Delegados, guardias y capitanes de faena organizan el trabajo colectivo para abrir caminos, zanjas y canales de riego en beneficio de toda la comunidad.",
+          "en": "Delegates, guards and faena captains organize collective work to build roads, ditches and irrigation channels for the benefit of the whole community."
+        },
+        "verificado": true,
+        "fuente": "https://temascaltepec.edomex.gob.mx/matlatzincas"
+      },
+      {
+        "id": "medicina-tradicional",
+        "nombre": {
+          "es": "Medicina tradicional",
+          "en": "Traditional medicine"
+        },
+        "descripcion": {
+          "es": "Curanderos, plantas medicinales y el temascal se emplean para atender males como el mal de ojo y el susto, que la comunidad entiende desde su propia tradición.",
+          "en": "Healers, medicinal plants and the temascal (steam bath) are used to treat ailments such as the evil eye and susto, understood within the community's own tradition."
+        },
+        "verificado": true,
+        "fuente": "https://cedipiem.edomex.gob.mx/usos_costumbres_matlazinca"
+      },
+      {
+        "id": "ritos-de-lluvia",
+        "nombre": {
+          "es": "Ritos de lluvia en el Nevado de Toluca",
+          "en": "Rain rituals on the Nevado de Toluca"
+        },
+        "descripcion": {
+          "es": "Se realizan ceremonias en la cumbre del Nevado de Toluca (Xinantécatl) para pedir las lluvias que necesitan los cultivos, una práctica que une al pueblo con su territorio y con el ciclo agrícola.",
+          "en": "Ceremonies are held at the summit of the Nevado de Toluca (Xinantécatl) to ask for the rains that crops need, a practice that ties the people to their territory and to the agricultural cycle."
+        },
+        "verificado": true,
+        "fuente": "https://cedipiem.edomex.gob.mx/usos_costumbres_matlazinca"
+      },
+      {
+        "id": "choyata",
+        "nombre": {
+          "es": "Choyatá, ritual de noviazgo",
+          "en": "Choyatá, courtship ritual"
+        },
+        "descripcion": {
+          "es": "Ritual de noviazgo en el que el padre de la joven concede o no su consentimiento, dentro de los lazos de reciprocidad y compadrazgo entre familias.",
+          "en": "A courtship ritual in which the young woman's father grants or withholds consent, within the bonds of reciprocity and godparenthood between families."
+        },
+        "verificado": false,
+        "fuente": "https://temascaltepec.edomex.gob.mx/matlatzincas"
+      }
+    ],
+    "frases": [
+      {
+        "original": "Bapiiti",
+        "es": "Muchas gracias",
+        "en": "Thank you very much",
+        "fuente": "https://arqueologiamexicana.mx/sites/default/files/banco_imagenes/prontuario_matlatzinca.pdf",
+        "verificado": true
+      },
+      {
+        "original": "Puikja",
+        "es": "¿Cómo estás? (saludo genérico)",
+        "en": "How are you? (general greeting)",
+        "fuente": "https://arqueologiamexicana.mx/sites/default/files/banco_imagenes/prontuario_matlatzinca.pdf",
+        "verificado": true
+      },
+      {
+        "original": "Itanii",
+        "es": "Bienvenido",
+        "en": "Welcome",
+        "fuente": "https://arqueologiamexicana.mx/sites/default/files/banco_imagenes/prontuario_matlatzinca.pdf",
+        "verificado": true
+      },
+      {
+        "original": "Tjexu kata...",
+        "es": "Mi nombre es...",
+        "en": "My name is...",
+        "fuente": "https://arqueologiamexicana.mx/sites/default/files/banco_imagenes/prontuario_matlatzinca.pdf",
+        "verificado": true
+      },
+      {
+        "original": "Kjwenkwentu",
+        "es": "Nos vemos (adiós)",
+        "en": "See you (goodbye)",
+        "fuente": "https://arqueologiamexicana.mx/sites/default/files/banco_imagenes/prontuario_matlatzinca.pdf",
+        "verificado": true
+      }
+    ],
+    "foto": "matlatzinca-portada",
+    "fuentes": [
+      {
+        "titulo": "INALI. Prontuario en matlatzinca / español (bot'una)",
+        "url": "https://arqueologiamexicana.mx/sites/default/files/banco_imagenes/prontuario_matlatzinca.pdf"
+      },
+      {
+        "titulo": "CEDIPIEM. Usos y costumbres del pueblo matlatzinca",
+        "url": "https://cedipiem.edomex.gob.mx/usos_costumbres_matlazinca"
+      },
+      {
+        "titulo": "CEDIPIEM. Vestimenta matlatzinca",
+        "url": "https://cedipiem.edomex.gob.mx/vestimenta_matlazinca"
+      },
+      {
+        "titulo": "Gobierno municipal de Temascaltepec. Matlatzincas",
+        "url": "https://temascaltepec.edomex.gob.mx/matlatzincas"
+      },
+      {
+        "titulo": "Milenio. Matlatzinca, la lengua que resiste al olvido en Temascaltepec",
+        "url": "https://amp.milenio.com/comunidad/matlatzinca-la-lengua-que-resiste-al-olvido-en-temascaltepec"
+      },
+      {
+        "titulo": "Diario Portal. Día de Muertos en pueblos originarios mexiquenses",
+        "url": "https://diarioportal.com/nacional/2020-11-03-dia-de-muertos-importante-tradicion-para-los-pueblos-originarios-mexiquenses"
+      }
+    ]
+  },
+  {
+    "id": "tlahuica",
+    "nombre": {
+      "es": "Tlahuica",
+      "en": "Tlahuica"
+    },
+    "nombrePropio": "Pjiekak'joo",
+    "lengua": {
+      "es": "Tlahuica o pjiekak'joo (también llamada ocuilteca), lengua de la familia otopame, rama matlatzinca; en riesgo de desaparición",
+      "en": "Tlahuica or pjiekak'joo (also called Ocuiltec), a language of the Otopame family, Matlatzincan branch; seriously endangered"
+    },
+    "municipios": [
+      {
+        "nombre": "Ocuilan",
+        "lat": 18.9975,
+        "lon": -99.408
+      },
+      {
+        "nombre": "San Juan Atzingo (Ocuilan)",
+        "lat": 19.0096,
+        "lon": -99.3853
+      },
+      {
+        "nombre": "Lomas de Teocaltzingo (Ocuilan)",
+        "lat": 19.007,
+        "lon": -99.384
+      }
+    ],
+    "resena": {
+      "es": "Los tlahuicas se nombran a sí mismos pjiekak'joo, que se traduce como «lo que yo soy, lo que yo hablo». Viven principalmente en el municipio de Ocuilan, en el sur del Estado de México, y San Juan Atzingo es el corazón de su cultura. Es el pueblo originario menos numeroso de la entidad: el Censo 2010 registró 719 hablantes de su lengua, hoy en riesgo. Su vida comunitaria se organiza mediante el sistema de cargos civiles y religiosos, las mayordomías y el trabajo colectivo. Viven de la milpa, del aprovechamiento del bosque y de la recolección de hongos silvestres. Conservan además objetos rituales propios, como las Santas Varas de Justicia y el teponaztle del templo de San Juan Atzingo.",
+      "en": "The Tlahuica call themselves pjiekak'joo, which can be translated as \"what I am, what I speak.\" They live mainly in the municipality of Ocuilan, in the south of the State of Mexico, and San Juan Atzingo is the heart of their culture. They are the smallest Indigenous people of the state: the 2010 Census counted 719 speakers of their language, which is now endangered. Community life is organized through a system of civil and religious offices, mayordomías (sponsorship of saints' festivals) and shared labor. People live from the milpa, the forest and gathering wild mushrooms. They also keep ritual objects of their own, such as the Holy Rods of Justice and the church's teponaztle (log drum)."
+    },
+    "gastronomia": [
+      {
+        "id": "tamales-de-hongos-de-chonchin",
+        "nombre": {
+          "es": "Tamales de hongos de chonchín",
+          "en": "Tamales de hongos de chonchín (wild mushroom tamales)"
+        },
+        "descripcion": {
+          "es": "Tamales rellenos de hongos silvestres del bosque con cebolla, chile manzano y epazote, envueltos en hoja de maíz y cocidos en comal. En San Juan Atzingo se conocen más de 49 especies de hongos.",
+          "en": "Tamales filled with wild forest mushrooms, onion, manzano chile and epazote, wrapped in corn husks and cooked on a comal. More than 49 species of wild mushrooms are known in the forests of San Juan Atzingo."
+        },
+        "verificado": true,
+        "fuente": "http://uiem.edomex.gob.mx/sites/uiem.edomex.gob.mx/files/files/FONDO%20EDITORIAL%20UIEM/Fondo%20Editorial/Cinco%20sabores%20tradicionales%202017.pdf"
+      },
+      {
+        "id": "hongos-clavito-en-salsa-de-masa",
+        "nombre": {
+          "es": "Hongos clavito en salsa de masa",
+          "en": "Hongos clavito en salsa de masa (clavito mushrooms in corn-dough sauce)"
+        },
+        "descripcion": {
+          "es": "Caldo espeso de hongos «clavito», que crecen solo en bosques de oyamel, con salsa de chile chilaca y masa de maíz. Junto con los «gachupines» y la «mazorquita», es de los hongos más apreciados.",
+          "en": "A thick stew of \"clavito\" mushrooms, which grow only in fir forests, with chilaca chile sauce thickened with corn dough. With the \"gachupín\" and \"mazorquita\" mushrooms, it is among the most prized wild foods."
+        },
+        "verificado": true,
+        "fuente": "http://uiem.edomex.gob.mx/sites/uiem.edomex.gob.mx/files/files/FONDO%20EDITORIAL%20UIEM/Fondo%20Editorial/Cinco%20sabores%20tradicionales%202017.pdf"
+      },
+      {
+        "id": "tamales-de-haba",
+        "nombre": {
+          "es": "Tamales de haba",
+          "en": "Tamales de haba (dried fava bean tamales)"
+        },
+        "descripcion": {
+          "es": "Tamales de masa de maíz nixtamalizado con una capa de haba seca cocida y molida en metate, perfumados con anís y cocidos al vapor en hoja de maíz. El haba es un cultivo básico de la comunidad.",
+          "en": "Tamales of nixtamalized corn dough layered with dried fava beans that are cooked and ground on a metate, scented with anise and steamed in corn husks. Fava beans are a staple crop of the community."
+        },
+        "verificado": true,
+        "fuente": "http://uiem.edomex.gob.mx/sites/uiem.edomex.gob.mx/files/files/FONDO%20EDITORIAL%20UIEM/Fondo%20Editorial/Cinco%20sabores%20tradicionales%202017.pdf"
+      },
+      {
+        "id": "caldo-de-mayordomo",
+        "nombre": {
+          "es": "Caldo de mayordomo",
+          "en": "Caldo de mayordomo (mayordomo's beef broth)"
+        },
+        "descripcion": {
+          "es": "Caldo de res con col, zanahoria y chile pasilla que se preparaba en las fiestas patronales, como las del 31 de enero y el 24 de junio. Hoy se hace menos, pues lo han sustituido las carnitas, la barbacoa o el mole.",
+          "en": "A beef broth with cabbage, carrot and pasilla chile that was prepared for patron saint festivals, such as those of 31 January and 24 June. It is made less often today, as carnitas, barbacoa or mole have replaced it."
+        },
+        "verificado": true,
+        "fuente": "http://uiem.edomex.gob.mx/sites/uiem.edomex.gob.mx/files/files/FONDO%20EDITORIAL%20UIEM/Fondo%20Editorial/Cinco%20sabores%20tradicionales%202017.pdf"
+      },
+      {
+        "id": "quelite-cenizo-con-hueso-de-capulin",
+        "nombre": {
+          "es": "Quelite cenizo con hueso de capulín",
+          "en": "Quelite cenizo con hueso de capulín (lamb's quarters in capulín-pit sauce)"
+        },
+        "descripcion": {
+          "es": "Quelites cocidos en una salsa molida en metate con la almendra del hueso de capulín, comino, clavo, hierbabuena, epazote y chile cuaresmeño. Aprovecha huesos que suelen tirarse y que se guardan hasta ocho meses.",
+          "en": "Wild greens cooked in a sauce ground on a metate with the kernel of the capulín (Mexican cherry) pit, cumin, clove, mint, epazote and cuaresmeño chile. It makes use of pits that are usually thrown away and can be stored for up to eight months."
+        },
+        "verificado": true,
+        "fuente": "http://uiem.edomex.gob.mx/sites/uiem.edomex.gob.mx/files/files/FONDO%20EDITORIAL%20UIEM/Fondo%20Editorial/Cinco%20sabores%20tradicionales%202017.pdf"
+      }
+    ],
+    "festividades": [
+      {
+        "id": "fiesta-31-de-enero",
+        "nombre": {
+          "es": "Fiesta del 31 de enero",
+          "en": "Festival of 31 January"
+        },
+        "descripcion": {
+          "es": "Fiesta del calendario ritual de San Juan Atzingo, organizada por las mayordomías. En ella se sacan del templo las Santas Varas de Justicia y el teponaztle, que solo se muestran en fechas especiales.",
+          "en": "A festival in the ritual calendar of San Juan Atzingo, organized by the mayordomías. The Holy Rods of Justice and the teponaztle are brought out of the church, as they only appear on special dates."
+        },
+        "fecha": {
+          "es": "31 de enero",
+          "en": "31 January"
+        },
+        "verificado": true,
+        "fuente": "https://sic.gob.mx/ficha.php?table=grupo_etnico&table_id=86"
+      },
+      {
+        "id": "semana-santa",
+        "nombre": {
+          "es": "Semana Santa",
+          "en": "Holy Week"
+        },
+        "descripcion": {
+          "es": "Celebración del calendario ritual católico en la que, según el Atlas de los Pueblos Indígenas del INPI, se sacan de la iglesia las varas sagradas de la justicia y el teponaztle con cabeza de felino.",
+          "en": "A celebration of the Catholic ritual calendar during which, according to the INPI Atlas of Indigenous Peoples, the sacred rods of justice and the teponaztle with a feline head are brought out of the church."
+        },
+        "fecha": {
+          "es": "Semana Santa (fecha variable)",
+          "en": "Holy Week (date varies)"
+        },
+        "verificado": true,
+        "fuente": "https://sic.gob.mx/ficha.php?table=grupo_etnico&table_id=86"
+      },
+      {
+        "id": "fiesta-de-san-juan-bautista",
+        "nombre": {
+          "es": "Fiesta de San Juan Bautista",
+          "en": "Festival of San Juan Bautista (Saint John the Baptist)"
+        },
+        "descripcion": {
+          "es": "Fiesta patronal de San Juan Atzingo. La comunidad entiende la fiesta como ofrenda a los santos protectores, con pausa de las labores diarias y participación colectiva; las mayordomías costean músicos, comidas y adornos.",
+          "en": "The patron saint festival of San Juan Atzingo. The community understands the festival as an offering to its protecting saints, with daily work set aside and everyone taking part; the mayordomías pay for musicians, shared meals and decorations."
+        },
+        "fecha": {
+          "es": "24 de junio",
+          "en": "24 June"
+        },
+        "verificado": true,
+        "fuente": "https://sic.gob.mx/ficha.php?table=grupo_etnico&table_id=86"
+      },
+      {
+        "id": "ceremonia-al-sol-en-primavera",
+        "nombre": {
+          "es": "Ceremonia anual al Sol",
+          "en": "Annual ceremony to the Sun"
+        },
+        "descripcion": {
+          "es": "Ceremonia que se realiza cada año al inicio de la primavera en honor al Sol. En ella también se sacan del templo las varas sagradas y el teponaztle, objetos de gran valor para la comunidad.",
+          "en": "A ceremony held every year at the start of spring in honor of the Sun. The sacred rods and the teponaztle are also brought out of the church for it, objects of great value to the community."
+        },
+        "fecha": {
+          "es": "Inicio de la primavera",
+          "en": "Start of spring"
+        },
+        "verificado": true,
+        "fuente": "https://sic.gob.mx/ficha.php?table=grupo_etnico&table_id=86"
+      },
+      {
+        "id": "dia-de-muertos",
+        "nombre": {
+          "es": "Día de Muertos",
+          "en": "Day of the Dead"
+        },
+        "descripcion": {
+          "es": "Celebración fundamental dentro del sistema de cargos de San Juan Atzingo. El panteón de la comunidad se llena de visitantes en la fecha de Todos los Santos.",
+          "en": "A central celebration within the system of offices of San Juan Atzingo. The community cemetery fills with visitors on All Saints' Day."
+        },
+        "fecha": {
+          "es": "1 y 2 de noviembre",
+          "en": "1 and 2 November"
+        },
+        "verificado": false,
+        "fuente": "https://catalogo.inpi.gob.mx/tlahuica/"
+      }
+    ],
+    "artesanias": [
+      {
+        "id": "muebles-rusticos",
+        "nombre": {
+          "es": "Muebles rústicos de madera",
+          "en": "Rustic wooden furniture"
+        },
+        "descripcion": {
+          "es": "La principal artesanía de San Juan Atzingo es la elaboración de muebles rústicos, como mesas, sillas y camas, que se venden sobre todo en el tianguis de muebles de San Pedro Tultepec, en Lerma.",
+          "en": "The main craft of San Juan Atzingo is making rustic furniture, such as tables, chairs and beds, sold mostly at the furniture market of San Pedro Tultepec, in Lerma."
+        },
+        "verificado": true,
+        "fuente": "https://sic.gob.mx/ficha.php?table=grupo_etnico&table_id=86"
+      },
+      {
+        "id": "tejamanil",
+        "nombre": {
+          "es": "Tejamanil",
+          "en": "Tejamanil (wooden roof shingles)"
+        },
+        "descripcion": {
+          "es": "Del aprovechamiento del bosque la comunidad obtiene madera para construir sus casas y elaborar tejamanil, las tejas de madera de los techos tradicionales que hoy se usan en bodegas y cocinas de humo.",
+          "en": "From the use of the forest the community obtains wood to build homes and make tejamanil, the wooden shingles of traditional roofs, which are now used on storerooms and smoke kitchens."
+        },
+        "verificado": true,
+        "fuente": "http://uiem.edomex.gob.mx/sites/uiem.edomex.gob.mx/files/files/FONDO%20EDITORIAL%20UIEM/Fondo%20Editorial/Cinco%20sabores%20tradicionales%202017.pdf"
+      },
+      {
+        "id": "conservas-dulces-y-bebidas-tradicionales",
+        "nombre": {
+          "es": "Conservas, dulces y bebidas tradicionales",
+          "en": "Traditional preserves, sweets and drinks"
+        },
+        "descripcion": {
+          "es": "Cocineras y artesanos de Ocuilan elaboran conservas, dulces típicos y bebidas con productos de la región, que el IIFAEM promueve y que se venden en las tiendas Casart del Estado de México.",
+          "en": "Cooks and artisans in Ocuilan make preserves, traditional sweets and drinks from regional products, promoted by the IIFAEM (state crafts institute) and sold in the Casart craft stores of the State of Mexico."
+        },
+        "verificado": true,
+        "fuente": "https://www.posta.com.mx/mexico/sabor-y-tradicion-la-cocina-tlahuica-un-tesoro-cultural/vl1606536"
+      }
+    ],
+    "costumbres": [
+      {
+        "id": "sistema-de-cargos-y-varas-de-justicia",
+        "nombre": {
+          "es": "Sistema de cargos y Santas Varas de Justicia",
+          "en": "System of offices and the Holy Rods of Justice"
+        },
+        "descripcion": {
+          "es": "La comunidad se organiza mediante cargos civiles y religiosos rotativos. Cuatro delegados imparten «justicias» y portan las Santas Varas de Justicia, cada una con su rango; al dejar el cargo, las varas se guardan en el altar de la iglesia.",
+          "en": "The community is organized through rotating civil and religious offices. Four delegados administer \"justicias\" (conflict resolution) and carry the Holy Rods of Justice, each with its own rank; after their term, the rods are kept at the church altar."
+        },
+        "verificado": true,
+        "fuente": "http://uiem.edomex.gob.mx/sites/uiem.edomex.gob.mx/files/files/FONDO%20EDITORIAL%20UIEM/Fondo%20Editorial/Cinco%20sabores%20tradicionales%202017.pdf"
+      },
+      {
+        "id": "mayordomias-y-mandones",
+        "nombre": {
+          "es": "Mayordomías y mandones",
+          "en": "Mayordomías and mandones"
+        },
+        "descripcion": {
+          "es": "Los mandones dirigen las actividades rituales dirigidas a los santos y coordinan a los mayordomos, quienes cuidan la imagen del santo durante el año y costean adornos, músicos, sacerdote y comidas comunales.",
+          "en": "The mandones lead the ritual activities for the saints and coordinate the mayordomos, who look after the saint's image throughout the year and pay for decorations, musicians, the priest and shared meals."
+        },
+        "verificado": true,
+        "fuente": "https://sic.gob.mx/ficha.php?table=grupo_etnico&table_id=86"
+      },
+      {
+        "id": "teponaztle-santo-ndot-zandaa",
+        "nombre": {
+          "es": "El teponaztle Santo ndot zandaa",
+          "en": "The teponaztle Santo ndot zandaa"
+        },
+        "descripcion": {
+          "es": "En San Juan Atzingo se conservan dos teponaztles, el original y una réplica, centrales en la vida ritual. El original, llamado Santo ndot zandaa, se considera un ser divino y ambos se mantienen orientados hacia el oeste.",
+          "en": "San Juan Atzingo keeps two teponaztles, the original and a replica, central to ritual life. The original, called Santo ndot zandaa, is regarded as a divine being, and both are kept facing west."
+        },
+        "verificado": true,
+        "fuente": "https://dialnet.unirioja.es/servlet/articulo?codigo=8306953"
+      },
+      {
+        "id": "recoleccion-de-hongos",
+        "nombre": {
+          "es": "Recolección de hongos y las hongueras",
+          "en": "Mushroom gathering and the hongueras"
+        },
+        "descripcion": {
+          "es": "En temporada de lluvias las mujeres, llamadas hongueras, recolectan hongos silvestres en el bosque. Los hongos complementan la alimentación y se venden en los tianguis cercanos, lo que representa un ingreso para las familias.",
+          "en": "In the rainy season women known as hongueras gather wild mushrooms in the forest. The mushrooms supplement the diet and are sold at nearby markets, bringing income to families."
+        },
+        "verificado": true,
+        "fuente": "http://uiem.edomex.gob.mx/sites/uiem.edomex.gob.mx/files/files/FONDO%20EDITORIAL%20UIEM/Fondo%20Editorial/Cinco%20sabores%20tradicionales%202017.pdf"
+      },
+      {
+        "id": "trueque-en-el-tianguis-regional",
+        "nombre": {
+          "es": "Trueque en el mercado regional",
+          "en": "Barter at the regional market"
+        },
+        "descripcion": {
+          "es": "Por costumbre, las familias acuden al mercado de Santiago Tianguistenco para intercambiar leña, hongos y zarza, entre otros productos, por artículos de la canasta básica, ropa y calzado, fortaleciendo su economía familiar.",
+          "en": "By custom, families go to the market of Santiago Tianguistenco to trade firewood, mushrooms and bramble, among other goods, for staples, clothing and shoes, strengthening the household economy."
+        },
+        "verificado": true,
+        "fuente": "http://uiem.edomex.gob.mx/sites/uiem.edomex.gob.mx/files/files/FONDO%20EDITORIAL%20UIEM/Fondo%20Editorial/Cinco%20sabores%20tradicionales%202017.pdf"
+      }
+    ],
+    "frases": [
+      {
+        "original": "Ñetjendy nde nchjo nyi",
+        "es": "Tamales de hongos de chonchín",
+        "en": "Wild mushroom (chonchín) tamales",
+        "fuente": "http://uiem.edomex.gob.mx/sites/uiem.edomex.gob.mx/files/files/FONDO%20EDITORIAL%20UIEM/Fondo%20Editorial/Cinco%20sabores%20tradicionales%202017.pdf",
+        "verificado": true
+      },
+      {
+        "original": "Ndomje awaxy",
+        "es": "Tortitas de haba",
+        "en": "Fava bean patties",
+        "fuente": "http://uiem.edomex.gob.mx/sites/uiem.edomex.gob.mx/files/files/FONDO%20EDITORIAL%20UIEM/Fondo%20Editorial/Cinco%20sabores%20tradicionales%202017.pdf",
+        "verificado": true
+      },
+      {
+        "original": "Nt'e awaxy xich",
+        "es": "Atolillo blanco (sopa de haba)",
+        "en": "White atolillo (fava bean soup)",
+        "fuente": "http://uiem.edomex.gob.mx/sites/uiem.edomex.gob.mx/files/files/FONDO%20EDITORIAL%20UIEM/Fondo%20Editorial/Cinco%20sabores%20tradicionales%202017.pdf",
+        "verificado": true
+      }
+    ],
+    "foto": "tlahuica-portada",
+    "fuentes": [
+      {
+        "titulo": "Cinco sabores tradicionales mexiquenses: cocina mazahua, otomí, nahua, matlatzinca y tlahuica (UIEM / CEDIPIEM, 2017)",
+        "url": "http://uiem.edomex.gob.mx/sites/uiem.edomex.gob.mx/files/files/FONDO%20EDITORIAL%20UIEM/Fondo%20Editorial/Cinco%20sabores%20tradicionales%202017.pdf"
+      },
+      {
+        "titulo": "Tlahuicas, Sistema de Información Cultural (Secretaría de Cultura)",
+        "url": "https://sic.gob.mx/ficha.php?table=grupo_etnico&table_id=86"
+      },
+      {
+        "titulo": "Atlas de los Pueblos Indígenas de México, INPI: Tlahuicas",
+        "url": "https://atlas.inpi.gob.mx/tlahuicas-etnografia/"
+      },
+      {
+        "titulo": "Catálogo de pueblos indígenas, INPI: Tlahuica",
+        "url": "https://catalogo.inpi.gob.mx/tlahuica/"
+      },
+      {
+        "titulo": "Sonidos rituales en San Juan Atzingo: un estudio sobre el teponaztle tlahuica (Dialnet)",
+        "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=8306953"
+      },
+      {
+        "titulo": "Sabor y tradición: la cocina tlahuica, un tesoro cultural (Posta, IIFAEM)",
+        "url": "https://www.posta.com.mx/mexico/sabor-y-tradicion-la-cocina-tlahuica-un-tesoro-cultural/vl1606536"
+      },
+      {
+        "titulo": "Ocuiltec language (Wikipedia, con referencias a INALI y a Muntzel)",
+        "url": "https://en.wikipedia.org/wiki/Ocuiltec_language"
+      }
+    ]
+  }
+]

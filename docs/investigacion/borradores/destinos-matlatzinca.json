@@ -1,0 +1,72 @@
+[
+  {
+    "id": "destino-san-francisco-oxtotilpan", "pueblo": "matlatzinca", "tipo": "comunidad",
+    "nombre": {"es": "San Francisco Oxtotilpan", "en": "San Francisco Oxtotilpan"},
+    "municipio": "Temascaltepec", "lat": 19.1687, "lon": -99.9025,
+    "resena": {
+      "es": "San Francisco Oxtotilpan es la comunidad donde vive el pueblo matlatzinca y la única donde se habla el bot'una. Se asienta en un valle de bosques de encino, pino y oyamel, a unos 2,700 metros de altitud, dividido en siete barrios. Es un pueblo vivo, con su mayordomía, su banda de viento y su calendario de fiestas. Se recomienda visitarlo con respeto, preguntando antes de fotografiar y, de preferencia, durante la fiesta patronal del 4 de octubre o el Día de Muertos.",
+      "en": "San Francisco Oxtotilpan is the community where the Matlatzinca people live and the only place where Bot'una is spoken. It sits in a valley of oak, pine and oyamel fir forests, at about 2,700 meters above sea level, divided into seven barrios. It is a living town, with its mayordomía, its wind band and its calendar of feasts. Visit with respect, ask before taking photographs and, ideally, come during the patron saint feast on October 4 or Day of the Dead."
+    },
+    "como_llegar": {
+      "es": "Desde Toluca, por carretera hacia Temascaltepec (unos 65 km, alrededor de 1 h 15 min en auto o autobús con transbordo) y de ahí por camino local hasta la comunidad. Desde la CDMX, llegar primero a Toluca (1 a 1.5 h) y continuar igual. Se recomienda confirmar el tramo final con el municipio.",
+      "en": "From Toluca, take the road toward Temascaltepec (about 65 km, around 1 h 15 min by car or by bus with a transfer), then a local road to the community. From Mexico City, first reach Toluca (1 to 1.5 h) and continue the same way. Confirm the final stretch with the municipality."
+    },
+    "actividades": [
+      {"nombre": {"es": "Asistir con respeto a la fiesta patronal de San Francisco (4 de octubre)", "en": "Attend the San Francisco patron saint feast respectfully (October 4)"}, "ambiente": "aire_libre"},
+      {"nombre": {"es": "Conocer el Día de Muertos matlatzinca: campanas, ofrendas y arcos de palma", "en": "Learn about the Matlatzinca Day of the Dead: bells, offerings and palm arches"}, "ambiente": "aire_libre"},
+      {"nombre": {"es": "Escuchar la banda de viento matlatzinca en las fiestas", "en": "Listen to the Matlatzinca wind band at the feasts"}, "ambiente": "aire_libre"}
+    ],
+    "foto": "destino-san-francisco-oxtotilpan",
+    "fuentes": [
+      {"titulo": "Gobierno municipal de Temascaltepec. Matlatzincas", "url": "https://temascaltepec.edomex.gob.mx/matlatzincas"},
+      {"titulo": "CEDIPIEM. Usos y costumbres del pueblo matlatzinca", "url": "https://cedipiem.edomex.gob.mx/usos_costumbres_matlazinca"},
+      {"titulo": "Wikipedia. San Francisco Oxtotilpan (coordenadas)", "url": "https://en.wikipedia.org/wiki/San_Francisco_Oxtotilpan"}
+    ],
+    "verificado": false
+  },
+  {
+    "id": "destino-temascaltepec", "pueblo": "matlatzinca", "tipo": "comunidad",
+    "nombre": {"es": "Temascaltepec de González (cabecera)", "en": "Temascaltepec de González (municipal seat)"},
+    "municipio": "Temascaltepec", "lat": 19.0409, "lon": -100.0425,
+    "resena": {
+      "es": "Temascaltepec de González es la cabecera del municipio donde se encuentra Oxtotilpan y la puerta de entrada natural para conocer al pueblo matlatzinca. Su parroquia de Nuestra Señora de la Consolación es uno de sus puntos de referencia y desde aquí se organiza el acceso a las comunidades de la sierra. Es un buen lugar para preguntar por las fiestas vigentes, descansar y prepararse antes de continuar hacia Oxtotilpan, y también para abastecerse de lo necesario, pues las comunidades de la sierra son pequeñas.",
+      "en": "Temascaltepec de González is the seat of the municipality where Oxtotilpan lies and the natural gateway for getting to know the Matlatzinca people. Its parish church of Nuestra Señora de la Consolación is a local landmark, and from here one reaches the communities of the sierra. It is a good place to ask about current feasts, rest and prepare before continuing to Oxtotilpan, and also to stock up on what you need, since the communities of the sierra are small."
+    },
+    "como_llegar": {
+      "es": "Desde Toluca, unos 65 km por carretera, alrededor de 1 h 10 min en auto; también hay autobuses desde la terminal de Toluca (cerca de 1 h 25 min). Desde la CDMX, llegar primero a Toluca (1 a 1.5 h) y continuar.",
+      "en": "From Toluca, about 65 km by road, around 1 h 10 min by car; buses also run from the Toluca terminal (about 1 h 25 min). From Mexico City, first reach Toluca (1 to 1.5 h) and continue."
+    },
+    "actividades": [
+      {"nombre": {"es": "Visitar la parroquia de Nuestra Señora de la Consolación", "en": "Visit the parish church of Nuestra Señora de la Consolación"}, "ambiente": "bajo_techo"},
+      {"nombre": {"es": "Caminar por el centro y preguntar por las fiestas de las comunidades vecinas", "en": "Walk the town center and ask about the feasts of nearby communities"}, "ambiente": "aire_libre"}
+    ],
+    "foto": "destino-temascaltepec",
+    "fuentes": [
+      {"titulo": "Rome2rio. Toluca a Temascaltepec de González", "url": "https://www.rome2rio.com/s/Toluca/Temascaltepec-de-Gonz%C3%A1lez"},
+      {"titulo": "Gobierno municipal de Temascaltepec. Matlatzincas", "url": "https://temascaltepec.edomex.gob.mx/matlatzincas"}
+    ],
+    "verificado": true
+  },
+  {
+    "id": "destino-nevado-de-toluca", "pueblo": "matlatzinca", "tipo": "sitio",
+    "nombre": {"es": "Nevado de Toluca (Xinantécatl)", "en": "Nevado de Toluca (Xinantécatl)"},
+    "municipio": "Zinacantepec", "lat": 19.108, "lon": -99.758,
+    "resena": {
+      "es": "El Nevado de Toluca, o Xinantécatl, es un volcán con dos lagos en su cráter, el del Sol y el de la Luna. Para el pueblo matlatzinca es un lugar de ceremonia: en su cumbre se realizan ritos para pedir las lluvias que necesitan las siembras. Quien lo visite debe recordar que es un espacio sagrado y de práctica ritual viva, y comportarse con respeto, sin interferir en las ceremonias ni dejar basura. La altitud exige ir con ropa de abrigo.",
+      "en": "The Nevado de Toluca, or Xinantécatl, is a volcano with two lakes in its crater, the Lake of the Sun and the Lake of the Moon. For the Matlatzinca people it is a ceremonial place: rituals are held at its summit to ask for the rains that crops need. Visitors should remember it is a sacred space of living ritual practice, behave respectfully, avoid interfering with ceremonies and take their trash with them. The high altitude and cold call for warm clothing."
+    },
+    "como_llegar": {
+      "es": "Desde Toluca se sube por carretera hacia Zinacantepec y el Parque Nacional (aproximadamente 40 a 60 min en auto). Desde la CDMX, llegar primero a Toluca (1 a 1.5 h). Conviene confirmar el acceso vigente antes de ir.",
+      "en": "From Toluca, drive toward Zinacantepec and the national park (roughly 40 to 60 min by car). From Mexico City, first reach Toluca (1 to 1.5 h). Confirm current access before going."
+    },
+    "actividades": [
+      {"nombre": {"es": "Caminar junto a los lagos del Sol y de la Luna", "en": "Walk beside the Lake of the Sun and the Lake of the Moon"}, "ambiente": "aire_libre"},
+      {"nombre": {"es": "Observar el paisaje de alta montaña desde el cráter", "en": "Take in the high-mountain landscape from the crater"}, "ambiente": "aire_libre"}
+    ],
+    "foto": "destino-nevado-de-toluca",
+    "fuentes": [
+      {"titulo": "CEDIPIEM. Usos y costumbres del pueblo matlatzinca", "url": "https://cedipiem.edomex.gob.mx/usos_costumbres_matlazinca"}
+    ],
+    "verificado": false
+  }
+]

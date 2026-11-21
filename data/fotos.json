@@ -1,1 +1,310 @@
-{}
+{
+  "otomi-portada": {
+    "archivo": "assets/img/otomi-portada.jpg",
+    "archivo_commons": "File:Mujer Otomí tejiendo artesanías.jpg",
+    "autor": "Diego Ramírez Gutiérrez",
+    "licencia": "CC BY-SA 4.0",
+    "url_original": "https://commons.wikimedia.org/wiki/File:Mujer_Otomí_tejiendo_artesanías.jpg",
+    "alt": {
+      "es": "Artesana otomí tejiendo a mano una pieza de artesanía",
+      "en": "An Otomí artisan weaving a handmade craft piece"
+    }
+  },
+  "destino-centro-ceremonial-otomi": {
+    "archivo": "assets/img/destino-centro-ceremonial-otomi.jpg",
+    "archivo_commons": "File:Centro Ceremonial Otomí, Temoaya, Estado de México (28680495864).jpg",
+    "autor": "Metamorfa Studio",
+    "licencia": "Dominio público",
+    "url_original": "https://commons.wikimedia.org/wiki/File:Centro_Ceremonial_Otomí,_Temoaya,_Estado_de_México_(28680495864).jpg",
+    "alt": {
+      "es": "Esculturas y plazas del Centro Ceremonial Otomí en Temoaya",
+      "en": "Sculptures and plazas at the Otomí Ceremonial Center in Temoaya"
+    }
+  },
+  "destino-temoaya-tapetes": {
+    "archivo": "assets/img/destino-temoaya-tapetes.jpg",
+    "archivo_commons": "File:Parroquia de Santiago Apóstol (Temoaya) Estado de México.jpg",
+    "autor": "Catedrales e Iglesias / Cathedrals and Churches",
+    "licencia": "CC BY 2.0",
+    "url_original": "https://commons.wikimedia.org/wiki/File:Parroquia_de_Santiago_Apóstol_(Temoaya)_Estado_de_México.jpg",
+    "alt": {
+      "es": "Parroquia de Santiago Apóstol en el centro de Temoaya",
+      "en": "Parish church of Santiago Apóstol in downtown Temoaya"
+    }
+  },
+  "mazahua-portada": {
+    "archivo": "assets/img/mazahua-portada.jpg",
+    "archivo_commons": "File:Bordado Mazahua, Edo. Méx, México.jpg",
+    "autor": "AlmaMC",
+    "licencia": "CC BY-SA 4.0",
+    "url_original": "https://commons.wikimedia.org/wiki/File:Bordado_Mazahua,_Edo._M%C3%A9x,_M%C3%A9xico.jpg",
+    "alt": {
+      "es": "Bordado mazahua del Estado de México",
+      "en": "Mazahua embroidery from the State of Mexico"
+    }
+  },
+  "destino-presa-tepetitlan": {
+    "archivo": "assets/img/destino-presa-tepetitlan.jpg",
+    "archivo_commons": "File:Presa Tepetitlan.jpg",
+    "autor": "YaelRM25",
+    "licencia": "CC BY-SA 4.0",
+    "url_original": "https://commons.wikimedia.org/wiki/File:Presa_Tepetitlan.jpg",
+    "alt": {
+      "es": "Presa de Tepetitlán en San Felipe del Progreso",
+      "en": "Tepetitlán reservoir in San Felipe del Progreso"
+    }
+  },
+  "destino-san-felipe-del-progreso": {
+    "archivo": "assets/img/destino-san-felipe-del-progreso.jpg",
+    "archivo_commons": "File:Pastora en procesión Mazahua a San Isidro Labrador.jpg",
+    "autor": "Yolanda Osornio",
+    "licencia": "CC BY-SA 4.0",
+    "url_original": "https://commons.wikimedia.org/wiki/File:Pastora_en_procesi%C3%B3n_Mazahua_a_San_Isidro_Labrador.jpg",
+    "alt": {
+      "es": "Procesión mazahua de pastoras a San Isidro Labrador",
+      "en": "Mazahua procession of pastoras honoring San Isidro Labrador"
+    }
+  },
+  "nahua-portada": {
+    "archivo": "assets/img/nahua-portada.jpg",
+    "archivo_commons": "File:Pan de muerto en Texcoco, estado de México 27.JPG",
+    "autor": "Marlene",
+    "licencia": "CC BY-SA 3.0",
+    "url_original": "https://commons.wikimedia.org/wiki/File:Pan_de_muerto_en_Texcoco,_estado_de_M%C3%A9xico_27.JPG",
+    "alt": {
+      "es": "Pan de muerto elaborado en Texcoco, Estado de México",
+      "en": "Pan de muerto bread made in Texcoco, State of Mexico"
+    }
+  },
+  "destino-sacromonte-amecameca": {
+    "archivo": "assets/img/destino-sacromonte-amecameca.jpg",
+    "archivo_commons": "File:Santuario del Señor del Sacromonte, Amecameca.jpg",
+    "autor": "Subsecretaría de Turismo. Estado de México",
+    "licencia": "CC BY-SA 4.0",
+    "url_original": "https://commons.wikimedia.org/wiki/File:Santuario_del_Se%C3%B1or_del_Sacromonte,_Amecameca.jpg",
+    "alt": {
+      "es": "Santuario del Señor del Sacromonte en Amecameca",
+      "en": "Sanctuary of the Señor del Sacromonte in Amecameca"
+    }
+  },
+  "destino-malinalco": {
+    "archivo": "assets/img/destino-malinalco.jpg",
+    "archivo_commons": "File:Zona arqueológica de Cuauhtinchán, templo Cuauhcalli ('Casa del sol' o 'Casa de las águilas').JPG",
+    "autor": "Joaogabriel",
+    "licencia": "CC BY-SA 3.0",
+    "url_original": "https://commons.wikimedia.org/wiki/File:Zona_arqueol%C3%B3gica_de_Cuauhtinch%C3%A1n,_templo_Cuauhcalli_('Casa_del_sol'_o_'Casa_de_las_%C3%A1guilas').JPG",
+    "alt": {
+      "es": "Templo Cuauhcalli, Casa del Sol, en Malinalco",
+      "en": "Cuauhcalli temple, House of the Sun, in Malinalco"
+    }
+  },
+  "matlatzinca-portada": {
+    "archivo": "assets/img/matlatzinca-portada.jpg",
+    "archivo_commons": "File:El Mundo Efímero Escenario.jpg",
+    "autor": "Luis Fernando Dávila Aguilar",
+    "licencia": "CC BY-SA 4.0",
+    "url_original": "https://commons.wikimedia.org/wiki/File:El_Mundo_Ef%C3%ADmero_Escenario.jpg",
+    "alt": {
+      "es": "Lanzamiento de cohetes en una fiesta patronal de la comunidad matlatzinca de San Francisco Oxtotilpan",
+      "en": "Fireworks launched at a patron saint festival in the Matlatzinca community of San Francisco Oxtotilpan"
+    }
+  },
+  "destino-san-francisco-oxtotilpan": {
+    "archivo": "assets/img/destino-san-francisco-oxtotilpan.jpg",
+    "archivo_commons": "File:El Mundo Efímero Escenario.jpg",
+    "autor": "Luis Fernando Dávila Aguilar",
+    "licencia": "CC BY-SA 4.0",
+    "url_original": "https://commons.wikimedia.org/wiki/File:El_Mundo_Ef%C3%ADmero_Escenario.jpg",
+    "alt": {
+      "es": "Fiesta patronal en San Francisco Oxtotilpan, Temascaltepec",
+      "en": "Patron saint festival in San Francisco Oxtotilpan, Temascaltepec"
+    }
+  },
+  "destino-nevado-de-toluca": {
+    "archivo": "assets/img/destino-nevado-de-toluca.jpg",
+    "archivo_commons": "File:Lago del Sol, Nevado de Toluca.jpg",
+    "autor": "Juan Carlos Fonseca Mata",
+    "licencia": "CC BY-SA 4.0",
+    "url_original": "https://commons.wikimedia.org/wiki/File:Lago_del_Sol,_Nevado_de_Toluca.jpg",
+    "alt": {
+      "es": "Lago del Sol en el cráter del Nevado de Toluca",
+      "en": "Lake of the Sun in the crater of the Nevado de Toluca"
+    }
+  },
+  "tlahuica-portada": {
+    "archivo": "assets/img/tlahuica-portada.jpg",
+    "archivo_commons": "File:Pueblo Tlahuica de San Juan Atzingo - panoramio.jpg",
+    "autor": "carlosdu (Panoramio)",
+    "licencia": "CC BY 3.0",
+    "url_original": "https://commons.wikimedia.org/wiki/File:Pueblo_Tlahuica_de_San_Juan_Atzingo_-_panoramio.jpg",
+    "alt": {
+      "es": "Vista del pueblo tlahuica de San Juan Atzingo, municipio de Ocuilan",
+      "en": "View of the Tlahuica village of San Juan Atzingo, municipality of Ocuilan"
+    }
+  },
+  "destino-san-juan-atzingo": {
+    "archivo": "assets/img/destino-san-juan-atzingo.jpg",
+    "archivo_commons": "File:Iglesia de San Juan Atzingo - panoramio.jpg",
+    "autor": "carlosdu (Panoramio)",
+    "licencia": "CC BY 3.0",
+    "url_original": "https://commons.wikimedia.org/wiki/File:Iglesia_de_San_Juan_Atzingo_-_panoramio.jpg",
+    "alt": {
+      "es": "Iglesia de San Juan Atzingo",
+      "en": "Church of San Juan Atzingo"
+    }
+  },
+  "zona-teotihuacan": {
+    "archivo": "assets/img/zona-teotihuacan.jpg",
+    "archivo_commons": "File:2020-02-11 Teotihuacan la Avenida de los Muertos y la Pirámide del Sol.jpg",
+    "autor": "Burkhard Mücke",
+    "licencia": "CC BY-SA 4.0",
+    "url_original": "https://commons.wikimedia.org/wiki/File:2020-02-11_Teotihuacan_la_Avenida_de_los_Muertos_y_la_Pirámide_del_Sol.jpg",
+    "alt": {
+      "es": "La Calzada de los Muertos y la Pirámide del Sol en Teotihuacán",
+      "en": "The Avenue of the Dead and the Pyramid of the Sun at Teotihuacan"
+    }
+  },
+  "zona-malinalco": {
+    "archivo": "assets/img/zona-malinalco.jpg",
+    "archivo_commons": "File:Zona Arqueológica Malinalco, estado de México.jpg",
+    "autor": "Bague-sol",
+    "licencia": "CC BY-SA 4.0",
+    "url_original": "https://commons.wikimedia.org/wiki/File:Zona_Arqueológica_Malinalco,_estado_de_México.jpg",
+    "alt": {
+      "es": "Zona arqueológica de Malinalco",
+      "en": "Malinalco archaeological zone"
+    }
+  },
+  "zona-calixtlahuaca": {
+    "archivo": "assets/img/zona-calixtlahuaca.jpg",
+    "archivo_commons": "File:Calixtlahuaca, Temple of Ehecatl - Quetzalcoatl (20499853349).jpg",
+    "autor": "Arian Zwegers",
+    "licencia": "CC BY 2.0",
+    "url_original": "https://commons.wikimedia.org/wiki/File:Calixtlahuaca,_Temple_of_Ehecatl_-_Quetzalcoatl_(20499853349).jpg",
+    "alt": {
+      "es": "Templo de Ehécatl Quetzalcóatl en Calixtlahuaca",
+      "en": "Temple of Ehécatl Quetzalcóatl at Calixtlahuaca"
+    }
+  },
+  "zona-teotenango": {
+    "archivo": "assets/img/zona-teotenango.jpg",
+    "archivo_commons": "File:Teotenango 2024.jpg",
+    "autor": "Álvaro de la Paz Franco",
+    "licencia": "CC0",
+    "url_original": "https://commons.wikimedia.org/wiki/File:Teotenango_2024.jpg",
+    "alt": {
+      "es": "Zona arqueológica de Teotenango",
+      "en": "Teotenango archaeological zone"
+    }
+  },
+  "zona-huamango": {
+    "archivo": "assets/img/zona-huamango.jpg",
+    "archivo_commons": "File:Huamango1.jpg",
+    "autor": "Mesmith9",
+    "licencia": "CC BY-SA 3.0",
+    "url_original": "https://commons.wikimedia.org/wiki/File:Huamango1.jpg",
+    "alt": {
+      "es": "Zona arqueológica de Huamango, Acambay",
+      "en": "Huamango archaeological zone, Acambay"
+    }
+  },
+  "zona-acozac": {
+    "archivo": "assets/img/zona-acozac.jpg",
+    "archivo_commons": "File:Acozac.JPG",
+    "autor": "Samuel Morales Bender",
+    "licencia": "Public domain",
+    "url_original": "https://commons.wikimedia.org/wiki/File:Acozac.JPG",
+    "alt": {
+      "es": "Pirámide de la zona arqueológica de Acozac",
+      "en": "Pyramid at the Acozac archaeological zone"
+    }
+  },
+  "zona-tlapacoya": {
+    "archivo": "assets/img/zona-tlapacoya.jpg",
+    "archivo_commons": "File:MX MM ZONA ARQUEOLÓGICA TLAPACOYA 02.jpg",
+    "autor": "Secretaría de Cultura CDMX",
+    "licencia": "CC BY 2.0",
+    "url_original": "https://commons.wikimedia.org/wiki/File:MX_MM_ZONA_ARQUEOLÓGICA_TLAPACOYA_02.jpg",
+    "alt": {
+      "es": "Zona arqueológica de Tlapacoya",
+      "en": "Tlapacoya archaeological zone"
+    }
+  },
+  "zona-san-miguel-ixtapan": {
+    "archivo": "assets/img/zona-san-miguel-ixtapan.jpg",
+    "archivo_commons": "File:SMI Basement 3, north side.JPG",
+    "autor": "RG",
+    "licencia": "CC BY-SA 4.0",
+    "url_original": "https://commons.wikimedia.org/wiki/File:SMI_Basement_3,_north_side.JPG",
+    "alt": {
+      "es": "Basamento 3 de San Miguel Ixtapan",
+      "en": "Platform base 3 at San Miguel Ixtapan"
+    }
+  },
+  "zona-tetzcotzinco": {
+    "archivo": "assets/img/zona-tetzcotzinco.jpg",
+    "archivo_commons": "File:05-12-MX Tetz Baño Rey.jpg",
+    "autor": "Nq04 at English Wikipedia",
+    "licencia": "CC BY 2.5",
+    "url_original": "https://commons.wikimedia.org/wiki/File:05-12-MX_Tetz_Baño_Rey.jpg",
+    "alt": {
+      "es": "Baño del Rey en Tetzcotzinco",
+      "en": "The King's Bath at Tetzcotzinco"
+    }
+  },
+  "zona-santa-cecilia-acatitlan": {
+    "archivo": "assets/img/zona-santa-cecilia-acatitlan.jpg",
+    "archivo_commons": "File:Pirámide de Santa Cecilia Acatitlán 10.jpg",
+    "autor": "Gunnar Wolf",
+    "licencia": "CC BY-SA 3.0",
+    "url_original": "https://commons.wikimedia.org/wiki/File:Pirámide_de_Santa_Cecilia_Acatitlán_10.jpg",
+    "alt": {
+      "es": "Pirámide de Santa Cecilia Acatitlán",
+      "en": "Santa Cecilia Acatitlán pyramid"
+    }
+  },
+  "zona-tenayuca": {
+    "archivo": "assets/img/zona-tenayuca.jpg",
+    "archivo_commons": "File:Pirámide de Tenayuca 02.jpg",
+    "autor": "Gunnar Wolf",
+    "licencia": "CC BY-SA 3.0",
+    "url_original": "https://commons.wikimedia.org/wiki/File:Pirámide_de_Tenayuca_02.jpg",
+    "alt": {
+      "es": "Pirámide de Tenayuca",
+      "en": "Tenayuca pyramid"
+    }
+  },
+  "zona-huexotla": {
+    "archivo": "assets/img/zona-huexotla.jpg",
+    "archivo_commons": "File:Huexotla structure 5.JPG",
+    "autor": "RG",
+    "licencia": "CC BY-SA 4.0",
+    "url_original": "https://commons.wikimedia.org/wiki/File:Huexotla_structure_5.JPG",
+    "alt": {
+      "es": "Estructura 5 de Huexotla",
+      "en": "Structure 5 at Huexotla"
+    }
+  },
+  "zona-los-melones": {
+    "archivo": "assets/img/zona-los-melones.jpg",
+    "archivo_commons": "File:Montículo en los Melones, Texcoco, Estado de México.jpg",
+    "autor": "García Anaya",
+    "licencia": "CC BY-SA 4.0",
+    "url_original": "https://commons.wikimedia.org/wiki/File:Montículo_en_los_Melones,_Texcoco,_Estado_de_México.jpg",
+    "alt": {
+      "es": "Montículo en la zona arqueológica Los Melones",
+      "en": "Mound at the Los Melones archaeological zone"
+    }
+  },
+  "zona-chimalhuacan": {
+    "archivo": "assets/img/zona-chimalhuacan.jpg",
+    "archivo_commons": "File:Escalera en la zona arqueológica \"Los pochotes\".jpg",
+    "autor": "René Téllez Valverde",
+    "licencia": "CC BY-SA 4.0",
+    "url_original": "https://commons.wikimedia.org/wiki/File:Escalera_en_la_zona_arqueológica_\"Los_pochotes\".jpg",
+    "alt": {
+      "es": "Escalera en la zona arqueológica de Chimalhuacán",
+      "en": "Stairway at the Chimalhuacán archaeological zone"
+    }
+  }
+}

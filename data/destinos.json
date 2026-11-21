@@ -1,1 +1,757 @@
-[]
+[
+  {
+    "id": "destino-centro-ceremonial-otomi",
+    "pueblo": "otomi",
+    "tipo": "sitio",
+    "nombre": {
+      "es": "Centro Ceremonial Otomí",
+      "en": "Otomí Ceremonial Center"
+    },
+    "municipio": "Temoaya",
+    "lat": 19.5306,
+    "lon": -99.5242,
+    "resena": {
+      "es": "El Centro Ceremonial Otomí es un parque estatal en el municipio de Temoaya, a unos 37 kilómetros de Toluca, inaugurado en 1980 para dar al pueblo otomí un espacio propio de encuentro y celebración. Se extiende sobre unas 45 hectáreas, a cerca de 3,200 metros de altitud, dentro del Parque Ecológico, Turístico y Recreativo Zempoala-La Bufa. Tiene plazas ceremoniales con esculturas monumentales, un mural del jaguar Dámishy y un museo sobre la cultura otomí. Aquí se realizan ceremonias como la del Quinto Sol, cada 18 de marzo. Es un lugar para visitar con respeto, pues sigue siendo un espacio ceremonial de la comunidad.",
+      "en": "The Otomí Ceremonial Center is a state park in the municipality of Temoaya, about 37 kilometers from Toluca, opened in 1980 to give the Otomí people a space of their own for gathering and celebration. It spreads over roughly 45 hectares at about 3,200 meters above sea level, inside the Zempoala-La Bufa ecological and recreational park. It has ceremonial plazas with monumental sculptures, a mural of the jaguar Dámishy and a museum on Otomí culture. Ceremonies such as the Quinto Sol (Fifth Sun) take place here every March 18. Visit with respect: it remains a ceremonial space for the community."
+    },
+    "como_llegar": {
+      "es": "Desde Toluca, por carretera hacia Temoaya (unos 37 km, menos de una hora en auto) y después por la avenida Centro Ceremonial. Desde la Ciudad de México, unas 1.5 horas en auto (alrededor de 76 a 80 km) hasta Temoaya; en transporte público, autobús a Toluca y de ahí transporte local a Temoaya, con un trayecto total aproximado de 2 horas.",
+      "en": "From Toluca, take the road toward Temoaya (about 37 km, under an hour by car) and then Avenida Centro Ceremonial. From Mexico City, about 1.5 hours by car (roughly 76 to 80 km) to Temoaya; by public transport, a bus to Toluca and then local transport to Temoaya, about 2 hours in total."
+    },
+    "actividades": [
+      {
+        "nombre": {
+          "es": "Recorrer las plazas ceremoniales y sus esculturas",
+          "en": "Walk the ceremonial plazas and see the sculptures"
+        },
+        "ambiente": "aire_libre"
+      },
+      {
+        "nombre": {
+          "es": "Visitar el Museo de la Cultura Otomí",
+          "en": "Visit the Museum of Otomí Culture"
+        },
+        "ambiente": "bajo_techo"
+      },
+      {
+        "nombre": {
+          "es": "Caminar por los senderos y hacer picnic en el entorno boscoso",
+          "en": "Hike the trails and picnic in the wooded surroundings"
+        },
+        "ambiente": "aire_libre"
+      },
+      {
+        "nombre": {
+          "es": "Observar o asistir a las ceremonias abiertas, como la del Quinto Sol",
+          "en": "Attend open ceremonies, such as the Quinto Sol"
+        },
+        "ambiente": "aire_libre"
+      }
+    ],
+    "foto": "destino-centro-ceremonial-otomi",
+    "fuentes": [
+      {
+        "titulo": "México Desconocido: Centro Ceremonial Otomí",
+        "url": "https://escapadas.mexicodesconocido.com.mx/atractivos/centro-ceremonial-otomi/"
+      },
+      {
+        "titulo": "Posta: Conoces el Centro Ceremonial Otomí",
+        "url": "https://www.posta.com.mx/edomex/conoces-el-centro-ceremonial-otomi-estas-son-las-actividades-que-puedes-hacer/vl1720299"
+      },
+      {
+        "titulo": "INAH: Centro Ceremonial Otomí",
+        "url": "https://inah.gob.mx/foto-del-dia/centro-ceremonial-otomi"
+      },
+      {
+        "titulo": "Food and Pleasure: Temoaya, Estado de México",
+        "url": "https://foodandpleasure.com/temoaya-estado-de-mexico/"
+      }
+    ],
+    "verificado": true
+  },
+  {
+    "id": "destino-temoaya-tapetes",
+    "pueblo": "otomi",
+    "tipo": "comunidad",
+    "nombre": {
+      "es": "Temoaya: talleres de tapetes y centro del pueblo",
+      "en": "Temoaya: rug workshops and town center"
+    },
+    "municipio": "Temoaya",
+    "lat": 19.46707,
+    "lon": -99.59411,
+    "resena": {
+      "es": "Temoaya es el municipio mexiquense con mayor número de localidades otomíes y un pueblo conocido por sus tapetes anudados a mano, que llegaron a llamarse la Persia de México. En sus talleres familiares se prepara el telar y se anuda la lana nudo por nudo, un trabajo que puede llevar semanas. El centro conserva una plaza con kiosco, una parroquia del siglo XVII y un mercado local con garnachas, hongos, flor de calabaza y nopales. Es un buen lugar para conocer de cerca el oficio y comprar de manera directa a quienes lo practican, en un oficio que hoy enfrenta retos de continuidad.",
+      "en": "Temoaya is the municipality in the State of Mexico with the most Otomí localities, and a town known for its hand-knotted rugs, once nicknamed the Persia of Mexico. In family workshops the loom is set up and wool is knotted by hand, one knot at a time, work that can take weeks. The town center keeps a plaza with a bandstand, a seventeenth-century parish church and a local market with corn garnachas, mushrooms, squash blossoms and nopales. It is a good place to see the craft up close and buy directly from the people who practice it, a trade that now faces challenges in being passed on."
+    },
+    "como_llegar": {
+      "es": "Desde Toluca, por carretera hacia Temoaya, a menos de una hora en auto (unos 20 minutos del centro de Toluca según algunas fuentes). Desde la Ciudad de México, unos 76 a 80 km por carretera, cerca de 1.5 horas en auto; en transporte público, alrededor de 2 horas con transbordos.",
+      "en": "From Toluca, take the road toward Temoaya, under an hour by car (about 20 minutes from downtown Toluca according to some sources). From Mexico City, roughly 76 to 80 km by road, about 1.5 hours by car; by public transport, around 2 hours with transfers."
+    },
+    "actividades": [
+      {
+        "nombre": {
+          "es": "Visitar talleres familiares de tapetes y conversar con los artesanos",
+          "en": "Visit family rug workshops and talk with the artisans"
+        },
+        "ambiente": "bajo_techo"
+      },
+      {
+        "nombre": {
+          "es": "Recorrer el mercado local y probar la comida regional",
+          "en": "Walk the local market and try regional food"
+        },
+        "ambiente": "aire_libre"
+      },
+      {
+        "nombre": {
+          "es": "Pasear por la plaza principal y la parroquia de Santiago Apóstol",
+          "en": "Stroll the main plaza and the parish church of Santiago Apóstol"
+        },
+        "ambiente": "aire_libre"
+      },
+      {
+        "nombre": {
+          "es": "Acampar o pasear en la Presa de Iturbide",
+          "en": "Camp or walk at the Iturbide Dam"
+        },
+        "ambiente": "aire_libre"
+      }
+    ],
+    "foto": "destino-temoaya-tapetes",
+    "fuentes": [
+      {
+        "titulo": "México Desconocido: Tapetes de Temoaya",
+        "url": "https://www.mexicodesconocido.com.mx/tapetes-de-temoaya.html"
+      },
+      {
+        "titulo": "México Desconocido: Temoaya, la Persia de los tapetes",
+        "url": "https://escapadas.mexicodesconocido.com.mx/temoaya-la-persia-de-los-tapetes-en-el-estado-de-mexico/"
+      },
+      {
+        "titulo": "Food and Pleasure: Temoaya, Estado de México",
+        "url": "https://foodandpleasure.com/temoaya-estado-de-mexico/"
+      }
+    ],
+    "verificado": true
+  },
+  {
+    "id": "destino-centro-ceremonial-mazahua",
+    "pueblo": "mazahua",
+    "tipo": "sitio",
+    "nombre": {
+      "es": "Centro Ceremonial Mazahua",
+      "en": "Mazahua Ceremonial Center"
+    },
+    "municipio": "San Felipe del Progreso",
+    "lat": 19.5738,
+    "lon": -99.9626,
+    "resena": {
+      "es": "En Fresno Nichi, a unos 15 minutos de Santa Ana Nichi, el Centro Ceremonial Mazahua es un recinto de reunión cultural y espiritual rodeado de bosque de pinos y encinos. Alberga el Salón del Consejo, un museo con objetos de labranza, pesca y caza, y un espacio de artesanías con fajas, quesquémiles y chalecos. Aquí se realiza la ceremonia del Fuego Nuevo en marzo, y el primer domingo de cada mes hay ceremonias tradicionales. Es un lugar vivo del pueblo jñatjo: se visita con respeto y atención a las indicaciones de la comunidad.",
+      "en": "In Fresno Nichi, about 15 minutes from Santa Ana Nichi, the Mazahua Ceremonial Center is a cultural and spiritual gathering place surrounded by pine and oak forest. It holds the Council Hall, a museum of farming, fishing and hunting tools, and a crafts space with fajas, quesquémiles and vests. The New Fire ceremony takes place here in March, and traditional ceremonies are held on the first Sunday of each month. It is a living place of the Jñatjo people: visit it with respect and follow the community's guidance."
+    },
+    "como_llegar": {
+      "es": "Desde Toluca, unos 75 km por carretera, aproximadamente 1 hora 20 minutos, vía Atlacomulco y San Felipe del Progreso. Desde la Ciudad de México, autobús desde la terminal Observatorio hasta San Felipe del Progreso (cerca de 2 horas y media), y de ahí transporte local hacia Santa Ana Nichi.",
+      "en": "From Toluca, about 75 km by road, roughly 1 hour 20 minutes, via Atlacomulco and San Felipe del Progreso. From Mexico City, take a bus from the Observatorio terminal to San Felipe del Progreso (about 2.5 hours), then local transport toward Santa Ana Nichi."
+    },
+    "actividades": [
+      {
+        "nombre": {
+          "es": "Caminata por el bosque",
+          "en": "Forest walk"
+        },
+        "ambiente": "aire_libre"
+      },
+      {
+        "nombre": {
+          "es": "Visita al museo y a la sala de artesanías",
+          "en": "Visit to the museum and crafts hall"
+        },
+        "ambiente": "bajo_techo"
+      },
+      {
+        "nombre": {
+          "es": "Ceremonias tradicionales (primer domingo del mes)",
+          "en": "Traditional ceremonies (first Sunday of the month)"
+        },
+        "ambiente": "aire_libre"
+      }
+    ],
+    "foto": null,
+    "fuentes": [
+      {
+        "titulo": "San Felipe del Progreso, Pueblo con Encanto",
+        "url": "https://foem.edomex.gob.mx/sites/foem.edomex.gob.mx/files/catalogo/San%20Felipe%20del%20Progreso.pdf"
+      },
+      {
+        "titulo": "Centro Ceremonial Mazahua (Food and Pleasure)",
+        "url": "https://foodandpleasure.com/centro-ceremonial-mazahua"
+      }
+    ],
+    "verificado": true
+  },
+  {
+    "id": "destino-plateros",
+    "pueblo": "mazahua",
+    "tipo": "comunidad",
+    "nombre": {
+      "es": "Plateros",
+      "en": "Plateros"
+    },
+    "municipio": "San Felipe del Progreso",
+    "lat": 19.7,
+    "lon": -99.99,
+    "resena": {
+      "es": "Plateros es una comunidad mazahua de San Felipe del Progreso conocida por su orfebrería. Alcanzó fama nacional en 1973 al ganar un concurso de objetos de plata, y sus talleres elaboran los aretes de palomita, campanas y otras piezas con símbolos de la cultura mazahua. Se puede ver el proceso completo: fundir la plata, laminarla y darle forma con punzones, sierras y martillos. Cerca está el Parque Ecoturístico Valle del Sol y un mirador natural con vista al valle, que en temporada de lluvias se cubre de maizales.",
+      "en": "Plateros is a Mazahua community in San Felipe del Progreso known for its silverwork. It gained national fame in 1973 by winning a silver-crafting contest, and its workshops make dove (palomita) earrings, bells and other pieces with Mazahua symbols. Visitors can see the whole process: melting the silver, rolling it into sheets and shaping it with punches, saws and hammers. Nearby are the Valle del Sol eco-tourism park and a natural lookout over the valley, which fills with cornfields in the rainy season."
+    },
+    "como_llegar": {
+      "es": "Desde Toluca, unas 1 hora 15 minutos por carretera hacia Atlacomulco y San Felipe del Progreso. Desde la Ciudad de México, autobús a San Felipe del Progreso (cerca de 2 horas y media) y transporte local hacia la comunidad.",
+      "en": "From Toluca, about 1 hour 15 minutes by road toward Atlacomulco and San Felipe del Progreso. From Mexico City, take a bus to San Felipe del Progreso (about 2.5 hours), then local transport to the community."
+    },
+    "actividades": [
+      {
+        "nombre": {
+          "es": "Recorrido por los talleres de platería",
+          "en": "Tour of the silversmith workshops"
+        },
+        "ambiente": "bajo_techo"
+      },
+      {
+        "nombre": {
+          "es": "Mirador natural y Parque Valle del Sol",
+          "en": "Natural lookout and Valle del Sol park"
+        },
+        "ambiente": "aire_libre"
+      }
+    ],
+    "foto": null,
+    "fuentes": [
+      {
+        "titulo": "San Felipe del Progreso, Pueblo con Encanto",
+        "url": "https://foem.edomex.gob.mx/sites/foem.edomex.gob.mx/files/catalogo/San%20Felipe%20del%20Progreso.pdf"
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "id": "destino-presa-tepetitlan",
+    "pueblo": "mazahua",
+    "tipo": "sitio",
+    "nombre": {
+      "es": "Presa de Tepetitlán y Exhacienda de Tepetitlán",
+      "en": "Tepetitlán Reservoir and Tepetitlán Former Hacienda"
+    },
+    "municipio": "San Felipe del Progreso",
+    "lat": 19.735,
+    "lon": -99.92,
+    "resena": {
+      "es": "La presa de Tepetitlán es uno de los cuerpos de agua más grandes de la región y está rodeada de comunidades mazahuas como Tepetitlán, Calvario del Carmen, Santa Cruz y San Antonio Mextepec. Se puede observar la gran compuerta, remar o pescar, y algunos vecinos ofrecen paseos en lancha, con charalitos frescos, carpas y ajolotes para probar. Muy cerca, a unos 15 minutos de la cabecera, está la exhacienda de Tepetitlán, la mejor conservada del municipio, con huertos y antigüedades. No se recomienda nadar en la presa, pues el agua es muy fría.",
+      "en": "The Tepetitlán reservoir is one of the largest bodies of water in the region and is surrounded by Mazahua communities such as Tepetitlán, Calvario del Carmen, Santa Cruz and San Antonio Mextepec. Visitors can see the great floodgate, row or fish, and some local residents offer boat rides, with fresh charalitos, carp and axolotls to taste. Very near, about 15 minutes from the town center, is the Tepetitlán former hacienda, the best preserved in the municipality, with orchards and antiques. Swimming is not recommended because the water is very cold."
+    },
+    "como_llegar": {
+      "es": "Desde Toluca, unos 70 km, cerca de 1 hora 10 minutos hacia Atlacomulco y San Felipe del Progreso; la presa queda a unos 15 minutos de la cabecera municipal. Desde la Ciudad de México, autobús a San Felipe del Progreso (cerca de 2 horas y media) y transporte local.",
+      "en": "From Toluca, about 70 km, roughly 1 hour 10 minutes toward Atlacomulco and San Felipe del Progreso; the reservoir is about 15 minutes from the town center. From Mexico City, take a bus to San Felipe del Progreso (about 2.5 hours), then local transport."
+    },
+    "actividades": [
+      {
+        "nombre": {
+          "es": "Paseo en lancha y observación de la compuerta",
+          "en": "Boat ride and floodgate viewing"
+        },
+        "ambiente": "aire_libre"
+      },
+      {
+        "nombre": {
+          "es": "Recorrido por la exhacienda",
+          "en": "Tour of the former hacienda"
+        },
+        "ambiente": "bajo_techo"
+      },
+      {
+        "nombre": {
+          "es": "Ciclismo y caminata por caminos rurales",
+          "en": "Cycling and walking on rural roads"
+        },
+        "ambiente": "aire_libre"
+      }
+    ],
+    "foto": "destino-presa-tepetitlan",
+    "fuentes": [
+      {
+        "titulo": "San Felipe del Progreso, Pueblo con Encanto",
+        "url": "https://foem.edomex.gob.mx/sites/foem.edomex.gob.mx/files/catalogo/San%20Felipe%20del%20Progreso.pdf"
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "id": "destino-san-felipe-del-progreso",
+    "pueblo": "mazahua",
+    "tipo": "comunidad",
+    "nombre": {
+      "es": "San Felipe del Progreso (cabecera)",
+      "en": "San Felipe del Progreso (town center)"
+    },
+    "municipio": "San Felipe del Progreso",
+    "lat": 19.7117,
+    "lon": -99.9503,
+    "resena": {
+      "es": "La cabecera de San Felipe del Progreso es el corazón de la región mazahua, el lugar de los mazahuas. En su tianguis dominical se ven mujeres con su indumentaria tradicional y se encuentran tamales, elotes y pan de monte. El jardín central tiene un quiosco y una fuente porfiriana, y la Parroquia y Santuario de los Apóstoles San Felipe y Santiago es sede de la fiesta de Nuestro Padre Jesús, en enero, con portadas de semillas, palomitas de maíz y pirotecnia. Es buen punto de partida para visitar el resto del municipio.",
+      "en": "The town center of San Felipe del Progreso is the heart of the Mazahua region, the place of the Mazahuas. At its Sunday market you will see women in traditional dress and find tamales, corn on the cob and pan de monte. The central garden has a bandstand and a Porfirian-era fountain, and the Parish and Sanctuary of the Apostles San Felipe and Santiago hosts the festival of Nuestro Padre Jesús in January, with seed-made portals, popcorn garlands and fireworks. It is a good starting point for exploring the rest of the municipality."
+    },
+    "como_llegar": {
+      "es": "Desde Toluca, cerca de 1 hora por carretera federal 550 hasta Atlacomulco y luego la carretera estatal 5. Desde la Ciudad de México, autobús desde la terminal Observatorio, unas 2 horas y media.",
+      "en": "From Toluca, about 1 hour by federal highway 550 to Atlacomulco, then state highway 5. From Mexico City, take a bus from the Observatorio terminal, about 2.5 hours."
+    },
+    "actividades": [
+      {
+        "nombre": {
+          "es": "Tianguis dominical y gastronomía local",
+          "en": "Sunday market and local food"
+        },
+        "ambiente": "aire_libre"
+      },
+      {
+        "nombre": {
+          "es": "Visita a la parroquia y al santuario",
+          "en": "Visit to the parish and sanctuary"
+        },
+        "ambiente": "bajo_techo"
+      },
+      {
+        "nombre": {
+          "es": "Paseo por el jardín central",
+          "en": "Stroll through the central garden"
+        },
+        "ambiente": "aire_libre"
+      }
+    ],
+    "foto": "destino-san-felipe-del-progreso",
+    "fuentes": [
+      {
+        "titulo": "San Felipe del Progreso, Pueblo con Encanto",
+        "url": "https://foem.edomex.gob.mx/sites/foem.edomex.gob.mx/files/catalogo/San%20Felipe%20del%20Progreso.pdf"
+      },
+      {
+        "titulo": "Fiesta de Nuestro Padre Jesús y las palomitas de maíz (México Desconocido)",
+        "url": "https://www.mexicodesconocido.com.mx/san-felipe-del-progreso-santo-patrono-palomitas-de-maiz.html"
+      }
+    ],
+    "verificado": true
+  },
+  {
+    "id": "destino-santa-catarina-del-monte",
+    "pueblo": "nahua",
+    "tipo": "comunidad",
+    "nombre": {
+      "es": "Santa Catarina del Monte",
+      "en": "Santa Catarina del Monte"
+    },
+    "municipio": "Texcoco",
+    "lat": 19.4672,
+    "lon": -98.7783,
+    "resena": {
+      "es": "Santa Catarina del Monte es una comunidad nahua de la sierra de Texcoco, donde aún se habla náhuatl. Es conocida por la Apantla, fiesta del agua que se celebra el 3 de mayo, y por sus figuras de vara de perlilla, como venados, patos y canastas, elaboradas por familias de la comunidad. Está rodeada de bosque, del que sus habitantes obtienen hongos, leña y plantas medicinales. Es un lugar para conocer una cultura viva y respetar sus espacios y celebraciones.",
+      "en": "Santa Catarina del Monte is a Nahua community in the Texcoco highlands where Nahuatl is still spoken. It is known for the Apantla, a water festival held on May 3, and for its perlilla twig figures such as deer, ducks and baskets, made by local families. It is surrounded by forest, from which residents gather mushrooms, firewood and medicinal plants. It is a place to learn about a living culture while respecting its spaces and celebrations."
+    },
+    "como_llegar": {
+      "es": "Desde la Ciudad de México, tomar la carretera a Texcoco (unos 45 a 60 minutos) y de ahí transporte local rumbo a la sierra, unos 25 minutos más. Desde Toluca, ir hacia la Ciudad de México y Texcoco, unas 2.5 a 3 horas en total. Tiempos aproximados.",
+      "en": "From Mexico City, take the highway to Texcoco (about 45 to 60 minutes) and then local transport up to the highlands, about 25 more minutes. From Toluca, head toward Mexico City and Texcoco, roughly 2.5 to 3 hours in total. Times are approximate."
+    },
+    "actividades": [
+      {
+        "nombre": {
+          "es": "Conocer la artesanía de perlilla",
+          "en": "Learn about perlilla crafts"
+        },
+        "ambiente": "bajo_techo"
+      },
+      {
+        "nombre": {
+          "es": "Caminar por el bosque de la sierra",
+          "en": "Walk in the highland forest"
+        },
+        "ambiente": "aire_libre"
+      },
+      {
+        "nombre": {
+          "es": "Asistir a la Apantla (3 de mayo) con respeto",
+          "en": "Attend the Apantla (May 3) respectfully"
+        },
+        "ambiente": "aire_libre"
+      }
+    ],
+    "foto": null,
+    "fuentes": [
+      {
+        "titulo": "La Apantla: el agradecimiento para que no falte el agua",
+        "url": "https://www.scielo.org.mx/pdf/cuicui/v22n63/v22n63a3.pdf"
+      },
+      {
+        "titulo": "La artesanía como producción cultural en Santa Catarina del Monte",
+        "url": "https://www.scielo.org.mx/pdf/conver/v15n46/v15n46a10.pdf"
+      },
+      {
+        "titulo": "Nahuas de Texcoco (CDI)",
+        "url": "https://www.gob.mx/cms/uploads/attachment/file/12558/nahuas_texcoco.pdf"
+      }
+    ],
+    "verificado": true
+  },
+  {
+    "id": "destino-sacromonte-amecameca",
+    "pueblo": "nahua",
+    "tipo": "sitio",
+    "nombre": {
+      "es": "Santuario del Señor del Sacromonte",
+      "en": "Sanctuary of the Señor del Sacromonte"
+    },
+    "municipio": "Amecameca",
+    "lat": 19.1273,
+    "lon": -98.776,
+    "resena": {
+      "es": "El Sacromonte es un cerro con santuario en Amecameca, municipio con población nahua. Guarda el Santo Entierro, hoy llamado Señor del Sacromonte, que atrae peregrinos en Semana Santa y cada Miércoles de Ceniza. Estudios del INAH vinculan los rituales del cerro con antecedentes indígenas, como peticiones de lluvia en una cueva. Desde la zona se obtienen vistas del volcán Popocatépetl. Es un sitio de culto activo, por lo que conviene visitarlo con discreción.",
+      "en": "The Sacromonte is a hill with a sanctuary in Amecameca, a municipality with Nahua population. It houses the Santo Entierro, now called the Señor del Sacromonte, which draws pilgrims during Holy Week and every Ash Wednesday. INAH studies link the hill's rituals to indigenous antecedents, such as petitions for rain in a cave. The area offers views of the Popocatépetl volcano. It is an active place of worship, so visit with discretion."
+    },
+    "como_llegar": {
+      "es": "Desde la Ciudad de México, tomar la autopista México-Puebla o la carretera a Amecameca, unas 1.5 horas por carretera o autobús. Desde Toluca, el trayecto es de unas 3 horas, pasando por la Ciudad de México. Tiempos aproximados.",
+      "en": "From Mexico City, take the Mexico-Puebla highway or the road to Amecameca, about 1.5 hours by road or bus. From Toluca, the trip is about 3 hours via Mexico City. Times are approximate."
+    },
+    "actividades": [
+      {
+        "nombre": {
+          "es": "Visitar el santuario",
+          "en": "Visit the sanctuary"
+        },
+        "ambiente": "bajo_techo"
+      },
+      {
+        "nombre": {
+          "es": "Subir el cerro y ver el Popocatépetl",
+          "en": "Climb the hill and view Popocatépetl"
+        },
+        "ambiente": "aire_libre"
+      }
+    ],
+    "foto": "destino-sacromonte-amecameca",
+    "fuentes": [
+      {
+        "titulo": "Tras dos años de pandemia, fieles visitan al Señor del Sacromonte (Milenio)",
+        "url": "https://amp.milenio.com/politica/comunidad/cristo-sacromonte-miles-fieles-toman-ceniza-amecameca"
+      },
+      {
+        "titulo": "Revista Contemporánea (INAH): ritos en el Sacromonte",
+        "url": "https://revistas.inah.gob.mx/index.php/contemporanea/article/download/21040/22479"
+      },
+      {
+        "titulo": "Población indígena en el Estado de México (COESPO)",
+        "url": "https://coespo.edomex.gob.mx/sites/coespo.edomex.gob.mx/files/files/2021/Poblaci%C3%B3n%20indigena%20del%20Estado%20de%20M%C3%A9xico%20Marzo%20COESPO%202021.pdf"
+      }
+    ],
+    "verificado": true
+  },
+  {
+    "id": "destino-malinalco",
+    "pueblo": "nahua",
+    "tipo": "comunidad",
+    "nombre": {
+      "es": "Malinalco",
+      "en": "Malinalco"
+    },
+    "municipio": "Malinalco",
+    "lat": 18.95,
+    "lon": -99.496,
+    "resena": {
+      "es": "Malinalco es uno de los once municipios donde, según CEDIPIEM, se asienta población nahua. Su centro histórico conserva la tradición de un pueblo con raíces prehispánicas. A la salida de la zona arqueológica se encuentra el Museo Universitario Luis Mario Schneider, con una museografía sobre la historia y la gente de Malinalco y una réplica del Cuauhcalli, la Casa del Sol. Es un buen punto para acercarse al pasado y presente nahua de la región.",
+      "en": "Malinalco is one of the eleven municipalities where, according to CEDIPIEM, Nahua people live. Its historic center preserves the tradition of a town with pre-Hispanic roots. At the exit of the archaeological zone is the Museo Universitario Luis Mario Schneider, with exhibits on Malinalco's history and people and a replica of the Cuauhcalli, the House of the Sun. It is a good place to approach the region's Nahua past and present."
+    },
+    "como_llegar": {
+      "es": "Desde Toluca, tomar la carretera hacia Tenango del Valle y Chalma rumbo a Malinalco, unos 1.5 horas. Desde la Ciudad de México, por Toluca o por la carretera a Chalma, unas 2.5 a 3 horas. Tiempos aproximados.",
+      "en": "From Toluca, take the road via Tenango del Valle and Chalma toward Malinalco, about 1.5 hours. From Mexico City, go via Toluca or the Chalma highway, about 2.5 to 3 hours. Times are approximate."
+    },
+    "actividades": [
+      {
+        "nombre": {
+          "es": "Visitar el Museo Universitario Luis Mario Schneider",
+          "en": "Visit the Luis Mario Schneider University Museum"
+        },
+        "ambiente": "bajo_techo"
+      },
+      {
+        "nombre": {
+          "es": "Recorrer el centro del pueblo",
+          "en": "Stroll through the town center"
+        },
+        "ambiente": "aire_libre"
+      }
+    ],
+    "foto": "destino-malinalco",
+    "fuentes": [
+      {
+        "titulo": "Zona arqueológica Malinalco (INAH, Lugares)",
+        "url": "https://lugares.inah.gob.mx/en/mundial/6512"
+      },
+      {
+        "titulo": "Población indígena en el Estado de México (COESPO)",
+        "url": "https://coespo.edomex.gob.mx/sites/coespo.edomex.gob.mx/files/files/2021/Poblaci%C3%B3n%20indigena%20del%20Estado%20de%20M%C3%A9xico%20Marzo%20COESPO%202021.pdf"
+      }
+    ],
+    "verificado": true
+  },
+  {
+    "id": "destino-san-francisco-oxtotilpan",
+    "pueblo": "matlatzinca",
+    "tipo": "comunidad",
+    "nombre": {
+      "es": "San Francisco Oxtotilpan",
+      "en": "San Francisco Oxtotilpan"
+    },
+    "municipio": "Temascaltepec",
+    "lat": 19.1688,
+    "lon": -99.902,
+    "resena": {
+      "es": "San Francisco Oxtotilpan es la comunidad donde vive el pueblo matlatzinca y la única donde se habla el bot'una. Se asienta en un valle de bosques de encino, pino y oyamel, a unos 2,700 metros de altitud, dividido en siete barrios. Es un pueblo vivo, con su mayordomía, su banda de viento y su calendario de fiestas. Se recomienda visitarlo con respeto, preguntando antes de fotografiar y, de preferencia, durante la fiesta patronal del 4 de octubre o el Día de Muertos.",
+      "en": "San Francisco Oxtotilpan is the community where the Matlatzinca people live and the only place where Bot'una is spoken. It sits in a valley of oak, pine and oyamel fir forests, at about 2,700 meters above sea level, divided into seven barrios. It is a living town, with its mayordomía, its wind band and its calendar of feasts. Visit with respect, ask before taking photographs and, ideally, come during the patron saint feast on October 4 or Day of the Dead."
+    },
+    "como_llegar": {
+      "es": "Desde Toluca, por carretera hacia Temascaltepec (unos 65 km, alrededor de 1 h 15 min en auto o autobús con transbordo) y de ahí por camino local hasta la comunidad. Desde la CDMX, llegar primero a Toluca (1 a 1.5 h) y continuar igual. Se recomienda confirmar el tramo final con el municipio.",
+      "en": "From Toluca, take the road toward Temascaltepec (about 65 km, around 1 h 15 min by car or by bus with a transfer), then a local road to the community. From Mexico City, first reach Toluca (1 to 1.5 h) and continue the same way. Confirm the final stretch with the municipality."
+    },
+    "actividades": [
+      {
+        "nombre": {
+          "es": "Asistir con respeto a la fiesta patronal de San Francisco (4 de octubre)",
+          "en": "Attend the San Francisco patron saint feast respectfully (October 4)"
+        },
+        "ambiente": "aire_libre"
+      },
+      {
+        "nombre": {
+          "es": "Conocer el Día de Muertos matlatzinca: campanas, ofrendas y arcos de palma",
+          "en": "Learn about the Matlatzinca Day of the Dead: bells, offerings and palm arches"
+        },
+        "ambiente": "aire_libre"
+      },
+      {
+        "nombre": {
+          "es": "Escuchar la banda de viento matlatzinca en las fiestas",
+          "en": "Listen to the Matlatzinca wind band at the feasts"
+        },
+        "ambiente": "aire_libre"
+      }
+    ],
+    "foto": "destino-san-francisco-oxtotilpan",
+    "fuentes": [
+      {
+        "titulo": "Gobierno municipal de Temascaltepec. Matlatzincas",
+        "url": "https://temascaltepec.edomex.gob.mx/matlatzincas"
+      },
+      {
+        "titulo": "CEDIPIEM. Usos y costumbres del pueblo matlatzinca",
+        "url": "https://cedipiem.edomex.gob.mx/usos_costumbres_matlazinca"
+      },
+      {
+        "titulo": "Wikipedia. San Francisco Oxtotilpan (coordenadas)",
+        "url": "https://en.wikipedia.org/wiki/San_Francisco_Oxtotilpan"
+      }
+    ],
+    "verificado": true
+  },
+  {
+    "id": "destino-temascaltepec",
+    "pueblo": "matlatzinca",
+    "tipo": "comunidad",
+    "nombre": {
+      "es": "Temascaltepec de González (cabecera)",
+      "en": "Temascaltepec de González (municipal seat)"
+    },
+    "municipio": "Temascaltepec",
+    "lat": 19.0409,
+    "lon": -100.0425,
+    "resena": {
+      "es": "Temascaltepec de González es la cabecera del municipio donde se encuentra Oxtotilpan y la puerta de entrada natural para conocer al pueblo matlatzinca. Su parroquia de Nuestra Señora de la Consolación es uno de sus puntos de referencia y desde aquí se organiza el acceso a las comunidades de la sierra. Es un buen lugar para preguntar por las fiestas vigentes, descansar y prepararse antes de continuar hacia Oxtotilpan, y también para abastecerse de lo necesario, pues las comunidades de la sierra son pequeñas.",
+      "en": "Temascaltepec de González is the seat of the municipality where Oxtotilpan lies and the natural gateway for getting to know the Matlatzinca people. Its parish church of Nuestra Señora de la Consolación is a local landmark, and from here one reaches the communities of the sierra. It is a good place to ask about current feasts, rest and prepare before continuing to Oxtotilpan, and also to stock up on what you need, since the communities of the sierra are small."
+    },
+    "como_llegar": {
+      "es": "Desde Toluca, unos 65 km por carretera, alrededor de 1 h 10 min en auto; también hay autobuses desde la terminal de Toluca (cerca de 1 h 25 min). Desde la CDMX, llegar primero a Toluca (1 a 1.5 h) y continuar.",
+      "en": "From Toluca, about 65 km by road, around 1 h 10 min by car; buses also run from the Toluca terminal (about 1 h 25 min). From Mexico City, first reach Toluca (1 to 1.5 h) and continue."
+    },
+    "actividades": [
+      {
+        "nombre": {
+          "es": "Visitar la parroquia de Nuestra Señora de la Consolación",
+          "en": "Visit the parish church of Nuestra Señora de la Consolación"
+        },
+        "ambiente": "bajo_techo"
+      },
+      {
+        "nombre": {
+          "es": "Caminar por el centro y preguntar por las fiestas de las comunidades vecinas",
+          "en": "Walk the town center and ask about the feasts of nearby communities"
+        },
+        "ambiente": "aire_libre"
+      }
+    ],
+    "foto": null,
+    "fuentes": [
+      {
+        "titulo": "Rome2rio. Toluca a Temascaltepec de González",
+        "url": "https://www.rome2rio.com/s/Toluca/Temascaltepec-de-Gonz%C3%A1lez"
+      },
+      {
+        "titulo": "Gobierno municipal de Temascaltepec. Matlatzincas",
+        "url": "https://temascaltepec.edomex.gob.mx/matlatzincas"
+      }
+    ],
+    "verificado": true
+  },
+  {
+    "id": "destino-nevado-de-toluca",
+    "pueblo": "matlatzinca",
+    "tipo": "sitio",
+    "nombre": {
+      "es": "Nevado de Toluca (Xinantécatl)",
+      "en": "Nevado de Toluca (Xinantécatl)"
+    },
+    "municipio": "Zinacantepec",
+    "lat": 19.1079,
+    "lon": -99.7555,
+    "resena": {
+      "es": "El Nevado de Toluca, o Xinantécatl, es un volcán con dos lagos en su cráter, el del Sol y el de la Luna. Para el pueblo matlatzinca es un lugar de ceremonia: en su cumbre se realizan ritos para pedir las lluvias que necesitan las siembras. Quien lo visite debe recordar que es un espacio sagrado y de práctica ritual viva, y comportarse con respeto, sin interferir en las ceremonias ni dejar basura. La altitud exige ir con ropa de abrigo.",
+      "en": "The Nevado de Toluca, or Xinantécatl, is a volcano with two lakes in its crater, the Lake of the Sun and the Lake of the Moon. For the Matlatzinca people it is a ceremonial place: rituals are held at its summit to ask for the rains that crops need. Visitors should remember it is a sacred space of living ritual practice, behave respectfully, avoid interfering with ceremonies and take their trash with them. The high altitude and cold call for warm clothing."
+    },
+    "como_llegar": {
+      "es": "Desde Toluca se sube por carretera hacia Zinacantepec y el Parque Nacional (aproximadamente 40 a 60 min en auto). Desde la CDMX, llegar primero a Toluca (1 a 1.5 h). Conviene confirmar el acceso vigente antes de ir.",
+      "en": "From Toluca, drive toward Zinacantepec and the national park (roughly 40 to 60 min by car). From Mexico City, first reach Toluca (1 to 1.5 h). Confirm current access before going."
+    },
+    "actividades": [
+      {
+        "nombre": {
+          "es": "Caminar junto a los lagos del Sol y de la Luna",
+          "en": "Walk beside the Lake of the Sun and the Lake of the Moon"
+        },
+        "ambiente": "aire_libre"
+      },
+      {
+        "nombre": {
+          "es": "Observar el paisaje de alta montaña desde el cráter",
+          "en": "Take in the high-mountain landscape from the crater"
+        },
+        "ambiente": "aire_libre"
+      }
+    ],
+    "foto": "destino-nevado-de-toluca",
+    "fuentes": [
+      {
+        "titulo": "CEDIPIEM. Usos y costumbres del pueblo matlatzinca",
+        "url": "https://cedipiem.edomex.gob.mx/usos_costumbres_matlazinca"
+      }
+    ],
+    "verificado": true
+  },
+  {
+    "id": "destino-san-juan-atzingo",
+    "pueblo": "tlahuica",
+    "tipo": "comunidad",
+    "nombre": {
+      "es": "San Juan Atzingo",
+      "en": "San Juan Atzingo"
+    },
+    "municipio": "Ocuilan",
+    "lat": 19.0107,
+    "lon": -99.3851,
+    "resena": {
+      "es": "San Juan Atzingo es la comunidad tlahuica donde la lengua pjiekak'joo sigue viva y el principal centro de este pueblo. Se asienta entre bosques de pino y oyamel de la sierra que separa el valle de Toluca de Morelos, cerca de Malinalco y del santuario de Chalma. Su templo guarda las Santas Varas de Justicia y un teponaztle, objetos rituales que solo salen en fechas especiales. Quien visite debe hacerlo con respeto, como invitado en una comunidad viva con su propia organización, y de preferencia en coordinación con sus autoridades locales.",
+      "en": "San Juan Atzingo is the Tlahuica community where the pjiekak'joo language is still alive and the main center of this people. It sits among pine and fir forests of the sierra that separates the Toluca valley from Morelos, near Malinalco and the sanctuary of Chalma. Its church keeps the Holy Rods of Justice and a teponaztle, ritual objects that come out only on special dates. Visitors should come with respect, as guests in a living community with its own organization, and preferably in coordination with local authorities."
+    },
+    "como_llegar": {
+      "es": "Se encuentra al sureste de Toluca, en el municipio de Ocuilan, cerca de Malinalco y Chalma. Desde Toluca y desde la Ciudad de México se llega por carretera hacia la zona de Santiago Tianguistenco y Ocuilan, y de ahí por caminos locales; en autobús conviene combinar tramos y transporte local. El trayecto toma aproximadamente de 2 a 3 horas, según el punto de salida.",
+      "en": "It lies southeast of Toluca, in the municipality of Ocuilan, near Malinalco and Chalma. From Toluca and from Mexico City, take the highway toward the Santiago Tianguistenco and Ocuilan area, then local roads; by bus, expect to combine several legs and local transport. The trip takes roughly 2 to 3 hours depending on the starting point."
+    },
+    "actividades": [
+      {
+        "nombre": {
+          "es": "Caminar por los bosques de pino y oyamel",
+          "en": "Walk through the pine and fir forests"
+        },
+        "ambiente": "aire_libre"
+      },
+      {
+        "nombre": {
+          "es": "Conocer el templo de San Juan",
+          "en": "Visit the church of San Juan"
+        },
+        "ambiente": "bajo_techo"
+      },
+      {
+        "nombre": {
+          "es": "Probar la cocina tlahuica con cocineras de la comunidad",
+          "en": "Taste Tlahuica cuisine with local cooks"
+        },
+        "ambiente": "bajo_techo"
+      }
+    ],
+    "foto": "destino-san-juan-atzingo",
+    "fuentes": [
+      {
+        "titulo": "Cinco sabores tradicionales mexiquenses (UIEM / CEDIPIEM, 2017)",
+        "url": "http://uiem.edomex.gob.mx/sites/uiem.edomex.gob.mx/files/files/FONDO%20EDITORIAL%20UIEM/Fondo%20Editorial/Cinco%20sabores%20tradicionales%202017.pdf"
+      },
+      {
+        "titulo": "Tlahuicas, Sistema de Información Cultural",
+        "url": "https://sic.gob.mx/ficha.php?table=grupo_etnico&table_id=86"
+      },
+      {
+        "titulo": "San Juan Atzingo (Wikipedia)",
+        "url": "https://es.wikipedia.org/wiki/San_Juan_Atzingo_(Estado_de_M%C3%A9xico)"
+      },
+      {
+        "titulo": "Sabor y tradición: la cocina tlahuica (Posta, IIFAEM)",
+        "url": "https://www.posta.com.mx/mexico/sabor-y-tradicion-la-cocina-tlahuica-un-tesoro-cultural/vl1606536"
+      }
+    ],
+    "verificado": true
+  },
+  {
+    "id": "destino-lomas-de-teocaltzingo",
+    "pueblo": "tlahuica",
+    "tipo": "comunidad",
+    "nombre": {
+      "es": "Lomas de Teocaltzingo",
+      "en": "Lomas de Teocaltzingo"
+    },
+    "municipio": "Ocuilan",
+    "lat": 19.007,
+    "lon": -99.384,
+    "resena": {
+      "es": "Lomas de Teocaltzingo es una de las comunidades de Ocuilan donde vive población tlahuica y, según reportes recientes, donde se concentra la mayoría de los hablantes de pjiekak'joo, casi todos personas mayores. Forma parte del paisaje de lomas y bosque de pino que se extiende hacia las lagunas de Zempoala. Es un lugar para acercarse con respeto y discreción, preferentemente de la mano de las autoridades y familias de la comunidad.",
+      "en": "Lomas de Teocaltzingo is one of the communities in Ocuilan where Tlahuica people live and, according to recent reports, where most speakers of pjiekak'joo are found, nearly all of them elderly. It is part of a landscape of hills and pine forest that stretches toward the Zempoala lagoons. It is a place to approach with respect and discretion, preferably together with the community's authorities and families."
+    },
+    "como_llegar": {
+      "es": "Está junto a San Juan Atzingo, en el municipio de Ocuilan, al sureste de Toluca. Desde Toluca y desde la Ciudad de México se llega por carretera hacia Santiago Tianguistenco y Ocuilan, y después por caminos locales; en autobús hay que combinar tramos y transporte local. El trayecto toma aproximadamente de 2 a 3 horas.",
+      "en": "It lies next to San Juan Atzingo, in the municipality of Ocuilan, southeast of Toluca. From Toluca and Mexico City, take the highway toward Santiago Tianguistenco and Ocuilan, then local roads; by bus you will need to combine several legs and local transport. The trip takes roughly 2 to 3 hours."
+    },
+    "actividades": [
+      {
+        "nombre": {
+          "es": "Pasear por las lomas y el bosque de pino",
+          "en": "Stroll through the hills and pine forest"
+        },
+        "ambiente": "aire_libre"
+      }
+    ],
+    "foto": null,
+    "fuentes": [
+      {
+        "titulo": "Ocuiltec language (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Ocuiltec_language"
+      },
+      {
+        "titulo": "Cinco sabores tradicionales mexiquenses (UIEM / CEDIPIEM, 2017)",
+        "url": "http://uiem.edomex.gob.mx/sites/uiem.edomex.gob.mx/files/files/FONDO%20EDITORIAL%20UIEM/Fondo%20Editorial/Cinco%20sabores%20tradicionales%202017.pdf"
+      }
+    ],
+    "verificado": false
+  }
+]
