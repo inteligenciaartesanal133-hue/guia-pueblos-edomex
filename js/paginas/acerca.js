@@ -15,10 +15,10 @@ const TEXTO = {
       "Cada dato tiene una fuente. Lo que no pudimos confirmar se queda fuera hasta verificarlo.",
     ],
     ajolote: [
-      "El ajolote de esta página también existe fuera de la pantalla: es un pequeño asistente de voz con pantalla redonda. Le dices «oye viernes» y tu pregunta, y te responde con la misma información de esta guía.",
+      "El ajolote de esta página también existe fuera de la pantalla: es un pequeño asistente de voz con pantalla redonda. Le dices «Axolotl» y tu pregunta, y te responde con la misma información de esta guía.",
       "Elegimos al ajolote porque es un animal endémico del centro de México y un símbolo de nuestra biodiversidad.",
     ],
-    equipo: "[Nombre del equipo] · [Escuela] · Proyecto escolar, 2026.",
+    equipo: "Equipo Axolotl · Tecnológico de Estudios Superiores de Tianguistenco · Proyecto escolar, 2026.",
   },
   en: {
     queEs: [
@@ -27,10 +27,10 @@ const TEXTO = {
       "Every fact has a source. Anything we could not confirm stays out until it is verified.",
     ],
     ajolote: [
-      "The axolotl on this site also exists off the screen: it is a small voice assistant with a round display. Say its wake phrase and your question, and it answers with the same information as this guide.",
+      "The axolotl on this site also exists off the screen: it is a small voice assistant with a round display. Say “Axolotl” and your question, and it answers with the same information as this guide.",
       "We chose the axolotl because it is endemic to central Mexico and a symbol of our biodiversity.",
     ],
-    equipo: "[Team name] · [School] · School project, 2026.",
+    equipo: "Team Axolotl · Tecnológico de Estudios Superiores de Tianguistenco · School project, 2026.",
   },
 }[idioma];
 
