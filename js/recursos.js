@@ -1,13 +1,12 @@
 // recursos.js — rutas de imagenes e iconos usados en varias paginas.
 
 // Ajolote mascota. Para cambiarlo por otra imagen, basta con cambiar estas rutas.
-// La imagen principal es la del equipo (assets/img/ajolote.png, sin fondo).
-// "duerme" sigue siendo el dibujo SVG para las pantallas de "no encontrado".
+// Imagenes del equipo, sin fondo (se recortan con scripts/quitar-fondo.mjs).
 export const AJOLOTE = {
   saluda: "assets/img/ajolote.png",
-  senala: "assets/img/ajolote.png",
-  lee: "assets/img/ajolote.png",
-  duerme: "assets/svg/ajolote-duerme.svg",
+  senala: "assets/img/ajolote-senala.png",
+  lee: "assets/img/ajolote-lee.png",
+  confundida: "assets/img/ajolote-confundida.png", // pantallas de "no encontrado"
 };
 
 // Iconos de interfaz (trazo de 2 px, mismo estilo que los de categorias).

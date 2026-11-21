@@ -62,7 +62,7 @@
   "fuentes": "Fuentes",
   "creditoFoto": "Foto",
   "noEncontrado": "No encontramos lo que buscas",
-  "noEncontradoTexto": "El ajolote se quedó dormido buscando. Prueba desde la lista de pueblos.",
+  "noEncontradoTexto": "El ajolote buscó por todos lados y no lo encontró. Prueba desde la lista de pueblos.",
   "irPueblos": "Ver los pueblos",
   "irInicio": "Volver al inicio",
   "SIN_SERVIDOR": "Para ver la guía, ábrela con un servidor local: en la terminal escribe «python -m http.server 8000» y entra a http://localhost:8000",

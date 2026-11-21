@@ -62,7 +62,7 @@
   "fuentes": "Sources",
   "creditoFoto": "Photo",
   "noEncontrado": "We could not find that",
-  "noEncontradoTexto": "The axolotl fell asleep while searching. Try the list of peoples.",
+  "noEncontradoTexto": "The axolotl looked everywhere and could not find it. Try the list of peoples.",
   "irPueblos": "See the peoples",
   "irInicio": "Back to home",
   "SIN_SERVIDOR": "To view the guide, open it with a local server: in the terminal type “python -m http.server 8000” and go to http://localhost:8000",

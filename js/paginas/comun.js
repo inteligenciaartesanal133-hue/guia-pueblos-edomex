@@ -43,7 +43,7 @@ export function conectarCorazones(raiz, { t, almacen, actualizarRuta }, alCambia
 export function noEncontrado(t, enlace = { url: "pueblos.html", clave: "irPueblos" }) {
   return `
     <section class="vacio envoltura">
-      <img src="${AJOLOTE.duerme}" alt="" width="200" height="240">
+      <img src="${AJOLOTE.confundida}" alt="" width="200" height="240">
       <h1>${esc(t("noEncontrado"))}</h1>
       <p>${esc(t("noEncontradoTexto"))}</p>
       <a class="boton" href="${enlace.url}">${esc(t(enlace.clave))}</a>
