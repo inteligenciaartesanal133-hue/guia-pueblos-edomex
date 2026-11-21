@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" stroke="#5A1E3C" stroke-width="2.5" stroke-linejoin="round">
-  <!-- Flor de cempasuchil: tres capas de petalos -->
-  <g fill="#E8820C"><circle cx="40" cy="40" r="30"/></g>
-  <g fill="none" stroke="#C25E00" stroke-width="2"><path d="M40 12 v8 M40 60 v8 M12 40 h8 M60 40 h8 M20 20 l6 6 M54 54 l6 6 M60 20 l-6 6 M26 54 l-6 6"/></g>
-  <circle cx="40" cy="40" r="21" fill="#F2A007"/>
-  <circle cx="40" cy="40" r="12" fill="#F2B705"/>
-  <circle cx="40" cy="40" r="4" fill="#E8820C" stroke="none"/>
-</svg>

@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 64">
-  <!-- Tira de papel picado repetible. Se usa como mascara: el color lo pone el CSS. -->
-  <path fill-rule="evenodd" d="M0 0 H120 V4 H0 Z
-    M6 6 H54 V48 l-4 6 l-4 -6 l-4 6 l-4 -6 l-4 6 l-4 -6 l-4 6 l-4 -6 l-4 6 l-4 -6 l-4 6 l-4 -6 Z
-    M30 16 a6 6 0 1 0 0.01 0 Z M30 30 l5 -5 l5 5 l-5 5 Z M20 30 l5 -5 l5 5 l-5 5 Z M14 14 h4 v4 h-4 Z M42 14 h4 v4 h-4 Z M26 40 h8 v3 h-8 Z
-    M66 6 H114 V48 l-4 6 l-4 -6 l-4 6 l-4 -6 l-4 6 l-4 -6 l-4 6 l-4 -6 l-4 6 l-4 -6 l-4 6 l-4 -6 Z
-    M90 13 l3 7 l7 1 l-5 5 l1 7 l-6 -3 l-6 3 l1 -7 l-5 -5 l7 -1 Z M74 38 a3 3 0 1 0 0.01 0 Z M106 38 a3 3 0 1 0 0.01 0 Z M88 40 h4 v4 h-4 Z"/>
-</svg>
