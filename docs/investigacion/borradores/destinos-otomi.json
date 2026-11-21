@@ -1,0 +1,63 @@
+[
+  {
+    "id": "destino-centro-ceremonial-otomi",
+    "pueblo": "otomi",
+    "tipo": "sitio",
+    "nombre": {"es": "Centro Ceremonial Otomí", "en": "Otomí Ceremonial Center"},
+    "municipio": "Temoaya",
+    "lat": 19.5306,
+    "lon": -99.5242,
+    "resena": {
+      "es": "El Centro Ceremonial Otomí es un parque estatal en el municipio de Temoaya, a unos 37 kilómetros de Toluca, inaugurado en 1980 para dar al pueblo otomí un espacio propio de encuentro y celebración. Se extiende sobre unas 45 hectáreas, a cerca de 3,200 metros de altitud, dentro del Parque Ecológico, Turístico y Recreativo Zempoala-La Bufa. Tiene plazas ceremoniales con esculturas monumentales, un mural del jaguar Dámishy y un museo sobre la cultura otomí. Aquí se realizan ceremonias como la del Quinto Sol, cada 18 de marzo. Es un lugar para visitar con respeto, pues sigue siendo un espacio ceremonial de la comunidad.",
+      "en": "The Otomí Ceremonial Center is a state park in the municipality of Temoaya, about 37 kilometers from Toluca, opened in 1980 to give the Otomí people a space of their own for gathering and celebration. It spreads over roughly 45 hectares at about 3,200 meters above sea level, inside the Zempoala-La Bufa ecological and recreational park. It has ceremonial plazas with monumental sculptures, a mural of the jaguar Dámishy and a museum on Otomí culture. Ceremonies such as the Quinto Sol (Fifth Sun) take place here every March 18. Visit with respect: it remains a ceremonial space for the community."
+    },
+    "como_llegar": {
+      "es": "Desde Toluca, por carretera hacia Temoaya (unos 37 km, menos de una hora en auto) y después por la avenida Centro Ceremonial. Desde la Ciudad de México, unas 1.5 horas en auto (alrededor de 76 a 80 km) hasta Temoaya; en transporte público, autobús a Toluca y de ahí transporte local a Temoaya, con un trayecto total aproximado de 2 horas.",
+      "en": "From Toluca, take the road toward Temoaya (about 37 km, under an hour by car) and then Avenida Centro Ceremonial. From Mexico City, about 1.5 hours by car (roughly 76 to 80 km) to Temoaya; by public transport, a bus to Toluca and then local transport to Temoaya, about 2 hours in total."
+    },
+    "actividades": [
+      {"nombre": {"es": "Recorrer las plazas ceremoniales y sus esculturas", "en": "Walk the ceremonial plazas and see the sculptures"}, "ambiente": "aire_libre"},
+      {"nombre": {"es": "Visitar el Museo de la Cultura Otomí", "en": "Visit the Museum of Otomí Culture"}, "ambiente": "bajo_techo"},
+      {"nombre": {"es": "Caminar por los senderos y hacer picnic en el entorno boscoso", "en": "Hike the trails and picnic in the wooded surroundings"}, "ambiente": "aire_libre"},
+      {"nombre": {"es": "Observar o asistir a las ceremonias abiertas, como la del Quinto Sol", "en": "Attend open ceremonies, such as the Quinto Sol"}, "ambiente": "aire_libre"}
+    ],
+    "foto": "destino-centro-ceremonial-otomi",
+    "fuentes": [
+      {"titulo": "México Desconocido: Centro Ceremonial Otomí", "url": "https://escapadas.mexicodesconocido.com.mx/atractivos/centro-ceremonial-otomi/"},
+      {"titulo": "Posta: Conoces el Centro Ceremonial Otomí", "url": "https://www.posta.com.mx/edomex/conoces-el-centro-ceremonial-otomi-estas-son-las-actividades-que-puedes-hacer/vl1720299"},
+      {"titulo": "INAH: Centro Ceremonial Otomí", "url": "https://inah.gob.mx/foto-del-dia/centro-ceremonial-otomi"},
+      {"titulo": "Food and Pleasure: Temoaya, Estado de México", "url": "https://foodandpleasure.com/temoaya-estado-de-mexico/"}
+    ],
+    "verificado": true
+  },
+  {
+    "id": "destino-temoaya-tapetes",
+    "pueblo": "otomi",
+    "tipo": "comunidad",
+    "nombre": {"es": "Temoaya: talleres de tapetes y centro del pueblo", "en": "Temoaya: rug workshops and town center"},
+    "municipio": "Temoaya",
+    "lat": 19.46707,
+    "lon": -99.59411,
+    "resena": {
+      "es": "Temoaya es el municipio mexiquense con mayor número de localidades otomíes y un pueblo conocido por sus tapetes anudados a mano, que llegaron a llamarse la Persia de México. En sus talleres familiares se prepara el telar y se anuda la lana nudo por nudo, un trabajo que puede llevar semanas. El centro conserva una plaza con kiosco, una parroquia del siglo XVII y un mercado local con garnachas, hongos, flor de calabaza y nopales. Es un buen lugar para conocer de cerca el oficio y comprar de manera directa a quienes lo practican, en un oficio que hoy enfrenta retos de continuidad.",
+      "en": "Temoaya is the municipality in the State of Mexico with the most Otomí localities, and a town known for its hand-knotted rugs, once nicknamed the Persia of Mexico. In family workshops the loom is set up and wool is knotted by hand, one knot at a time, work that can take weeks. The town center keeps a plaza with a bandstand, a seventeenth-century parish church and a local market with corn garnachas, mushrooms, squash blossoms and nopales. It is a good place to see the craft up close and buy directly from the people who practice it, a trade that now faces challenges in being passed on."
+    },
+    "como_llegar": {
+      "es": "Desde Toluca, por carretera hacia Temoaya, a menos de una hora en auto (unos 20 minutos del centro de Toluca según algunas fuentes). Desde la Ciudad de México, unos 76 a 80 km por carretera, cerca de 1.5 horas en auto; en transporte público, alrededor de 2 horas con transbordos.",
+      "en": "From Toluca, take the road toward Temoaya, under an hour by car (about 20 minutes from downtown Toluca according to some sources). From Mexico City, roughly 76 to 80 km by road, about 1.5 hours by car; by public transport, around 2 hours with transfers."
+    },
+    "actividades": [
+      {"nombre": {"es": "Visitar talleres familiares de tapetes y conversar con los artesanos", "en": "Visit family rug workshops and talk with the artisans"}, "ambiente": "bajo_techo"},
+      {"nombre": {"es": "Recorrer el mercado local y probar la comida regional", "en": "Walk the local market and try regional food"}, "ambiente": "aire_libre"},
+      {"nombre": {"es": "Pasear por la plaza principal y la parroquia de Santiago Apóstol", "en": "Stroll the main plaza and the parish church of Santiago Apóstol"}, "ambiente": "aire_libre"},
+      {"nombre": {"es": "Acampar o pasear en la Presa de Iturbide", "en": "Camp or walk at the Iturbide Dam"}, "ambiente": "aire_libre"}
+    ],
+    "foto": "destino-temoaya-tapetes",
+    "fuentes": [
+      {"titulo": "México Desconocido: Tapetes de Temoaya", "url": "https://www.mexicodesconocido.com.mx/tapetes-de-temoaya.html"},
+      {"titulo": "México Desconocido: Temoaya, la Persia de los tapetes", "url": "https://escapadas.mexicodesconocido.com.mx/temoaya-la-persia-de-los-tapetes-en-el-estado-de-mexico/"},
+      {"titulo": "Food and Pleasure: Temoaya, Estado de México", "url": "https://foodandpleasure.com/temoaya-estado-de-mexico/"}
+    ],
+    "verificado": true
+  }
+]

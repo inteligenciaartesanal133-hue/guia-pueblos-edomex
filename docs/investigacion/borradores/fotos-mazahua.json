@@ -1,0 +1,23 @@
+{
+  "mazahua-portada": {
+    "archivo_commons": "File:Bordado Mazahua, Edo. Méx, México.jpg",
+    "autor": "AlmaMC",
+    "licencia": "CC BY-SA 4.0",
+    "url_original": "https://commons.wikimedia.org/wiki/File:Bordado_Mazahua,_Edo._M%C3%A9x,_M%C3%A9xico.jpg",
+    "alt": {"es": "Bordado mazahua del Estado de México", "en": "Mazahua embroidery from the State of Mexico"}
+  },
+  "destino-presa-tepetitlan": {
+    "archivo_commons": "File:Presa Tepetitlan.jpg",
+    "autor": "YaelRM25",
+    "licencia": "CC BY-SA 4.0",
+    "url_original": "https://commons.wikimedia.org/wiki/File:Presa_Tepetitlan.jpg",
+    "alt": {"es": "Presa de Tepetitlán en San Felipe del Progreso", "en": "Tepetitlán reservoir in San Felipe del Progreso"}
+  },
+  "destino-san-felipe-del-progreso": {
+    "archivo_commons": "File:Pastora en procesión Mazahua a San Isidro Labrador.jpg",
+    "autor": "Yolanda Osornio",
+    "licencia": "CC BY-SA 4.0",
+    "url_original": "https://commons.wikimedia.org/wiki/File:Pastora_en_procesi%C3%B3n_Mazahua_a_San_Isidro_Labrador.jpg",
+    "alt": {"es": "Procesión mazahua de pastoras a San Isidro Labrador", "en": "Mazahua procession of pastoras honoring San Isidro Labrador"}
+  }
+}

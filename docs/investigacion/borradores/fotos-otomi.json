@@ -1,0 +1,23 @@
+{
+  "otomi-portada": {
+    "archivo_commons": "File:Mujer Otomí tejiendo artesanías.jpg",
+    "autor": "Diego Ramírez Gutiérrez",
+    "licencia": "CC BY-SA 4.0",
+    "url_original": "https://commons.wikimedia.org/wiki/File:Mujer_Otomí_tejiendo_artesanías.jpg",
+    "alt": {"es": "Artesana otomí tejiendo a mano una pieza de artesanía", "en": "An Otomí artisan weaving a handmade craft piece"}
+  },
+  "destino-centro-ceremonial-otomi": {
+    "archivo_commons": "File:Centro Ceremonial Otomí, Temoaya, Estado de México (28680495864).jpg",
+    "autor": "Metamorfa Studio",
+    "licencia": "Dominio público",
+    "url_original": "https://commons.wikimedia.org/wiki/File:Centro_Ceremonial_Otomí,_Temoaya,_Estado_de_México_(28680495864).jpg",
+    "alt": {"es": "Esculturas y plazas del Centro Ceremonial Otomí en Temoaya", "en": "Sculptures and plazas at the Otomí Ceremonial Center in Temoaya"}
+  },
+  "destino-temoaya-tapetes": {
+    "archivo_commons": "File:Parroquia de Santiago Apóstol (Temoaya) Estado de México.jpg",
+    "autor": "Catedrales e Iglesias / Cathedrals and Churches",
+    "licencia": "CC BY 2.0",
+    "url_original": "https://commons.wikimedia.org/wiki/File:Parroquia_de_Santiago_Apóstol_(Temoaya)_Estado_de_México.jpg",
+    "alt": {"es": "Parroquia de Santiago Apóstol en el centro de Temoaya", "en": "Parish church of Santiago Apóstol in downtown Temoaya"}
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "id": "tlahuica",
+  "nombre": {"es": "Tlahuica", "en": "Tlahuica"},
+  "nombrePropio": "Pjiekak'joo",
+  "lengua": {
+    "es": "Tlahuica o pjiekak'joo (también llamada ocuilteca), lengua de la familia otopame, rama matlatzinca; en riesgo de desaparición",
+    "en": "Tlahuica or pjiekak'joo (also called Ocuiltec), a language of the Otopame family, Matlatzincan branch; seriously endangered"
+  },
+  "municipios": [
+    {"nombre": "Ocuilan", "lat": 18.9975, "lon": -99.4080},
+    {"nombre": "San Juan Atzingo (Ocuilan)", "lat": 19.0096, "lon": -99.3853},
+    {"nombre": "Lomas de Teocaltzingo (Ocuilan)", "lat": 19.0070, "lon": -99.3840}
+  ],
+  "resena": {
+    "es": "Los tlahuicas se nombran a sí mismos pjiekak'joo, que se traduce como «lo que yo soy, lo que yo hablo». Viven principalmente en el municipio de Ocuilan, en el sur del Estado de México, y San Juan Atzingo es el corazón de su cultura. Es el pueblo originario menos numeroso de la entidad: el Censo 2010 registró 719 hablantes de su lengua, hoy en riesgo. Su vida comunitaria se organiza mediante el sistema de cargos civiles y religiosos, las mayordomías y el trabajo colectivo. Viven de la milpa, del aprovechamiento del bosque y de la recolección de hongos silvestres. Conservan además objetos rituales propios, como las Santas Varas de Justicia y el teponaztle del templo de San Juan Atzingo.",
+    "en": "The Tlahuica call themselves pjiekak'joo, which can be translated as \"what I am, what I speak.\" They live mainly in the municipality of Ocuilan, in the south of the State of Mexico, and San Juan Atzingo is the heart of their culture. They are the smallest Indigenous people of the state: the 2010 Census counted 719 speakers of their language, which is now endangered. Community life is organized through a system of civil and religious offices, mayordomías (sponsorship of saints' festivals) and shared labor. People live from the milpa, from the use of the forest and from gathering wild mushrooms. They also keep ritual objects of their own, such as the Holy Rods of Justice and the teponaztle (log drum) of the church of San Juan Atzingo."
+  },
+  "gastronomia": [
+    {
+      "id": "tamales-de-hongos-de-chonchin",
+      "nombre": {"es": "Tamales de hongos de chonchín", "en": "Tamales de hongos de chonchín (wild mushroom tamales)"},
+      "descripcion": {
+        "es": "Tamales rellenos de hongos silvestres del bosque con cebolla, chile manzano y epazote, envueltos en hoja de maíz y cocidos en comal. En San Juan Atzingo se conocen más de 49 especies de hongos.",
+        "en": "Tamales filled with wild forest mushrooms, onion, manzano chile and epazote, wrapped in corn husks and cooked on a comal. More than 49 species of wild mushrooms are known in the forests of San Juan Atzingo."
+      },
+      "verificado": true,
+      "fuente": "http://uiem.edomex.gob.mx/sites/uiem.edomex.gob.mx/files/files/FONDO%20EDITORIAL%20UIEM/Fondo%20Editorial/Cinco%20sabores%20tradicionales%202017.pdf"
+    },
+    {
+      "id": "hongos-clavito-en-salsa-de-masa",
+      "nombre": {"es": "Hongos clavito en salsa de masa", "en": "Hongos clavito en salsa de masa (clavito mushrooms in corn-dough sauce)"},
+      "descripcion": {
+        "es": "Caldo espeso de hongos «clavito», que crecen solo en bosques de oyamel, con salsa de chile chilaca y masa de maíz. Junto con los «gachupines» y la «mazorquita», es de los hongos más apreciados.",
+        "en": "A thick stew of \"clavito\" mushrooms, which grow only in fir forests, with chilaca chile sauce thickened with corn dough. With the \"gachupín\" and \"mazorquita\" mushrooms, it is among the most prized wild foods."
+      },
+      "verificado": true,
+      "fuente": "http://uiem.edomex.gob.mx/sites/uiem.edomex.gob.mx/files/files/FONDO%20EDITORIAL%20UIEM/Fondo%20Editorial/Cinco%20sabores%20tradicionales%202017.pdf"
+    },
+    {
+      "id": "tamales-de-haba",
+      "nombre": {"es": "Tamales de haba", "en": "Tamales de haba (dried fava bean tamales)"},
+      "descripcion": {
+        "es": "Tamales de masa de maíz nixtamalizado con una capa de haba seca cocida y molida en metate, perfumados con anís y cocidos al vapor en hoja de maíz. El haba es un cultivo básico de la comunidad.",
+        "en": "Tamales of nixtamalized corn dough layered with dried fava beans that are cooked and ground on a metate, scented with anise and steamed in corn husks. Fava beans are a staple crop of the community."
+      },
+      "verificado": true,
+      "fuente": "http://uiem.edomex.gob.mx/sites/uiem.edomex.gob.mx/files/files/FONDO%20EDITORIAL%20UIEM/Fondo%20Editorial/Cinco%20sabores%20tradicionales%202017.pdf"
+    },
+    {
+      "id": "caldo-de-mayordomo",
+      "nombre": {"es": "Caldo de mayordomo", "en": "Caldo de mayordomo (mayordomo's beef broth)"},
+      "descripcion": {
+        "es": "Caldo de res con col, zanahoria y chile pasilla que se preparaba en las fiestas patronales, como las del 31 de enero y el 24 de junio. Hoy se hace menos, pues lo han sustituido las carnitas, la barbacoa o el mole.",
+        "en": "A beef broth with cabbage, carrot and pasilla chile that was prepared for patron saint festivals, such as those of 31 January and 24 June. It is made less often today, as carnitas, barbacoa or mole have replaced it."
+      },
+      "verificado": true,
+      "fuente": "http://uiem.edomex.gob.mx/sites/uiem.edomex.gob.mx/files/files/FONDO%20EDITORIAL%20UIEM/Fondo%20Editorial/Cinco%20sabores%20tradicionales%202017.pdf"
+    },
+    {
+      "id": "quelite-cenizo-con-hueso-de-capulin",
+      "nombre": {"es": "Quelite cenizo con hueso de capulín", "en": "Quelite cenizo con hueso de capulín (lamb's quarters in capulín-pit sauce)"},
+      "descripcion": {
+        "es": "Quelites cocidos en una salsa molida en metate con la almendra del hueso de capulín, comino, clavo, hierbabuena, epazote y chile cuaresmeño. Aprovecha huesos que suelen tirarse y que se guardan hasta ocho meses.",
+        "en": "Wild greens cooked in a sauce ground on a metate with the kernel of the capulín (Mexican cherry) pit, cumin, clove, mint, epazote and cuaresmeño chile. It makes use of pits that are usually thrown away and can be stored for up to eight months."
+      },
+      "verificado": true,
+      "fuente": "http://uiem.edomex.gob.mx/sites/uiem.edomex.gob.mx/files/files/FONDO%20EDITORIAL%20UIEM/Fondo%20Editorial/Cinco%20sabores%20tradicionales%202017.pdf"
+    }
+  ],
+  "festividades": [
+    {
+      "id": "fiesta-31-de-enero",
+      "nombre": {"es": "Fiesta del 31 de enero", "en": "Festival of 31 January"},
+      "descripcion": {
+        "es": "Fiesta del calendario ritual de San Juan Atzingo, organizada por las mayordomías. En ella se sacan del templo las Santas Varas de Justicia y el teponaztle, que solo se muestran en fechas especiales.",
+        "en": "A festival in the ritual calendar of San Juan Atzingo, organized by the mayordomías. The Holy Rods of Justice and the teponaztle are brought out of the church, as they only appear on special dates."
+      },
+      "fecha": {"es": "31 de enero", "en": "31 January"},
+      "verificado": true,
+      "fuente": "https://sic.gob.mx/ficha.php?table=grupo_etnico&table_id=86"
+    },
+    {
+      "id": "semana-santa",
+      "nombre": {"es": "Semana Santa", "en": "Holy Week"},
+      "descripcion": {
+        "es": "Celebración del calendario ritual católico en la que, según el Atlas de los Pueblos Indígenas del INPI, se sacan de la iglesia las varas sagradas de la justicia y el teponaztle con cabeza de felino.",
+        "en": "A celebration of the Catholic ritual calendar during which, according to the INPI Atlas of Indigenous Peoples, the sacred rods of justice and the teponaztle with a feline head are brought out of the church."
+      },
+      "fecha": {"es": "Semana Santa (fecha variable)", "en": "Holy Week (date varies)"},
+      "verificado": true,
+      "fuente": "https://sic.gob.mx/ficha.php?table=grupo_etnico&table_id=86"
+    },
+    {
+      "id": "fiesta-de-san-juan-bautista",
+      "nombre": {"es": "Fiesta de San Juan Bautista", "en": "Festival of San Juan Bautista (Saint John the Baptist)"},
+      "descripcion": {
+        "es": "Fiesta patronal de San Juan Atzingo. La comunidad entiende la fiesta como ofrenda a los santos protectores, con pausa de las labores diarias y participación colectiva; las mayordomías costean músicos, comidas y adornos.",
+        "en": "The patron saint festival of San Juan Atzingo. The community understands the festival as an offering to its protecting saints, with daily work set aside and everyone taking part; the mayordomías pay for musicians, shared meals and decorations."
+      },
+      "fecha": {"es": "24 de junio", "en": "24 June"},
+      "verificado": true,
+      "fuente": "https://sic.gob.mx/ficha.php?table=grupo_etnico&table_id=86"
+    },
+    {
+      "id": "ceremonia-al-sol-en-primavera",
+      "nombre": {"es": "Ceremonia anual al Sol", "en": "Annual ceremony to the Sun"},
+      "descripcion": {
+        "es": "Ceremonia que se realiza cada año al inicio de la primavera en honor al Sol. En ella también se sacan del templo las varas sagradas y el teponaztle, objetos de gran valor para la comunidad.",
+        "en": "A ceremony held every year at the start of spring in honor of the Sun. The sacred rods and the teponaztle are also brought out of the church for it, objects of great value to the community."
+      },
+      "fecha": {"es": "Inicio de la primavera", "en": "Start of spring"},
+      "verificado": true,
+      "fuente": "https://sic.gob.mx/ficha.php?table=grupo_etnico&table_id=86"
+    },
+    {
+      "id": "dia-de-muertos",
+      "nombre": {"es": "Día de Muertos", "en": "Day of the Dead"},
+      "descripcion": {
+        "es": "Celebración fundamental dentro del sistema de cargos de San Juan Atzingo. El panteón de la comunidad se llena de visitantes en la fecha de Todos los Santos.",
+        "en": "A central celebration within the system of offices of San Juan Atzingo. The community cemetery fills with visitors on All Saints' Day."
+      },
+      "fecha": {"es": "1 y 2 de noviembre", "en": "1 and 2 November"},
+      "verificado": false,
+      "fuente": "https://catalogo.inpi.gob.mx/tlahuica/"
+    }
+  ],
+  "artesanias": [
+    {
+      "id": "muebles-rusticos",
+      "nombre": {"es": "Muebles rústicos de madera", "en": "Rustic wooden furniture"},
+      "descripcion": {
+        "es": "La principal artesanía de San Juan Atzingo es la elaboración de muebles rústicos, como mesas, sillas y camas, que se venden sobre todo en el tianguis de muebles de San Pedro Tultepec, en Lerma.",
+        "en": "The main craft of San Juan Atzingo is making rustic furniture, such as tables, chairs and beds, sold mostly at the furniture market of San Pedro Tultepec, in Lerma."
+      },
+      "verificado": true,
+      "fuente": "https://sic.gob.mx/ficha.php?table=grupo_etnico&table_id=86"
+    },
+    {
+      "id": "tejamanil",
+      "nombre": {"es": "Tejamanil", "en": "Tejamanil (wooden roof shingles)"},
+      "descripcion": {
+        "es": "Del aprovechamiento del bosque la comunidad obtiene madera para construir sus casas y elaborar tejamanil, las tejas de madera de los techos tradicionales que hoy se usan en bodegas y cocinas de humo.",
+        "en": "From the use of the forest the community obtains wood to build homes and make tejamanil, the wooden shingles of traditional roofs, which are now used on storerooms and smoke kitchens."
+      },
+      "verificado": true,
+      "fuente": "http://uiem.edomex.gob.mx/sites/uiem.edomex.gob.mx/files/files/FONDO%20EDITORIAL%20UIEM/Fondo%20Editorial/Cinco%20sabores%20tradicionales%202017.pdf"
+    },
+    {
+      "id": "conservas-dulces-y-bebidas-tradicionales",
+      "nombre": {"es": "Conservas, dulces y bebidas tradicionales", "en": "Traditional preserves, sweets and drinks"},
+      "descripcion": {
+        "es": "Cocineras y artesanos de Ocuilan elaboran conservas, dulces típicos y bebidas con productos de la región, que el IIFAEM promueve y que se venden en las tiendas Casart del Estado de México.",
+        "en": "Cooks and artisans in Ocuilan make preserves, traditional sweets and drinks from regional products, promoted by the IIFAEM (state crafts institute) and sold in the Casart craft stores of the State of Mexico."
+      },
+      "verificado": true,
+      "fuente": "https://www.posta.com.mx/mexico/sabor-y-tradicion-la-cocina-tlahuica-un-tesoro-cultural/vl1606536"
+    }
+  ],
+  "costumbres": [
+    {
+      "id": "sistema-de-cargos-y-varas-de-justicia",
+      "nombre": {"es": "Sistema de cargos y Santas Varas de Justicia", "en": "System of offices and the Holy Rods of Justice"},
+      "descripcion": {
+        "es": "La comunidad se organiza mediante cargos civiles y religiosos rotativos. Cuatro delegados imparten «justicias» y portan las Santas Varas de Justicia, cada una con su rango; al dejar el cargo, las varas se guardan en el altar de la iglesia.",
+        "en": "The community is organized through rotating civil and religious offices. Four delegados administer \"justicias\" (conflict resolution) and carry the Holy Rods of Justice, each with its own rank; after their term, the rods are kept at the church altar."
+      },
+      "verificado": true,
+      "fuente": "http://uiem.edomex.gob.mx/sites/uiem.edomex.gob.mx/files/files/FONDO%20EDITORIAL%20UIEM/Fondo%20Editorial/Cinco%20sabores%20tradicionales%202017.pdf"
+    },
+    {
+      "id": "mayordomias-y-mandones",
+      "nombre": {"es": "Mayordomías y mandones", "en": "Mayordomías and mandones"},
+      "descripcion": {
+        "es": "Los mandones dirigen las actividades rituales dirigidas a los santos y coordinan a los mayordomos, quienes cuidan la imagen del santo durante el año y costean adornos, músicos, sacerdote y comidas comunales.",
+        "en": "The mandones lead the ritual activities for the saints and coordinate the mayordomos, who look after the saint's image throughout the year and pay for decorations, musicians, the priest and shared meals."
+      },
+      "verificado": true,
+      "fuente": "https://sic.gob.mx/ficha.php?table=grupo_etnico&table_id=86"
+    },
+    {
+      "id": "teponaztle-santo-ndot-zandaa",
+      "nombre": {"es": "El teponaztle Santo ndot zandaa", "en": "The teponaztle Santo ndot zandaa"},
+      "descripcion": {
+        "es": "En San Juan Atzingo se conservan dos teponaztles, el original y una réplica, centrales en la vida ritual. El original, llamado Santo ndot zandaa, se considera un ser divino y ambos se mantienen orientados hacia el oeste.",
+        "en": "San Juan Atzingo keeps two teponaztles, the original and a replica, central to ritual life. The original, called Santo ndot zandaa, is regarded as a divine being, and both are kept facing west."
+      },
+      "verificado": true,
+      "fuente": "https://dialnet.unirioja.es/servlet/articulo?codigo=8306953"
+    },
+    {
+      "id": "recoleccion-de-hongos",
+      "nombre": {"es": "Recolección de hongos y las hongueras", "en": "Mushroom gathering and the hongueras"},
+      "descripcion": {
+        "es": "En temporada de lluvias las mujeres, llamadas hongueras, recolectan hongos silvestres en el bosque. Los hongos complementan la alimentación y se venden en los tianguis cercanos, lo que representa un ingreso para las familias.",
+        "en": "In the rainy season women known as hongueras gather wild mushrooms in the forest. The mushrooms supplement the diet and are sold at nearby markets, bringing income to families."
+      },
+      "verificado": true,
+      "fuente": "http://uiem.edomex.gob.mx/sites/uiem.edomex.gob.mx/files/files/FONDO%20EDITORIAL%20UIEM/Fondo%20Editorial/Cinco%20sabores%20tradicionales%202017.pdf"
+    },
+    {
+      "id": "trueque-en-el-tianguis-regional",
+      "nombre": {"es": "Trueque en el mercado regional", "en": "Barter at the regional market"},
+      "descripcion": {
+        "es": "Por costumbre, las familias acuden al mercado de Santiago Tianguistenco para intercambiar leña, hongos y zarza, entre otros productos, por artículos de la canasta básica, ropa y calzado, fortaleciendo su economía familiar.",
+        "en": "By custom, families go to the market of Santiago Tianguistenco to trade firewood, mushrooms and bramble, among other goods, for staples, clothing and shoes, strengthening the household economy."
+      },
+      "verificado": true,
+      "fuente": "http://uiem.edomex.gob.mx/sites/uiem.edomex.gob.mx/files/files/FONDO%20EDITORIAL%20UIEM/Fondo%20Editorial/Cinco%20sabores%20tradicionales%202017.pdf"
+    }
+  ],
+  "frases": [
+    {
+      "original": "Ñetjendy nde nchjo nyi",
+      "es": "Tamales de hongos de chonchín",
+      "en": "Wild mushroom (chonchín) tamales",
+      "fuente": "http://uiem.edomex.gob.mx/sites/uiem.edomex.gob.mx/files/files/FONDO%20EDITORIAL%20UIEM/Fondo%20Editorial/Cinco%20sabores%20tradicionales%202017.pdf",
+      "verificado": true
+    },
+    {
+      "original": "Ndomje awaxy",
+      "es": "Tortitas de haba",
+      "en": "Fava bean patties",
+      "fuente": "http://uiem.edomex.gob.mx/sites/uiem.edomex.gob.mx/files/files/FONDO%20EDITORIAL%20UIEM/Fondo%20Editorial/Cinco%20sabores%20tradicionales%202017.pdf",
+      "verificado": true
+    },
+    {
+      "original": "Nt'e awaxy xich",
+      "es": "Atolillo blanco (sopa de haba)",
+      "en": "White atolillo (fava bean soup)",
+      "fuente": "http://uiem.edomex.gob.mx/sites/uiem.edomex.gob.mx/files/files/FONDO%20EDITORIAL%20UIEM/Fondo%20Editorial/Cinco%20sabores%20tradicionales%202017.pdf",
+      "verificado": true
+    }
+  ],
+  "foto": "tlahuica-portada",
+  "fuentes": [
+    {"titulo": "Cinco sabores tradicionales mexiquenses: cocina mazahua, otomí, nahua, matlatzinca y tlahuica (UIEM / CEDIPIEM, 2017)", "url": "http://uiem.edomex.gob.mx/sites/uiem.edomex.gob.mx/files/files/FONDO%20EDITORIAL%20UIEM/Fondo%20Editorial/Cinco%20sabores%20tradicionales%202017.pdf"},
+    {"titulo": "Tlahuicas, Sistema de Información Cultural (Secretaría de Cultura)", "url": "https://sic.gob.mx/ficha.php?table=grupo_etnico&table_id=86"},
+    {"titulo": "Atlas de los Pueblos Indígenas de México, INPI: Tlahuicas", "url": "https://atlas.inpi.gob.mx/tlahuicas-etnografia/"},
+    {"titulo": "Catálogo de pueblos indígenas, INPI: Tlahuica", "url": "https://catalogo.inpi.gob.mx/tlahuica/"},
+    {"titulo": "Sonidos rituales en San Juan Atzingo: un estudio sobre el teponaztle tlahuica (Dialnet)", "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=8306953"},
+    {"titulo": "Sabor y tradición: la cocina tlahuica, un tesoro cultural (Posta, IIFAEM)", "url": "https://www.posta.com.mx/mexico/sabor-y-tradicion-la-cocina-tlahuica-un-tesoro-cultural/vl1606536"},
+    {"titulo": "Ocuiltec language (Wikipedia, con referencias a INALI y a Muntzel)", "url": "https://en.wikipedia.org/wiki/Ocuiltec_language"}
+  ]
+}

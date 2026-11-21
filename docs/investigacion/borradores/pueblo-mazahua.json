@@ -1,0 +1,338 @@
+{
+  "id": "mazahua",
+  "nombre": {
+    "es": "Mazahua",
+    "en": "Mazahua"
+  },
+  "nombrePropio": "Jñatjo",
+  "lengua": {
+    "es": "Mazahua (jñatjo o jñatrjo), lengua de la familia otomangue, grupo otopame, emparentada con el otomí",
+    "en": "Mazahua (Jñatjo or Jñatrjo), an Otomanguean language of the Oto-Pamean branch, related to Otomi"
+  },
+  "municipios": [
+    {
+      "nombre": "San Felipe del Progreso",
+      "lat": 19.7117,
+      "lon": -99.9503
+    },
+    {
+      "nombre": "San José del Rincón",
+      "lat": 19.6833,
+      "lon": -100.1333
+    },
+    {
+      "nombre": "Ixtlahuaca",
+      "lat": 19.5683,
+      "lon": -99.7667
+    },
+    {
+      "nombre": "Atlacomulco",
+      "lat": 19.7967,
+      "lon": -99.8764
+    },
+    {
+      "nombre": "Villa Victoria",
+      "lat": 19.4417,
+      "lon": -100.005
+    },
+    {
+      "nombre": "Temascalcingo",
+      "lat": 19.9156,
+      "lon": -100.0003
+    }
+  ],
+  "resena": {
+    "es": "El pueblo mazahua, que se nombra a sí mismo jñatjo, es el más numeroso entre los pueblos originarios del Estado de México y habita sobre todo el noroeste y el centro-oeste de la entidad, en municipios como San Felipe del Progreso, San José del Rincón, Ixtlahuaca, Villa Victoria y Temascalcingo. Su vida se organiza en torno a la familia, las faenas comunitarias y las mayordomías que cuidan las fiestas. Cultivan maíz, haba y frijol, y sus mujeres bordan y tejen prendas llenas de significado. Su cultura une rituales antiguos de petición de lluvia con celebraciones católicas, y la lengua jñatjo sigue siendo un vínculo de identidad, aunque cada vez menos niños la aprenden.",
+    "en": "The Mazahua people, who call themselves Jñatjo, are the largest Indigenous people of the State of Mexico. They live mainly in the northwest and west-central parts of the state, in municipalities such as San Felipe del Progreso, San José del Rincón, Ixtlahuaca, Villa Victoria and Temascalcingo. Community life is organized around the family, shared communal work (faenas) and the mayordomías, the stewardships that look after the festivals. They grow corn, fava beans and beans, and Mazahua women embroider and weave garments rich in meaning. Their culture joins ancient rain-petition rituals with Catholic celebrations, and the Jñatjo language remains a bond of identity, even though fewer children learn it today."
+  },
+  "gastronomia": [
+    {
+      "id": "mole-guajolote",
+      "nombre": {
+        "es": "Mole de guajolote",
+        "en": "Mole de guajolote (turkey in mole)"
+      },
+      "descripcion": {
+        "es": "Mole rojo o verde con guajolote, platillo de las fiestas y reuniones familiares en San Felipe del Progreso y otras comunidades, acompañado de arroz rojo y tortillas hechas a mano.",
+        "en": "Red or green mole with turkey, a dish for festivals and family gatherings in San Felipe del Progreso and other communities, served with red rice and handmade tortillas."
+      },
+      "verificado": true,
+      "fuente": "https://foem.edomex.gob.mx/sites/foem.edomex.gob.mx/files/catalogo/San%20Felipe%20del%20Progreso.pdf"
+    },
+    {
+      "id": "tamales-mazahuas",
+      "nombre": {
+        "es": "Tamales de charales y de sal",
+        "en": "Tamales de charales and tamales de sal"
+      },
+      "descripcion": {
+        "es": "Tamales de charal, de sal y de frijol, además de versiones dulces, que se venden en los tianguis y mercados de San Felipe del Progreso y de las comunidades cercanas.",
+        "en": "Tamales filled with charales (tiny lake fish), salted tamales and bean tamales, plus sweet versions, sold in the markets of San Felipe del Progreso and nearby communities."
+      },
+      "verificado": true,
+      "fuente": "https://foem.edomex.gob.mx/sites/foem.edomex.gob.mx/files/catalogo/San%20Felipe%20del%20Progreso.pdf"
+    },
+    {
+      "id": "sendechjo",
+      "nombre": {
+        "es": "Sendechjo",
+        "en": "Sendechjo (ceremonial corn drink)"
+      },
+      "descripcion": {
+        "es": "Bebida ceremonial de maíz nativo azul, hojas de pino, pulque, agua y piloncillo, que tarda entre 25 y 30 días en prepararse. Se ofrece en bautizos, bodas, funerales y fiestas religiosas.",
+        "en": "A ceremonial drink made from native blue corn, pine leaves, pulque, water and unrefined cane sugar, taking 25 to 30 days to prepare. It is served at baptisms, weddings, funerals and religious festivals."
+      },
+      "verificado": true,
+      "fuente": "https://www.scielo.org.mx/pdf/esracdr/v35n66/2395-9169-esracdr-35-66-e251603.pdf"
+    },
+    {
+      "id": "pulque",
+      "nombre": {
+        "es": "Pulque",
+        "en": "Pulque"
+      },
+      "descripcion": {
+        "es": "Bebida fermentada del aguamiel del maguey, que los tlachiqueros raspan y recogen en la región. Es también ingrediente indispensable del sendechjo.",
+        "en": "A fermented drink made from maguey sap (aguamiel), gathered by tlachiqueros in the region. It is also an essential ingredient of sendechjo."
+      },
+      "verificado": true,
+      "fuente": "https://foem.edomex.gob.mx/sites/foem.edomex.gob.mx/files/catalogo/San%20Felipe%20del%20Progreso.pdf"
+    },
+    {
+      "id": "pescado-de-presa",
+      "nombre": {
+        "es": "Charales, acociles y carpa de presa",
+        "en": "Charales, acociles and carp from the reservoirs"
+      },
+      "descripcion": {
+        "es": "Charales fritos o en tortitas, acociles en salsa roja con nopales y carpa asada, productos de las presas y lagunas de la región mazahua, junto con quelites y hongos de temporada.",
+        "en": "Fried charales or patties, acociles (freshwater shrimp) in red sauce with nopales, and grilled carp, from the region's reservoirs and lagoons, alongside seasonal quelites (wild greens) and mushrooms."
+      },
+      "verificado": false,
+      "fuente": "https://foem.edomex.gob.mx/sites/foem.edomex.gob.mx/files/catalogo/San%20Felipe%20del%20Progreso.pdf"
+    }
+  ],
+  "festividades": [
+    {
+      "id": "fiesta-nuestro-padre-jesus",
+      "nombre": {
+        "es": "Fiesta de Nuestro Padre Jesús",
+        "en": "Festival of Nuestro Padre Jesús"
+      },
+      "descripcion": {
+        "es": "Fiesta patronal de San Felipe del Progreso, con portadas de semillas y flores, procesión con adornos de palomitas de maíz, castillos de pirotecnia, carreras de caballos y peregrinos de Michoacán.",
+        "en": "The patron-saint festival of San Felipe del Progreso, with portals made of seeds and flowers, a procession adorned with popcorn garlands, fireworks towers, horse races and pilgrims from Michoacán."
+      },
+      "fecha": {
+        "es": "Tercer miércoles de enero, con duración de 20 días o más",
+        "en": "Third Wednesday of January, lasting 20 days or more"
+      },
+      "verificado": true,
+      "fuente": "https://foem.edomex.gob.mx/sites/foem.edomex.gob.mx/files/catalogo/San%20Felipe%20del%20Progreso.pdf"
+    },
+    {
+      "id": "ceremonia-fuego-nuevo",
+      "nombre": {
+        "es": "Ceremonia del Fuego Nuevo",
+        "en": "New Fire ceremony"
+      },
+      "descripcion": {
+        "es": "Ceremonia principal del Centro Ceremonial Mazahua, que se realiza en marzo. En el centro también se celebran ceremonias tradicionales el primer domingo de cada mes.",
+        "en": "The main ceremony of the Mazahua Ceremonial Center, held in March. The center also hosts traditional ceremonies on the first Sunday of each month."
+      },
+      "fecha": {
+        "es": "Marzo (21 de marzo)",
+        "en": "March (March 21)"
+      },
+      "verificado": true,
+      "fuente": "https://foem.edomex.gob.mx/sites/foem.edomex.gob.mx/files/catalogo/San%20Felipe%20del%20Progreso.pdf"
+    },
+    {
+      "id": "dia-de-la-santa-cruz",
+      "nombre": {
+        "es": "Día de la Santa Cruz",
+        "en": "Day of the Holy Cross"
+      },
+      "descripcion": {
+        "es": "Ritual agrícola de petición de lluvia y buenas cosechas en comunidades como San Pedro de los Baños, Ixtlahuaca, con danzas de pastoras, concheros y Santiagos, y mayordomas que sahúman y ofrendan.",
+        "en": "An agricultural ritual to ask for rain and good harvests in communities such as San Pedro de los Baños, Ixtlahuaca, featuring pastoras, concheros and Santiagos dances, and mayordomas who offer incense and offerings."
+      },
+      "fecha": {
+        "es": "1 de mayo",
+        "en": "May 1"
+      },
+      "verificado": true,
+      "fuente": "https://www.redalyc.org/pdf/3713/371345325015.pdf"
+    },
+    {
+      "id": "san-isidro-labrador",
+      "nombre": {
+        "es": "Fiesta de San Isidro Labrador",
+        "en": "Festival of San Isidro Labrador"
+      },
+      "descripcion": {
+        "es": "Celebración en comunidades de San Felipe del Progreso para pedir lluvia y proteger las cosechas, con banda, misa y grupos de danza como las pastoras y las arrieras.",
+        "en": "A celebration in communities of San Felipe del Progreso to ask for rain and protect the harvest, with a brass band, Mass and dance groups such as the pastoras and arrieras."
+      },
+      "fecha": {
+        "es": "15 de mayo",
+        "en": "May 15"
+      },
+      "verificado": true,
+      "fuente": "https://www.redalyc.org/pdf/3713/371345325015.pdf"
+    }
+  ],
+  "artesanias": [
+    {
+      "id": "bordado-mazahua",
+      "nombre": {
+        "es": "Bordado mazahua",
+        "en": "Mazahua embroidery"
+      },
+      "descripcion": {
+        "es": "Bordado de dos agujas, punto de cruz, cadenilla y otras técnicas, con motivos de sol, luna, mazorcas, flores, aves y venado. Se aplica a blusas, vestidos, servilletas y las llamadas caritas.",
+        "en": "Two-needle embroidery, cross-stitch, chain stitch and other techniques, with motifs of the sun, moon, corn cobs, flowers, birds and deer. It adorns blouses, dresses, napkins and the small cloths known as caritas."
+      },
+      "verificado": true,
+      "fuente": "https://www.mexicodesconocido.com.mx/artesanias-mazahuas.html"
+    },
+    {
+      "id": "textiles-telar",
+      "nombre": {
+        "es": "Textiles de telar: fajas y quesquémil",
+        "en": "Loom textiles: fajas and quesquémil"
+      },
+      "descripcion": {
+        "es": "Fajas, cobijas, morrales, chalecos y quesquémiles tejidos en telar de cintura o de pedal. Las fajas se consideran verdaderos códices textiles donde se expresa la cosmovisión mazahua.",
+        "en": "Sashes (fajas), blankets, bags, vests and quesquémiles (shoulder capes) woven on backstrap or treadle looms. The fajas are regarded as textile codices that express the Mazahua worldview."
+      },
+      "verificado": true,
+      "fuente": "https://www.mexicodesconocido.com.mx/artesanias-mazahuas.html"
+    },
+    {
+      "id": "plateria-plateros",
+      "nombre": {
+        "es": "Platería de Plateros",
+        "en": "Silverwork of Plateros"
+      },
+      "descripcion": {
+        "es": "Taller de plata en la comunidad de Plateros, San Felipe del Progreso, famosa por sus aretes de palomita: una paloma indica mujer soltera y dos, de frente, mujer casada.",
+        "en": "Silver workshops in the community of Plateros, San Felipe del Progreso, known for dove (palomita) earrings: one dove marks an unmarried woman and two facing doves a married one."
+      },
+      "verificado": true,
+      "fuente": "https://foem.edomex.gob.mx/sites/foem.edomex.gob.mx/files/catalogo/San%20Felipe%20del%20Progreso.pdf"
+    },
+    {
+      "id": "trenzado-fibras",
+      "nombre": {
+        "es": "Trenzado de fibras vegetales",
+        "en": "Plant-fiber braiding"
+      },
+      "descripcion": {
+        "es": "Oficio artesanal registrado entre las y los artesanos de San José del Rincón, junto con el bordado y el telar de pedal.",
+        "en": "A craft listed in the municipal register of artisans of San José del Rincón, where it is practiced alongside embroidery and treadle-loom weaving."
+      },
+      "verificado": false,
+      "fuente": "https://sanjosedelrincon.gob.mx/transparencia/ArtesaniasSJR/2023/Registro%20Municipal%20de%20Artesanas%20y%20Artesanos.pdf"
+    }
+  ],
+  "costumbres": [
+    {
+      "id": "mayordomias",
+      "nombre": {
+        "es": "Mayordomías y faenas",
+        "en": "Mayordomías and faenas"
+      },
+      "descripcion": {
+        "es": "Mayordomos, fiscales y mayordomitos organizan los ritos y fiestas según su cargo. Las faenas son trabajos comunitarios, y la familia, nuclear o extensa, es la base de la organización social.",
+        "en": "Mayordomos, fiscales and mayordomitos organize rites and festivals according to their appointed term. Faenas are shared community work, and the family, nuclear or extended, is the basis of social life."
+      },
+      "verificado": false,
+      "fuente": "https://es.wikipedia.org/wiki/Mazahuas"
+    },
+    {
+      "id": "danza-pastoras",
+      "nombre": {
+        "es": "Danza de las pastoras",
+        "en": "Dance of the pastoras"
+      },
+      "descripcion": {
+        "es": "Las pastoras bailan en procesiones y fiestas agrícolas. Su bastón simboliza fertilidad y los cascabeles aluden al sonido de la lluvia y el trueno.",
+        "en": "The pastoras dance in processions and agricultural festivals. Their staff symbolizes fertility and the bells recall the sound of rain and thunder."
+      },
+      "verificado": true,
+      "fuente": "https://www.redalyc.org/pdf/3713/371345325015.pdf"
+    },
+    {
+      "id": "carreras-de-caballos",
+      "nombre": {
+        "es": "Acompañar al santo a caballo",
+        "en": "Accompanying the saint on horseback"
+      },
+      "descripcion": {
+        "es": "En muchas fiestas patronales, jinetes acompañan la imagen en su recorrido y luego hay carreras de caballos. Después se les ofrece comida en agradecimiento por su apoyo.",
+        "en": "In many patron-saint festivals, riders escort the image along its route and horse races follow. Afterward they are offered food as thanks for their help."
+      },
+      "verificado": true,
+      "fuente": "https://foem.edomex.gob.mx/sites/foem.edomex.gob.mx/files/catalogo/San%20Felipe%20del%20Progreso.pdf"
+    },
+    {
+      "id": "vestimenta-mazahua",
+      "nombre": {
+        "es": "Vestimenta tradicional",
+        "en": "Traditional dress"
+      },
+      "descripcion": {
+        "es": "Muchas mujeres portan a diario enaguas, blusas bordadas, quesquémil y collares y aretes de plata. La vestimenta es expresión de identidad y se aprecia en mercados y fiestas.",
+        "en": "Many women wear skirts, embroidered blouses, quesquémiles and silver necklaces and earrings every day. Dress is an expression of identity, seen in markets and festivals."
+      },
+      "verificado": true,
+      "fuente": "https://foem.edomex.gob.mx/sites/foem.edomex.gob.mx/files/catalogo/San%20Felipe%20del%20Progreso.pdf"
+    },
+    {
+      "id": "boda-tradicional",
+      "nombre": {
+        "es": "Boda tradicional",
+        "en": "Traditional wedding"
+      },
+      "descripcion": {
+        "es": "En el noviazgo tradicional, el novio debe hacer al menos tres visitas a la casa de la novia antes de formalizar el compromiso.",
+        "en": "In traditional courtship, the groom must make at least three visits to the bride's home before the engagement is formalized."
+      },
+      "verificado": false,
+      "fuente": "https://es.wikipedia.org/wiki/Mazahuas"
+    }
+  ],
+  "frases": [],
+  "foto": "mazahua-portada",
+  "fuentes": [
+    {
+      "titulo": "San Felipe del Progreso, Pueblo con Encanto (Gobierno del Estado de México)",
+      "url": "https://foem.edomex.gob.mx/sites/foem.edomex.gob.mx/files/catalogo/San%20Felipe%20del%20Progreso.pdf"
+    },
+    {
+      "titulo": "Elaboración del Sendechjo: bebida mazahua de maíz nativo en San Nicolás Guadalupe (Estudios Sociales, 2025)",
+      "url": "https://www.scielo.org.mx/pdf/esracdr/v35n66/2395-9169-esracdr-35-66-e251603.pdf"
+    },
+    {
+      "titulo": "Rituales agrícolas: la fiesta de la Santa Cruz y de San Isidro Labrador en dos municipios mazahuas (Diálogo Andino, 2016)",
+      "url": "https://www.redalyc.org/pdf/3713/371345325015.pdf"
+    },
+    {
+      "titulo": "Artesanías mazahuas (México Desconocido)",
+      "url": "https://www.mexicodesconocido.com.mx/artesanias-mazahuas.html"
+    },
+    {
+      "titulo": "Población indígena del Estado de México (COESPO, 2021)",
+      "url": "https://coespo.edomex.gob.mx/sites/coespo.edomex.gob.mx/files/files/2021/Poblaci%C3%B3n%20indigena%20del%20Estado%20de%20M%C3%A9xico%20Marzo%20COESPO%202021.pdf"
+    },
+    {
+      "titulo": "Registro Municipal de Artesanas y Artesanos (San José del Rincón)",
+      "url": "https://sanjosedelrincon.gob.mx/transparencia/ArtesaniasSJR/2023/Registro%20Municipal%20de%20Artesanas%20y%20Artesanos.pdf"
+    },
+    {
+      "titulo": "Mazahuas (Wikipedia, solo como pista)",
+      "url": "https://es.wikipedia.org/wiki/Mazahuas"
+    }
+  ]
+}

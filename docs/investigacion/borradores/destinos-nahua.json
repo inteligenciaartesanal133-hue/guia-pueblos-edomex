@@ -1,0 +1,74 @@
+[
+  {
+    "id": "destino-santa-catarina-del-monte", "pueblo": "nahua", "tipo": "comunidad",
+    "nombre": {"es": "Santa Catarina del Monte", "en": "Santa Catarina del Monte"},
+    "municipio": "Texcoco", "lat": 19.4672, "lon": -98.7783,
+    "resena": {
+      "es": "Santa Catarina del Monte es una comunidad nahua de la sierra de Texcoco, donde aún se habla náhuatl. Es conocida por la Apantla, fiesta del agua que se celebra el 3 de mayo, y por sus figuras de vara de perlilla, como venados, patos y canastas, elaboradas por familias de la comunidad. Está rodeada de bosque, del que sus habitantes obtienen hongos, leña y plantas medicinales. Es un lugar para conocer una cultura viva y respetar sus espacios y celebraciones.",
+      "en": "Santa Catarina del Monte is a Nahua community in the Texcoco highlands where Nahuatl is still spoken. It is known for the Apantla, a water festival held on May 3, and for its perlilla twig figures such as deer, ducks and baskets, made by local families. It is surrounded by forest, from which residents gather mushrooms, firewood and medicinal plants. It is a place to learn about a living culture while respecting its spaces and celebrations."
+    },
+    "como_llegar": {
+      "es": "Desde la Ciudad de México, tomar la carretera a Texcoco (unos 45 a 60 minutos) y de ahí transporte local rumbo a la sierra, unos 25 minutos más. Desde Toluca, ir hacia la Ciudad de México y Texcoco, unas 2.5 a 3 horas en total. Tiempos aproximados.",
+      "en": "From Mexico City, take the highway to Texcoco (about 45 to 60 minutes) and then local transport up to the highlands, about 25 more minutes. From Toluca, head toward Mexico City and Texcoco, roughly 2.5 to 3 hours in total. Times are approximate."
+    },
+    "actividades": [
+      {"nombre": {"es": "Conocer la artesanía de perlilla", "en": "Learn about perlilla crafts"}, "ambiente": "bajo_techo"},
+      {"nombre": {"es": "Caminar por el bosque de la sierra", "en": "Walk in the highland forest"}, "ambiente": "aire_libre"},
+      {"nombre": {"es": "Asistir a la Apantla (3 de mayo) con respeto", "en": "Attend the Apantla (May 3) respectfully"}, "ambiente": "aire_libre"}
+    ],
+    "foto": null,
+    "fuentes": [
+      {"titulo": "La Apantla: el agradecimiento para que no falte el agua", "url": "https://www.scielo.org.mx/pdf/cuicui/v22n63/v22n63a3.pdf"},
+      {"titulo": "La artesanía como producción cultural en Santa Catarina del Monte", "url": "https://www.scielo.org.mx/pdf/conver/v15n46/v15n46a10.pdf"},
+      {"titulo": "Nahuas de Texcoco (CDI)", "url": "https://www.gob.mx/cms/uploads/attachment/file/12558/nahuas_texcoco.pdf"}
+    ],
+    "verificado": true
+  },
+  {
+    "id": "destino-sacromonte-amecameca", "pueblo": "nahua", "tipo": "sitio",
+    "nombre": {"es": "Santuario del Señor del Sacromonte", "en": "Sanctuary of the Señor del Sacromonte"},
+    "municipio": "Amecameca", "lat": 19.1197, "lon": -98.7597,
+    "resena": {
+      "es": "El Sacromonte es un cerro con santuario en Amecameca, municipio con población nahua. Guarda el Santo Entierro, hoy llamado Señor del Sacromonte, que atrae peregrinos en Semana Santa y cada Miércoles de Ceniza. Estudios del INAH vinculan los rituales del cerro con antecedentes indígenas, como peticiones de lluvia en una cueva. Desde la zona se obtienen vistas del volcán Popocatépetl. Es un sitio de culto activo, por lo que conviene visitarlo con discreción.",
+      "en": "The Sacromonte is a hill with a sanctuary in Amecameca, a municipality with Nahua population. It houses the Santo Entierro, now called the Señor del Sacromonte, which draws pilgrims during Holy Week and every Ash Wednesday. INAH studies link the hill's rituals to indigenous antecedents, such as petitions for rain in a cave. The area offers views of the Popocatépetl volcano. It is an active place of worship, so visit with discretion."
+    },
+    "como_llegar": {
+      "es": "Desde la Ciudad de México, tomar la autopista México-Puebla o la carretera a Amecameca, unas 1.5 horas por carretera o autobús. Desde Toluca, el trayecto es de unas 3 horas, pasando por la Ciudad de México. Tiempos aproximados.",
+      "en": "From Mexico City, take the Mexico-Puebla highway or the road to Amecameca, about 1.5 hours by road or bus. From Toluca, the trip is about 3 hours via Mexico City. Times are approximate."
+    },
+    "actividades": [
+      {"nombre": {"es": "Visitar el santuario", "en": "Visit the sanctuary"}, "ambiente": "bajo_techo"},
+      {"nombre": {"es": "Subir el cerro y ver el Popocatépetl", "en": "Climb the hill and view Popocatépetl"}, "ambiente": "aire_libre"}
+    ],
+    "foto": "destino-sacromonte-amecameca",
+    "fuentes": [
+      {"titulo": "Tras dos años de pandemia, fieles visitan al Señor del Sacromonte (Milenio)", "url": "https://amp.milenio.com/politica/comunidad/cristo-sacromonte-miles-fieles-toman-ceniza-amecameca"},
+      {"titulo": "Revista Contemporánea (INAH): ritos en el Sacromonte", "url": "https://revistas.inah.gob.mx/index.php/contemporanea/article/download/21040/22479"},
+      {"titulo": "Población indígena en el Estado de México (COESPO)", "url": "https://coespo.edomex.gob.mx/sites/coespo.edomex.gob.mx/files/files/2021/Poblaci%C3%B3n%20indigena%20del%20Estado%20de%20M%C3%A9xico%20Marzo%20COESPO%202021.pdf"}
+    ],
+    "verificado": false
+  },
+  {
+    "id": "destino-malinalco", "pueblo": "nahua", "tipo": "comunidad",
+    "nombre": {"es": "Malinalco", "en": "Malinalco"},
+    "municipio": "Malinalco", "lat": 18.95, "lon": -99.496,
+    "resena": {
+      "es": "Malinalco es uno de los once municipios donde, según CEDIPIEM, se asienta población nahua. Su centro histórico conserva la tradición de un pueblo con raíces prehispánicas. A la salida de la zona arqueológica se encuentra el Museo Universitario Luis Mario Schneider, con una museografía sobre la historia y la gente de Malinalco y una réplica del Cuauhcalli, la Casa del Sol. Es un buen punto para acercarse al pasado y presente nahua de la región.",
+      "en": "Malinalco is one of the eleven municipalities where, according to CEDIPIEM, Nahua people live. Its historic center preserves the tradition of a town with pre-Hispanic roots. At the exit of the archaeological zone is the Museo Universitario Luis Mario Schneider, with exhibits on Malinalco's history and people and a replica of the Cuauhcalli, the House of the Sun. It is a good place to approach the region's Nahua past and present."
+    },
+    "como_llegar": {
+      "es": "Desde Toluca, tomar la carretera hacia Tenango del Valle y Chalma rumbo a Malinalco, unos 1.5 horas. Desde la Ciudad de México, por Toluca o por la carretera a Chalma, unas 2.5 a 3 horas. Tiempos aproximados.",
+      "en": "From Toluca, take the road via Tenango del Valle and Chalma toward Malinalco, about 1.5 hours. From Mexico City, go via Toluca or the Chalma highway, about 2.5 to 3 hours. Times are approximate."
+    },
+    "actividades": [
+      {"nombre": {"es": "Visitar el Museo Universitario Luis Mario Schneider", "en": "Visit the Luis Mario Schneider University Museum"}, "ambiente": "bajo_techo"},
+      {"nombre": {"es": "Recorrer el centro del pueblo", "en": "Stroll through the town center"}, "ambiente": "aire_libre"}
+    ],
+    "foto": "destino-malinalco",
+    "fuentes": [
+      {"titulo": "Zona arqueológica Malinalco (INAH, Lugares)", "url": "https://lugares.inah.gob.mx/en/mundial/6512"},
+      {"titulo": "Población indígena en el Estado de México (COESPO)", "url": "https://coespo.edomex.gob.mx/sites/coespo.edomex.gob.mx/files/files/2021/Poblaci%C3%B3n%20indigena%20del%20Estado%20de%20M%C3%A9xico%20Marzo%20COESPO%202021.pdf"}
+    ],
+    "verificado": true
+  }
+]

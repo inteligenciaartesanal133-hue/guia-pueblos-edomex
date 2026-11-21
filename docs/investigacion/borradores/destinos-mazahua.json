@@ -1,0 +1,111 @@
+[
+  {
+    "id": "destino-centro-ceremonial-mazahua",
+    "pueblo": "mazahua",
+    "tipo": "sitio",
+    "nombre": {"es": "Centro Ceremonial Mazahua", "en": "Mazahua Ceremonial Center"},
+    "municipio": "San Felipe del Progreso",
+    "lat": 19.69,
+    "lon": -100.04,
+    "resena": {
+      "es": "En Fresno Nichi, a unos 15 minutos de Santa Ana Nichi, el Centro Ceremonial Mazahua es un recinto de reunión cultural y espiritual rodeado de bosque de pinos y encinos. Alberga el Salón del Consejo, un museo con objetos de labranza, pesca y caza, y un espacio de artesanías con fajas, quesquémiles y chalecos. Aquí se realiza la ceremonia del Fuego Nuevo en marzo, y el primer domingo de cada mes hay ceremonias tradicionales. Es un lugar vivo del pueblo jñatjo: se visita con respeto y atención a las indicaciones de la comunidad.",
+      "en": "In Fresno Nichi, about 15 minutes from Santa Ana Nichi, the Mazahua Ceremonial Center is a cultural and spiritual gathering place surrounded by pine and oak forest. It holds the Council Hall, a museum of farming, fishing and hunting tools, and a crafts space with fajas, quesquémiles and vests. The New Fire ceremony takes place here in March, and traditional ceremonies are held on the first Sunday of each month. It is a living place of the Jñatjo people: visit it with respect and follow the community's guidance."
+    },
+    "como_llegar": {
+      "es": "Desde Toluca, unos 75 km por carretera, aproximadamente 1 hora 20 minutos, vía Atlacomulco y San Felipe del Progreso. Desde la Ciudad de México, autobús desde la terminal Observatorio hasta San Felipe del Progreso (cerca de 2 horas y media), y de ahí transporte local hacia Santa Ana Nichi.",
+      "en": "From Toluca, about 75 km by road, roughly 1 hour 20 minutes, via Atlacomulco and San Felipe del Progreso. From Mexico City, take a bus from the Observatorio terminal to San Felipe del Progreso (about 2.5 hours), then local transport toward Santa Ana Nichi."
+    },
+    "actividades": [
+      {"nombre": {"es": "Caminata por el bosque", "en": "Forest walk"}, "ambiente": "aire_libre"},
+      {"nombre": {"es": "Visita al museo y a la sala de artesanías", "en": "Visit to the museum and crafts hall"}, "ambiente": "bajo_techo"},
+      {"nombre": {"es": "Ceremonias tradicionales (primer domingo del mes)", "en": "Traditional ceremonies (first Sunday of the month)"}, "ambiente": "aire_libre"}
+    ],
+    "foto": null,
+    "fuentes": [
+      {"titulo": "San Felipe del Progreso, Pueblo con Encanto", "url": "https://foem.edomex.gob.mx/sites/foem.edomex.gob.mx/files/catalogo/San%20Felipe%20del%20Progreso.pdf"},
+      {"titulo": "Centro Ceremonial Mazahua (Food and Pleasure)", "url": "https://foodandpleasure.com/centro-ceremonial-mazahua"}
+    ],
+    "verificado": false
+  },
+  {
+    "id": "destino-plateros",
+    "pueblo": "mazahua",
+    "tipo": "comunidad",
+    "nombre": {"es": "Plateros", "en": "Plateros"},
+    "municipio": "San Felipe del Progreso",
+    "lat": 19.70,
+    "lon": -99.99,
+    "resena": {
+      "es": "Plateros es una comunidad mazahua de San Felipe del Progreso conocida por su orfebrería. Alcanzó fama nacional en 1973 al ganar un concurso de objetos de plata, y sus talleres elaboran los aretes de palomita, campanas y otras piezas con símbolos de la cultura mazahua. Se puede ver el proceso completo: fundir la plata, laminarla y darle forma con punzones, sierras y martillos. Cerca está el Parque Ecoturístico Valle del Sol y un mirador natural con vista al valle, que en temporada de lluvias se cubre de maizales.",
+      "en": "Plateros is a Mazahua community in San Felipe del Progreso known for its silverwork. It gained national fame in 1973 by winning a silver-crafting contest, and its workshops make dove (palomita) earrings, bells and other pieces with Mazahua symbols. Visitors can see the whole process: melting the silver, rolling it into sheets and shaping it with punches, saws and hammers. Nearby are the Valle del Sol eco-tourism park and a natural lookout over the valley, which fills with cornfields in the rainy season."
+    },
+    "como_llegar": {
+      "es": "Desde Toluca, unas 1 hora 15 minutos por carretera hacia Atlacomulco y San Felipe del Progreso. Desde la Ciudad de México, autobús a San Felipe del Progreso (cerca de 2 horas y media) y transporte local hacia la comunidad.",
+      "en": "From Toluca, about 1 hour 15 minutes by road toward Atlacomulco and San Felipe del Progreso. From Mexico City, take a bus to San Felipe del Progreso (about 2.5 hours), then local transport to the community."
+    },
+    "actividades": [
+      {"nombre": {"es": "Recorrido por los talleres de platería", "en": "Tour of the silversmith workshops"}, "ambiente": "bajo_techo"},
+      {"nombre": {"es": "Mirador natural y Parque Valle del Sol", "en": "Natural lookout and Valle del Sol park"}, "ambiente": "aire_libre"}
+    ],
+    "foto": null,
+    "fuentes": [
+      {"titulo": "San Felipe del Progreso, Pueblo con Encanto", "url": "https://foem.edomex.gob.mx/sites/foem.edomex.gob.mx/files/catalogo/San%20Felipe%20del%20Progreso.pdf"}
+    ],
+    "verificado": false
+  },
+  {
+    "id": "destino-presa-tepetitlan",
+    "pueblo": "mazahua",
+    "tipo": "sitio",
+    "nombre": {"es": "Presa de Tepetitlán y Exhacienda de Tepetitlán", "en": "Tepetitlán Reservoir and Tepetitlán Former Hacienda"},
+    "municipio": "San Felipe del Progreso",
+    "lat": 19.735,
+    "lon": -99.92,
+    "resena": {
+      "es": "La presa de Tepetitlán es uno de los cuerpos de agua más grandes de la región y está rodeada de comunidades mazahuas como Tepetitlán, Calvario del Carmen, Santa Cruz y San Antonio Mextepec. Se puede observar la gran compuerta, remar o pescar, y algunos vecinos ofrecen paseos en lancha, con charalitos frescos, carpas y ajolotes para probar. Muy cerca, a unos 15 minutos de la cabecera, está la exhacienda de Tepetitlán, la mejor conservada del municipio, con huertos y antigüedades. No se recomienda nadar en la presa, pues el agua es muy fría.",
+      "en": "The Tepetitlán reservoir is one of the largest bodies of water in the region and is surrounded by Mazahua communities such as Tepetitlán, Calvario del Carmen, Santa Cruz and San Antonio Mextepec. Visitors can see the great floodgate, row or fish, and some local residents offer boat rides, with fresh charalitos, carp and axolotls to taste. Very near, about 15 minutes from the town center, is the Tepetitlán former hacienda, the best preserved in the municipality, with orchards and antiques. Swimming is not recommended because the water is very cold."
+    },
+    "como_llegar": {
+      "es": "Desde Toluca, unos 70 km, cerca de 1 hora 10 minutos hacia Atlacomulco y San Felipe del Progreso; la presa queda a unos 15 minutos de la cabecera municipal. Desde la Ciudad de México, autobús a San Felipe del Progreso (cerca de 2 horas y media) y transporte local.",
+      "en": "From Toluca, about 70 km, roughly 1 hour 10 minutes toward Atlacomulco and San Felipe del Progreso; the reservoir is about 15 minutes from the town center. From Mexico City, take a bus to San Felipe del Progreso (about 2.5 hours), then local transport."
+    },
+    "actividades": [
+      {"nombre": {"es": "Paseo en lancha y observación de la compuerta", "en": "Boat ride and floodgate viewing"}, "ambiente": "aire_libre"},
+      {"nombre": {"es": "Recorrido por la exhacienda", "en": "Tour of the former hacienda"}, "ambiente": "bajo_techo"},
+      {"nombre": {"es": "Ciclismo y caminata por caminos rurales", "en": "Cycling and walking on rural roads"}, "ambiente": "aire_libre"}
+    ],
+    "foto": "destino-presa-tepetitlan",
+    "fuentes": [
+      {"titulo": "San Felipe del Progreso, Pueblo con Encanto", "url": "https://foem.edomex.gob.mx/sites/foem.edomex.gob.mx/files/catalogo/San%20Felipe%20del%20Progreso.pdf"}
+    ],
+    "verificado": false
+  },
+  {
+    "id": "destino-san-felipe-del-progreso",
+    "pueblo": "mazahua",
+    "tipo": "comunidad",
+    "nombre": {"es": "San Felipe del Progreso (cabecera)", "en": "San Felipe del Progreso (town center)"},
+    "municipio": "San Felipe del Progreso",
+    "lat": 19.7117,
+    "lon": -99.9503,
+    "resena": {
+      "es": "La cabecera de San Felipe del Progreso es el corazón de la región mazahua, el lugar de los mazahuas. En su tianguis dominical se ven mujeres con su indumentaria tradicional y se encuentran tamales, elotes y pan de monte. El jardín central tiene un quiosco y una fuente porfiriana, y la Parroquia y Santuario de los Apóstoles San Felipe y Santiago es sede de la fiesta de Nuestro Padre Jesús, en enero, con portadas de semillas, palomitas de maíz y pirotecnia. Es buen punto de partida para visitar el resto del municipio.",
+      "en": "The town center of San Felipe del Progreso is the heart of the Mazahua region, the place of the Mazahuas. At its Sunday market you will see women in traditional dress and find tamales, corn on the cob and pan de monte. The central garden has a bandstand and a Porfirian-era fountain, and the Parish and Sanctuary of the Apostles San Felipe and Santiago hosts the festival of Nuestro Padre Jesús in January, with seed-made portals, popcorn garlands and fireworks. It is a good starting point for exploring the rest of the municipality."
+    },
+    "como_llegar": {
+      "es": "Desde Toluca, cerca de 1 hora por carretera federal 550 hasta Atlacomulco y luego la carretera estatal 5. Desde la Ciudad de México, autobús desde la terminal Observatorio, unas 2 horas y media.",
+      "en": "From Toluca, about 1 hour by federal highway 550 to Atlacomulco, then state highway 5. From Mexico City, take a bus from the Observatorio terminal, about 2.5 hours."
+    },
+    "actividades": [
+      {"nombre": {"es": "Tianguis dominical y gastronomía local", "en": "Sunday market and local food"}, "ambiente": "aire_libre"},
+      {"nombre": {"es": "Visita a la parroquia y al santuario", "en": "Visit to the parish and sanctuary"}, "ambiente": "bajo_techo"},
+      {"nombre": {"es": "Paseo por el jardín central", "en": "Stroll through the central garden"}, "ambiente": "aire_libre"}
+    ],
+    "foto": "destino-san-felipe-del-progreso",
+    "fuentes": [
+      {"titulo": "San Felipe del Progreso, Pueblo con Encanto", "url": "https://foem.edomex.gob.mx/sites/foem.edomex.gob.mx/files/catalogo/San%20Felipe%20del%20Progreso.pdf"},
+      {"titulo": "Fiesta de Nuestro Padre Jesús y las palomitas de maíz (México Desconocido)", "url": "https://www.mexicodesconocido.com.mx/san-felipe-del-progreso-santo-patrono-palomitas-de-maiz.html"}
+    ],
+    "verificado": true
+  }
+]

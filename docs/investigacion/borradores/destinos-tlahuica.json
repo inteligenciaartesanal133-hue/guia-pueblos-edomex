@@ -1,0 +1,58 @@
+[
+  {
+    "id": "destino-san-juan-atzingo",
+    "pueblo": "tlahuica",
+    "tipo": "comunidad",
+    "nombre": {"es": "San Juan Atzingo", "en": "San Juan Atzingo"},
+    "municipio": "Ocuilan",
+    "lat": 19.0096,
+    "lon": -99.3853,
+    "resena": {
+      "es": "San Juan Atzingo es la comunidad tlahuica donde la lengua pjiekak'joo sigue viva y el principal centro de este pueblo. Se asienta entre bosques de pino y oyamel de la sierra que separa el valle de Toluca de Morelos, cerca de Malinalco y del santuario de Chalma. Su templo guarda las Santas Varas de Justicia y un teponaztle, objetos rituales que solo salen en fechas especiales. Quien visite debe hacerlo con respeto, como invitado en una comunidad viva con su propia organización, y de preferencia en coordinación con sus autoridades locales.",
+      "en": "San Juan Atzingo is the Tlahuica community where the pjiekak'joo language is still alive and the main center of this people. It sits among pine and fir forests of the sierra that separates the Toluca valley from Morelos, near Malinalco and the sanctuary of Chalma. Its church keeps the Holy Rods of Justice and a teponaztle, ritual objects that come out only on special dates. Visitors should come with respect, as guests in a living community with its own organization, and preferably in coordination with local authorities."
+    },
+    "como_llegar": {
+      "es": "Se encuentra al sureste de Toluca, en el municipio de Ocuilan, cerca de Malinalco y Chalma. Desde Toluca y desde la Ciudad de México se llega por carretera hacia la zona de Santiago Tianguistenco y Ocuilan, y de ahí por caminos locales; en autobús conviene combinar tramos y transporte local. El trayecto toma aproximadamente de 2 a 3 horas, según el punto de salida.",
+      "en": "It lies southeast of Toluca, in the municipality of Ocuilan, near Malinalco and Chalma. From Toluca and from Mexico City, take the highway toward the Santiago Tianguistenco and Ocuilan area, then local roads; by bus, expect to combine several legs and local transport. The trip takes roughly 2 to 3 hours depending on the starting point."
+    },
+    "actividades": [
+      {"nombre": {"es": "Caminar por los bosques de pino y oyamel", "en": "Walk through the pine and fir forests"}, "ambiente": "aire_libre"},
+      {"nombre": {"es": "Conocer el templo de San Juan", "en": "Visit the church of San Juan"}, "ambiente": "bajo_techo"},
+      {"nombre": {"es": "Probar la cocina tlahuica con cocineras de la comunidad", "en": "Taste Tlahuica cuisine with local cooks"}, "ambiente": "bajo_techo"}
+    ],
+    "foto": "destino-san-juan-atzingo",
+    "fuentes": [
+      {"titulo": "Cinco sabores tradicionales mexiquenses (UIEM / CEDIPIEM, 2017)", "url": "http://uiem.edomex.gob.mx/sites/uiem.edomex.gob.mx/files/files/FONDO%20EDITORIAL%20UIEM/Fondo%20Editorial/Cinco%20sabores%20tradicionales%202017.pdf"},
+      {"titulo": "Tlahuicas, Sistema de Información Cultural", "url": "https://sic.gob.mx/ficha.php?table=grupo_etnico&table_id=86"},
+      {"titulo": "San Juan Atzingo (Wikipedia)", "url": "https://es.wikipedia.org/wiki/San_Juan_Atzingo_(Estado_de_M%C3%A9xico)"},
+      {"titulo": "Sabor y tradición: la cocina tlahuica (Posta, IIFAEM)", "url": "https://www.posta.com.mx/mexico/sabor-y-tradicion-la-cocina-tlahuica-un-tesoro-cultural/vl1606536"}
+    ],
+    "verificado": false
+  },
+  {
+    "id": "destino-lomas-de-teocaltzingo",
+    "pueblo": "tlahuica",
+    "tipo": "comunidad",
+    "nombre": {"es": "Lomas de Teocaltzingo", "en": "Lomas de Teocaltzingo"},
+    "municipio": "Ocuilan",
+    "lat": 19.0070,
+    "lon": -99.3840,
+    "resena": {
+      "es": "Lomas de Teocaltzingo es una de las comunidades de Ocuilan donde vive población tlahuica y, según reportes recientes, donde se concentra la mayoría de los hablantes de pjiekak'joo, casi todos personas mayores. Forma parte del paisaje de lomas y bosque de pino que se extiende hacia las lagunas de Zempoala. Es un lugar para acercarse con respeto y discreción, preferentemente de la mano de las autoridades y familias de la comunidad.",
+      "en": "Lomas de Teocaltzingo is one of the communities in Ocuilan where Tlahuica people live and, according to recent reports, where most speakers of pjiekak'joo are found, nearly all of them elderly. It is part of a landscape of hills and pine forest that stretches toward the Zempoala lagoons. It is a place to approach with respect and discretion, preferably together with the community's authorities and families."
+    },
+    "como_llegar": {
+      "es": "Está junto a San Juan Atzingo, en el municipio de Ocuilan, al sureste de Toluca. Desde Toluca y desde la Ciudad de México se llega por carretera hacia Santiago Tianguistenco y Ocuilan, y después por caminos locales; en autobús hay que combinar tramos y transporte local. El trayecto toma aproximadamente de 2 a 3 horas.",
+      "en": "It lies next to San Juan Atzingo, in the municipality of Ocuilan, southeast of Toluca. From Toluca and Mexico City, take the highway toward Santiago Tianguistenco and Ocuilan, then local roads; by bus you will need to combine several legs and local transport. The trip takes roughly 2 to 3 hours."
+    },
+    "actividades": [
+      {"nombre": {"es": "Pasear por las lomas y el bosque de pino", "en": "Stroll through the hills and pine forest"}, "ambiente": "aire_libre"}
+    ],
+    "foto": null,
+    "fuentes": [
+      {"titulo": "Ocuiltec language (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Ocuiltec_language"},
+      {"titulo": "Cinco sabores tradicionales mexiquenses (UIEM / CEDIPIEM, 2017)", "url": "http://uiem.edomex.gob.mx/sites/uiem.edomex.gob.mx/files/files/FONDO%20EDITORIAL%20UIEM/Fondo%20Editorial/Cinco%20sabores%20tradicionales%202017.pdf"}
+    ],
+    "verificado": false
+  }
+]

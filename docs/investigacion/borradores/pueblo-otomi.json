@@ -1,0 +1,219 @@
+{
+  "id": "otomi",
+  "nombre": {"es": "Otomí", "en": "Otomí"},
+  "nombrePropio": "Hñähñu",
+  "lengua": {
+    "es": "Otomí (ñätho en el valle de Toluca y hñähñu en otras regiones), de la familia lingüística oto-mangue",
+    "en": "Otomí (called ñätho in the Toluca valley and hñähñu in other regions), of the Oto-Manguean language family"
+  },
+  "municipios": [
+    {"nombre": "Temoaya", "lat": 19.468611, "lon": -99.593333},
+    {"nombre": "Jiquipilco", "lat": 19.55713, "lon": -99.60772},
+    {"nombre": "Acambay", "lat": 19.959, "lon": -99.848},
+    {"nombre": "San Felipe del Progreso", "lat": 19.71333, "lon": -99.95306},
+    {"nombre": "Otzolotepec", "lat": 19.444139, "lon": -99.532417},
+    {"nombre": "Amanalco", "lat": 19.2532, "lon": -100.0201},
+    {"nombre": "Villa del Carbón", "lat": 19.72875, "lon": -99.46362}
+  ],
+  "resena": {
+    "es": "El pueblo otomí, que en el Estado de México se nombra a sí mismo ñätho y en otras regiones hñähñu, es uno de los cinco pueblos indígenas originarios de la entidad, junto con los mazahuas, nahuas, matlatzincas y tlahuicas. Sus comunidades se concentran en el norte y el occidente del estado, sobre todo en Temoaya, que reúne el mayor número de localidades con población otomí, y también en Acambay, Jiquipilco y San Felipe del Progreso. Su vida comunitaria gira en torno a la milpa, las mayordomías, las fiestas patronales y una lengua que sigue viva. Hoy se les conoce por sus tapetes anudados, su cestería y el Centro Ceremonial de Temoaya.",
+    "en": "The Otomí people, who call themselves ñätho in the State of Mexico and hñähñu in other regions, are one of the five Indigenous peoples native to the state, alongside the Mazahua, Nahua, Matlatzinca and Tlahuica. Their communities are concentrated in the north and west of the state, above all in Temoaya, which has the largest number of localities with an Otomí population, and also in Acambay, Jiquipilco and San Felipe del Progreso. Community life revolves around the milpa, the mayordomías (religious stewardships), patron saint festivals and a language that is still spoken today. They are known for their hand-knotted rugs, their basketry and the Otomí Ceremonial Center in Temoaya."
+  },
+  "gastronomia": [
+    {
+      "id": "barbacoa-de-borrego",
+      "nombre": {"es": "Barbacoa de borrego", "en": "Barbacoa de borrego (slow-cooked lamb)"},
+      "descripcion": {
+        "es": "Carne de borrego cocida lentamente, a veces en hoyo, que es una de las proteínas más consumidas en la cocina otomí y una especialidad de Temoaya para las fiestas y reuniones familiares.",
+        "en": "Lamb cooked slowly, sometimes in a pit oven, one of the most widely eaten meats in Otomí cooking and a specialty of Temoaya, served at festivals and family gatherings."
+      },
+      "verificado": true,
+      "fuente": "https://foodandpleasure.com/temoaya-estado-de-mexico/"
+    },
+    {
+      "id": "mole-de-pipian-con-charales-y-quelites",
+      "nombre": {"es": "Mole de pipián con charales y quelites", "en": "Mole de pipián con charales y quelites"},
+      "descripcion": {
+        "es": "Guiso tradicional mexiquense de herencia otomí, preparado con semillas de calabaza, charales y quelites. Expresa el aprovechamiento de lo que da la tierra y el agua de la región.",
+        "en": "A traditional dish from the State of Mexico with Otomí roots, made with pumpkin seeds, charales (small dried fish) and quelites (wild greens). It reflects the use of what the land and local waters provide."
+      },
+      "verificado": true,
+      "fuente": "https://www.posta.com.mx/edomex/el-platillo-milenario-del-edomex-con-herencia-otomi-que-no-puedes-dejar-de-probar/vl2076128"
+    },
+    {
+      "id": "quelites",
+      "nombre": {"es": "Quelites", "en": "Quelites (wild greens)"},
+      "descripcion": {
+        "es": "Hierbas comestibles que crecen en la milpa y el campo; se comen cocidas y en tacos. Un estudio documentó su uso en la comunidad otomí de San Pedro Arriba, en Temoaya.",
+        "en": "Edible wild greens that grow in the milpa and the fields, eaten cooked and in tacos. A study documented their use in the Otomí community of San Pedro Arriba, in Temoaya."
+      },
+      "verificado": true,
+      "fuente": "https://foodandpleasure.com/temoaya-estado-de-mexico/"
+    },
+    {
+      "id": "tamales",
+      "nombre": {"es": "Tamales", "en": "Tamales"},
+      "descripcion": {
+        "es": "Tamales de maíz, como los de frijol, que se preparan para las fiestas comunitarias; en la Feria Gastronómica Otomí de Villa del Carbón forman parte de la oferta de las cocineras de las comunidades.",
+        "en": "Corn tamales, including bean tamales, prepared for community celebrations. At the Otomí Gastronomic Fair in Villa del Carbón they are part of what local cooks from the communities offer."
+      },
+      "verificado": true,
+      "fuente": "https://www.chilango.com/que-hacer/feria-gastronomica-otomi-2025-edomex/"
+    },
+    {
+      "id": "pulque",
+      "nombre": {"es": "Pulque", "en": "Pulque"},
+      "descripcion": {
+        "es": "Bebida fermentada del aguamiel del maguey, una de las más representativas de la región. Se elabora también con frutas, como el pulque de moras de Villa del Carbón.",
+        "en": "A fermented drink made from maguey sap, one of the most representative of the region. It is also made with fruit, such as the blackberry pulque of Villa del Carbón."
+      },
+      "verificado": true,
+      "fuente": "https://www.mexicodesconocido.com.mx/pueblo-otomi-otomies.html"
+    }
+  ],
+  "festividades": [
+    {
+      "id": "ceremonia-del-quinto-sol",
+      "nombre": {"es": "Ceremonia del Quinto Sol", "en": "Ceremony of the Fifth Sun (Quinto Sol)"},
+      "descripcion": {
+        "es": "Ceremonia que se celebra en el Centro Ceremonial Otomí de Temoaya hacia el equinoccio de primavera, con el encendido del Fuego Nuevo. Es una ocasión de encuentro para las comunidades otomíes.",
+        "en": "A ceremony held at the Otomí Ceremonial Center in Temoaya around the spring equinox, with the lighting of the New Fire. It is a gathering for Otomí communities."
+      },
+      "fecha": {"es": "18 de marzo (cerca del equinoccio de primavera)", "en": "March 18 (near the spring equinox)"},
+      "verificado": true,
+      "fuente": "https://escapadas.mexicodesconocido.com.mx/atractivos/centro-ceremonial-otomi/"
+    },
+    {
+      "id": "fiesta-de-la-santa-cruz",
+      "nombre": {"es": "Fiesta de la Santa Cruz", "en": "Feast of the Holy Cross (Santa Cruz)"},
+      "descripcion": {
+        "es": "Fiesta que mezcla devoción católica y culto a los cerros. En Santa Cruz Tepexpan, Jiquipilco, el 3 de mayo se reúnen peregrinos, danzantes y pastoras en el santuario del cerro.",
+        "en": "A feast that blends Catholic devotion with the veneration of sacred hills. In Santa Cruz Tepexpan, Jiquipilco, pilgrims, dancers and pastoras gather at the hilltop shrine on May 3."
+      },
+      "fecha": {"es": "3 de mayo", "en": "May 3"},
+      "verificado": true,
+      "fuente": "https://www.jornada.com.mx/2014/08/16/cam-vida.html"
+    },
+    {
+      "id": "feria-gastronomica-otomi",
+      "nombre": {"es": "Feria Gastronómica Otomí Hnini Ndosküä", "en": "Hnini Ndosküä Otomí Gastronomic Fair"},
+      "descripcion": {
+        "es": "Feria en Las Moras, Villa del Carbón, donde cocineras de las comunidades comparten pulque de moras, mole de guajolote, tamales de frijol y otros platillos tradicionales.",
+        "en": "A fair in Las Moras, Villa del Carbón, where cooks from the communities share blackberry pulque, turkey mole, bean tamales and other traditional dishes."
+      },
+      "fecha": {"es": "Abril (edición 2025: 26 de abril)", "en": "April (2025 edition: April 26)"},
+      "verificado": true,
+      "fuente": "https://www.chilango.com/que-hacer/feria-gastronomica-otomi-2025-edomex/"
+    },
+    {
+      "id": "ceremonia-mensual-centro-ceremonial",
+      "nombre": {"es": "Ceremonia mensual a los elementos naturales", "en": "Monthly ceremony honoring the natural elements"},
+      "descripcion": {
+        "es": "Ceremonia periódica en el Centro Ceremonial Otomí de Temoaya en honor a los elementos de la naturaleza. Las fuentes no coinciden en qué domingo del mes se realiza.",
+        "en": "A recurring ceremony at the Otomí Ceremonial Center in Temoaya honoring the elements of nature. Sources disagree on which Sunday of the month it takes place."
+      },
+      "fecha": {"es": "Un domingo de cada mes (primero o último, según la fuente)", "en": "One Sunday each month (first or last, depending on the source)"},
+      "verificado": false,
+      "fuente": "https://escapadas.mexicodesconocido.com.mx/atractivos/centro-ceremonial-otomi/"
+    }
+  ],
+  "artesanias": [
+    {
+      "id": "tapetes-de-temoaya",
+      "nombre": {"es": "Tapetes anudados de Temoaya", "en": "Hand-knotted rugs of Temoaya"},
+      "descripcion": {
+        "es": "Tapetes de lana anudados a mano en telar, con motivos de la iconografía otomí, mazahua y otras. La técnica se aprendió desde 1969 y hoy se conserva en talleres familiares de Temoaya.",
+        "en": "Wool rugs knotted by hand on a loom, with designs drawn from Otomí, Mazahua and other iconography. The technique was learned from 1969 and is kept alive today in family workshops in Temoaya."
+      },
+      "verificado": true,
+      "fuente": "https://www.mexicodesconocido.com.mx/tapetes-de-temoaya.html"
+    },
+    {
+      "id": "cesteria",
+      "nombre": {"es": "Cestería", "en": "Basketry"},
+      "descripcion": {
+        "es": "Cestas y charolas tejidas con fibras naturales como la palma y el carrizo, que se elaboran y venden en talleres familiares de Temoaya y sus alrededores.",
+        "en": "Baskets and trays woven from natural fibers such as palm and reed, made and sold in family workshops in and around Temoaya."
+      },
+      "verificado": true,
+      "fuente": "https://foodandpleasure.com/temoaya-estado-de-mexico/"
+    },
+    {
+      "id": "textiles-bordados",
+      "nombre": {"es": "Textiles y bordados", "en": "Textiles and embroidery"},
+      "descripcion": {
+        "es": "Textiles de telar de cintura y prendas bordadas a mano, con flores y otros motivos, que forman parte de la identidad y la vestimenta otomí.",
+        "en": "Textiles woven on the backstrap loom and garments embroidered by hand with floral and other designs, which are an important part of Otomí identity and traditional dress."
+      },
+      "verificado": true,
+      "fuente": "https://www.mexicodesconocido.com.mx/pueblo-otomi-otomies.html"
+    },
+    {
+      "id": "chincuete-y-quexquemetl",
+      "nombre": {"es": "Chincuete y quexquémetl", "en": "Chincuete and quexquémetl"},
+      "descripcion": {
+        "es": "Indumentaria femenina tradicional: el chincuete es una falda amplia de lana o manta, y el quexquémetl, una prenda que cubre los hombros. Suele acompañarse de una blusa bordada.",
+        "en": "Traditional women's clothing: the chincuete is a wide wool or cotton wraparound skirt, and the quexquémetl a garment that covers the shoulders. It is usually worn with an embroidered blouse."
+      },
+      "verificado": false,
+      "fuente": "https://es.wikipedia.org/wiki/Otomíes"
+    }
+  ],
+  "costumbres": [
+    {
+      "id": "mayordomias",
+      "nombre": {"es": "Mayordomías y fiestas patronales", "en": "Mayordomías and patron saint festivals"},
+      "descripcion": {
+        "es": "Las mayordomías, un sistema de cargos religiosos y comunitarios, organizan las fiestas patronales, el acontecimiento más importante de la comunidad. Los cambios de mayordomos son momentos de gran participación.",
+        "en": "Mayordomías, a system of religious and community stewardships, organize the patron saint festivals, the most important event in community life. The handover of mayordomos draws wide participation."
+      },
+      "verificado": true,
+      "fuente": "https://www.mexicodesconocido.com.mx/pueblo-otomi-otomies.html"
+    },
+    {
+      "id": "ceremonias-agricolas-y-culto-a-los-muertos",
+      "nombre": {"es": "Ceremonias agrícolas y culto a los muertos", "en": "Agricultural ceremonies and honoring the dead"},
+      "descripcion": {
+        "es": "Junto a las celebraciones católicas se mantienen ceremonias para pedir buenas cosechas y el culto a los difuntos, en una religiosidad que combina elementos católicos y prehispánicos.",
+        "en": "Alongside Catholic celebrations, ceremonies to ask for good harvests and the veneration of the dead continue, in a religious life that combines Catholic and pre-Hispanic elements."
+      },
+      "verificado": true,
+      "fuente": "https://www.mexicodesconocido.com.mx/pueblo-otomi-otomies.html"
+    },
+    {
+      "id": "milpa-otomi",
+      "nombre": {"es": "La milpa otomí", "en": "The Otomí milpa"},
+      "descripcion": {
+        "es": "Sistema agrícola de maíz, frijol y chile que sostiene la alimentación familiar. Un estudio la describe como patrimonio biocultural de los Valles Altos mexiquenses, con el nombre ra huähi hñähñu.",
+        "en": "An agricultural system of corn, beans and chile that sustains family diets. A study describes it as biocultural heritage of the State of Mexico's high valleys, under the name ra huähi hñähñu."
+      },
+      "verificado": false,
+      "fuente": "https://cienciasagricolas.inifap.gob.mx/index.php/agricolas/article/download/3661/7507/39951"
+    },
+    {
+      "id": "temazcal-y-plantas-medicinales",
+      "nombre": {"es": "Temazcal y plantas medicinales", "en": "Temazcal and medicinal plants"},
+      "descripcion": {
+        "es": "Se conserva el uso del temazcal para baños curativos y de plantas medicinales de origen prehispánico como parte del cuidado de la salud tradicional.",
+        "en": "The use of the temazcal (traditional steam bath) for healing and of medicinal plants of pre-Hispanic origin continues as part of traditional health care."
+      },
+      "verificado": false,
+      "fuente": "https://www.mexicodesconocido.com.mx/pueblo-otomi-otomies.html"
+    }
+  ],
+  "frases": [],
+  "foto": "otomi-portada",
+  "fuentes": [
+    {"titulo": "México Desconocido: Pueblo otomí o hñänñu, origen, historia y tradiciones", "url": "https://www.mexicodesconocido.com.mx/pueblo-otomi-otomies.html"},
+    {"titulo": "México Desconocido: Tapetes de Temoaya", "url": "https://www.mexicodesconocido.com.mx/tapetes-de-temoaya.html"},
+    {"titulo": "México Desconocido: Centro Ceremonial Otomí", "url": "https://escapadas.mexicodesconocido.com.mx/atractivos/centro-ceremonial-otomi/"},
+    {"titulo": "Gobierno de México: Aprendiendo otomí, Temoaya, Estado de México", "url": "https://www.gob.mx/cms/uploads/attachment/file/302157/aprendiendo-otomi-temoaya-estado-de-mexico-web.pdf"},
+    {"titulo": "COESPO Edomex: Población indígena del Estado de México (2021)", "url": "https://coespo.edomex.gob.mx/sites/coespo.edomex.gob.mx/files/files/2021/Poblaci%C3%B3n%20indigena%20del%20Estado%20de%20M%C3%A9xico%20Marzo%20COESPO%202021.pdf"},
+    {"titulo": "Irma Ramírez: Los otomíes del Estado de México", "url": "https://www.aacademica.org/salomon.nahmad.sitton/56.pdf"},
+    {"titulo": "La Jornada: Peregrinación al Señor del Cerrito", "url": "https://www.jornada.com.mx/2014/08/16/cam-vida.html"},
+    {"titulo": "Chilango: Feria Gastronómica Otomí 2025", "url": "https://www.chilango.com/que-hacer/feria-gastronomica-otomi-2025-edomex/"},
+    {"titulo": "Food and Pleasure: Temoaya, Estado de México", "url": "https://foodandpleasure.com/temoaya-estado-de-mexico/"},
+    {"titulo": "Posta: El platillo milenario del Edomex con herencia otomí", "url": "https://www.posta.com.mx/edomex/el-platillo-milenario-del-edomex-con-herencia-otomi-que-no-puedes-dejar-de-probar/vl2076128"},
+    {"titulo": "Wikipedia: Otomíes", "url": "https://es.wikipedia.org/wiki/Otomíes"}
+  ]
+}
