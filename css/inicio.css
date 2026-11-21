@@ -1,0 +1,108 @@
+/* inicio.css — estilos solo de la portada. */
+main { padding-top: 0; }
+
+/* ---------- Heroe ---------- */
+.heroe { position: relative; overflow: hidden; background: var(--rosado); padding-top: 52px; min-height: 470px; display: grid; align-items: end; }
+.heroe__fondo { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: right bottom; }
+.heroe__nopal { position: absolute; left: -24px; bottom: 30px; width: 150px; }
+.heroe__flor { position: absolute; width: 64px; }
+.heroe__flor--1 { left: 92px; bottom: 26px; }
+.heroe__flor--2 { right: 24px; bottom: 40px; width: 54px; }
+.heroe__contenido {
+  position: relative; display: grid; align-items: end; gap: var(--e-4);
+  grid-template-columns: minmax(180px, 280px) 1fr minmax(160px, 220px); padding-bottom: 72px;
+}
+.heroe__ajolote { width: 100%; max-width: 280px; filter: drop-shadow(0 10px 16px rgba(74, 21, 48, 0.25)); animation: saludo 3.2s ease-in-out infinite; transform-origin: 50% 100%; }
+@keyframes saludo { 0%, 100% { transform: rotate(0); } 50% { transform: rotate(-2.5deg) translateY(-4px); } }
+.heroe__texto { text-align: center; align-self: center; }
+.heroe h1 { margin: 0; display: grid; }
+.heroe__rotulo { font-family: var(--letra-rotulo); font-weight: 400; color: var(--verde-oscuro); font-size: clamp(1.8rem, 1.2rem + 2.4vw, 3rem); line-height: 1.2; }
+.heroe__grande {
+  font-family: var(--letra-titulo); font-weight: 700; color: var(--rosa-hover);
+  font-size: clamp(2.4rem, 1.4rem + 4.4vw, 4.6rem); letter-spacing: -0.02em; line-height: 1;
+  text-shadow: 3px 3px 0 var(--blanco), -1px -1px 0 var(--blanco);
+}
+.heroe__banda {
+  display: inline-block; margin: var(--e-4) auto var(--e-3); max-width: none;
+  background: var(--verde); color: var(--blanco); font-family: var(--letra-rotulo); font-size: clamp(1rem, 0.8rem + 1vw, 1.45rem);
+  padding: var(--e-2) var(--e-6); clip-path: polygon(0 0, 100% 0, 96% 50%, 100% 100%, 0 100%, 4% 50%);
+}
+.heroe__lema { font-family: var(--letra-rotulo); color: var(--rosa-hover); font-size: var(--t-lg); margin: 0 auto; }
+.heroe__nota {
+  align-self: center; background: var(--crema); border: 2px dashed var(--rosa); border-radius: var(--radio);
+  padding: var(--e-4); font-family: var(--letra-titulo); font-weight: 600; color: var(--texto); transform: rotate(3deg);
+  box-shadow: var(--sombra-1); margin: 0;
+}
+
+/* ---------- Buscador grande ---------- */
+.buscador-grande { position: relative; z-index: 5; margin-top: -34px; max-width: 760px; }
+.buscador-grande__form {
+  display: flex; align-items: center; gap: var(--e-2); background: var(--blanco); border-radius: var(--radio-pill);
+  padding: 6px 6px 6px var(--e-5); box-shadow: var(--sombra-2); border: 2px solid var(--rosa-claro);
+}
+.buscador-grande__lupa { color: var(--texto-suave); display: grid; }
+.buscador-grande__form input { flex: 1; min-width: 0; border: 0; background: transparent; min-height: 52px; font-size: var(--t-lg); }
+.buscador-grande__form input:focus-visible { outline: none; }
+.buscador-grande__form:focus-within { outline: 3px solid var(--foco); outline-offset: 3px; }
+.buscador-grande__form .boton { width: 52px; padding: 0; justify-content: center; }
+.buscador-grande__resultados { position: absolute; left: var(--e-5); right: var(--e-5); top: 100%; box-shadow: var(--sombra-2); border-radius: var(--radio-sm); }
+
+/* ---------- Categorias ---------- */
+.categorias ul { list-style: none; margin: var(--e-6) auto 0; padding: 0; display: grid; gap: var(--e-4); grid-template-columns: repeat(5, 1fr); }
+.categoria {
+  display: grid; justify-items: center; gap: var(--e-2); padding: var(--e-5) var(--e-3) var(--e-4); text-align: center;
+  border-radius: var(--radio); text-decoration: none; font-family: var(--letra-titulo); font-weight: 600; font-size: var(--t-lg);
+  border: 3px dashed rgba(255, 255, 255, 0.7); outline: 4px solid transparent; transition: transform var(--movimiento), box-shadow var(--movimiento);
+}
+.categoria:hover { transform: translateY(-4px) rotate(-1deg); box-shadow: var(--sombra-2); }
+.categoria img { width: 44px; height: 44px; }
+.categoria--verde { background: var(--verde); color: var(--blanco); }
+.categoria--verde img, .categoria--rosa img, .categoria--morado img { filter: brightness(0) invert(1); }
+.categoria--amarillo { background: var(--amarillo); color: var(--texto); }
+.categoria--rosa { background: var(--rosa); color: var(--blanco); }
+.categoria--morado { background: var(--morado); color: var(--blanco); }
+.categoria--verde:hover, .categoria--rosa:hover, .categoria--morado:hover { color: var(--blanco); }
+.categoria--amarillo:hover { color: var(--texto); }
+
+/* ---------- Destinos + pueblos ---------- */
+.destinos-y-pueblos { display: grid; grid-template-columns: 1fr 300px; gap: var(--e-6); align-items: start; }
+.destinos .tarjetas { grid-template-columns: repeat(4, 1fr); gap: var(--e-4); }
+@media (max-width: 1180px) { .destinos .tarjetas { grid-template-columns: repeat(2, 1fr); } }
+.cinta {
+  display: inline-block; background: var(--rosa-hover); color: var(--blanco); font-family: var(--letra-rotulo); font-weight: 400;
+  font-size: var(--t-xl); padding: var(--e-2) var(--e-6) var(--e-2) var(--e-5); margin-bottom: var(--e-5);
+  clip-path: polygon(0 0, 100% 0, 95% 50%, 100% 100%, 0 100%);
+}
+.cinta--verde { background: var(--verde); }
+.caja-pueblos {
+  margin-top: var(--e-7); background: var(--blanco); border-radius: var(--radio-lg); padding: var(--e-5);
+  box-shadow: var(--sombra-1); border: 3px solid var(--verde-claro);
+}
+.caja-pueblos .cinta { font-size: var(--t-lg); margin-left: calc(var(--e-5) * -1); }
+.lista-pueblos { list-style: none; padding: 0; margin: 0 0 var(--e-5); display: grid; gap: var(--e-1); }
+.lista-pueblos a { display: flex; align-items: center; gap: var(--e-2); min-height: 40px; color: var(--texto); font-weight: 700; text-decoration: none; }
+.lista-pueblos a:hover { color: var(--rosa); }
+.lista-pueblos small { color: var(--texto-suave); font-weight: 400; }
+
+/* ---------- Mapa ---------- */
+.mapa-cabecera { display: flex; align-items: end; gap: var(--e-4); }
+.mapa-cabecera img { width: 110px; }
+
+@media (max-width: 960px) {
+  .heroe__contenido { grid-template-columns: 180px 1fr; }
+  .heroe__nota { display: none; }
+  .categorias ul { grid-template-columns: repeat(3, 1fr); }
+  .destinos-y-pueblos { grid-template-columns: 1fr; }
+  .caja-pueblos { margin-top: 0; }
+}
+@media (max-width: 600px) {
+  .heroe { min-height: 0; }
+  .heroe__contenido { grid-template-columns: 1fr; justify-items: center; padding-bottom: 64px; }
+  .heroe__ajolote { max-width: 170px; order: 2; }
+  .heroe__texto { order: 1; }
+  .heroe__nopal { width: 90px; }
+  .heroe__flor--1 { left: 40px; width: 44px; }
+  .categorias ul { grid-template-columns: repeat(2, 1fr); }
+  .categorias li:last-child { grid-column: 1 / -1; }
+  .mapa-cabecera img { width: 72px; }
+}

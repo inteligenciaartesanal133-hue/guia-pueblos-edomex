@@ -107,3 +107,33 @@ test("leerRuta tolera datos danados", () => {
   alm.guardar("miRuta", "{roto");
   assert.deepEqual(leerRuta(alm), []);
 });
+
+// ---------- mapa.js ----------
+import { puntosDesde } from "../js/mapa.js";
+import { esc } from "../js/recursos.js";
+
+const datosMapa = {
+  pueblos: [], fotos: { "zona-a": { archivo: "assets/img/zona-a.jpg" } },
+  destinos: [
+    { id: "destino-a", pueblo: "otomi", nombre: { es: "A", en: "A" }, lat: 19.5, lon: -99.5, foto: null, verificado: true },
+    { id: "destino-oculto", pueblo: "otomi", nombre: { es: "O", en: "O" }, lat: 19.5, lon: -99.5, foto: null, verificado: false },
+  ],
+  zonas: [{ id: "zona-a", nombre: { es: "Z", en: "Z" }, lat: 19.6, lon: -98.8, foto: "zona-a", verificado: true }],
+};
+
+test("puntosDesde excluye lugares no verificados", () => {
+  const ids = puntosDesde(datosMapa, "es").map((p) => p.id);
+  assert.deepEqual(ids.sort(), ["destino-a", "zona-a"]);
+});
+
+test("puntosDesde filtra por tipo y por pueblo", () => {
+  assert.deepEqual(puntosDesde(datosMapa, "es", { tipo: "zona" }).map((p) => p.id), ["zona-a"]);
+  assert.deepEqual(puntosDesde(datosMapa, "es", { pueblo: "otomi" }).map((p) => p.id), ["destino-a"]);
+  const z = puntosDesde(datosMapa, "es", { tipo: "zona" })[0];
+  assert.equal(z.foto, "assets/img/zona-a.jpg");
+  assert.equal(z.url, "zonas.html#zona-a");
+});
+
+test("esc evita que un texto rompa el HTML", () => {
+  assert.equal(esc('<b>"hola"</b>'), "&lt;b&gt;&quot;hola&quot;&lt;/b&gt;");
+});
