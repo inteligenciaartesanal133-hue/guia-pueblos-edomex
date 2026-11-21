@@ -59,3 +59,50 @@ export function creditosFotos(claves, { datos, t }) {
     return `<a href="${esc(f.url_original)}" rel="noopener" target="_blank">${esc(f.autor)}</a> (${esc(f.licencia)})`;
   }).join(" · ")}</p>`;
 }
+
+// Ficha completa de un destino o una zona (se usa en Explora, Zonas y Mi Ruta).
+export function detalleLugar(l, ctx) {
+  const { datos, t, txt } = ctx;
+  const foto = l.foto && datos.fotos[l.foto];
+  const esZona = l.id.startsWith("zona-");
+  const actividades = (l.actividades || []).map((a) =>
+    `<li><span class="etiqueta etiqueta--${a.ambiente}">${esc(t(a.ambiente))}</span> ${esc(txt(a.nombre))}</li>`).join("");
+  const queVer = (l.que_ver || []).map((q) => `<li>${esc(txt(q))}</li>`).join("");
+  return `
+    <article class="lugar" id="${esc(l.id)}" tabindex="-1">
+      <div class="lugar__foto">
+        ${foto
+          ? `<img src="${esc(foto.archivo)}" alt="${esc(txt(foto.alt))}" loading="lazy" width="640" height="480">`
+          : `<img class="lugar__ilustracion" src="assets/svg/paisaje.svg" alt="" loading="lazy" width="640" height="480">`}
+      </div>
+      <div class="lugar__texto">
+        <div class="lugar__cabecera">
+          <h2>${esc(txt(l.nombre))}</h2>
+          ${botonCorazon(l.id, txt(l.nombre), ctx)}
+        </div>
+        <p class="tarjeta__meta">${esc(l.municipio || "")}${esZona && l.cultura ? ` · ${esc(t("cultura"))}: ${esc(txt(l.cultura))}` : ""}</p>
+        <p>${esc(txt(l.resena))}</p>
+        ${queVer ? `<h3>${esc(t("queVer"))}</h3><ul class="lista">${queVer}</ul>` : ""}
+        ${actividades ? `<h3>${esc(t("actividades"))}</h3><ul class="lista lista--actividades">${actividades}</ul>` : ""}
+        <h3>${esc(t("comoLlegar"))}</h3>
+        <p>${esc(txt(l.como_llegar))}</p>
+        <p class="creditos">${esc(t("aproximado"))}</p>
+        ${l.inah_url ? `<p><a class="enlace-externo" href="${esc(l.inah_url)}" target="_blank" rel="noopener">${esc(t("consultarInah"))} ${ICONO.externo}</a></p>` : ""}
+        ${fuentesHTML(l.fuentes, t)}
+        ${creditosFotos([l.foto], ctx)}
+      </div>
+    </article>`;
+}
+
+export function fuentesHTML(fuentes = [], t) {
+  if (!fuentes.length) return "";
+  return `<details class="fuentes"><summary>${esc(t("fuentes"))} (${fuentes.length})</summary><ul>${fuentes.map((f) =>
+    `<li><a href="${esc(f.url)}" target="_blank" rel="noopener">${esc(f.titulo || f.url)}</a></li>`).join("")}</ul></details>`;
+}
+
+// Lleva la vista al elemento del #ancla (despues de pintar la pagina).
+export function irAlAncla() {
+  const id = decodeURIComponent(location.hash.slice(1));
+  const el = id && document.getElementById(id);
+  if (el) { el.scrollIntoView({ block: "start" }); el.focus({ preventScroll: true }); }
+}

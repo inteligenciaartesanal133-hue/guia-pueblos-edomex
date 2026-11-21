@@ -1,0 +1,98 @@
+/* paginas.css — estilos de las paginas interiores. */
+
+.cabecera-pagina { display: flex; align-items: end; gap: var(--e-5); margin-bottom: var(--e-6); }
+.cabecera-pagina img { width: 140px; flex-shrink: 0; }
+.cabecera-pagina__icono { width: 80px !important; padding: var(--e-3); background: var(--rosado); border-radius: var(--radio); color: var(--rosa); }
+.cabecera-pagina h1 { color: var(--rosa-hover); }
+
+/* ---------- Lista de pueblos ---------- */
+.pueblos { list-style: none; padding: 0; margin: 0; display: grid; gap: var(--e-5); grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); }
+.pueblo-tarjeta {
+  position: relative; background: var(--superficie); border-radius: var(--radio-lg); overflow: hidden; box-shadow: var(--sombra-1);
+  display: grid; transition: transform var(--movimiento), box-shadow var(--movimiento);
+}
+.pueblo-tarjeta:hover { transform: translateY(-4px); box-shadow: var(--sombra-2); }
+.pueblo-tarjeta img { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; }
+.pueblo-tarjeta__texto { padding: var(--e-5); }
+.pueblo-tarjeta h2 { margin-bottom: var(--e-1); }
+.pueblo-tarjeta h2 a { color: var(--texto); text-decoration: none; }
+.pueblo-tarjeta h2 a::after { content: ""; position: absolute; inset: 0; }
+.pueblo-tarjeta__propio { font-family: var(--letra-rotulo); color: var(--rosa); margin-bottom: var(--e-3); }
+.pueblo-tarjeta__mas { display: inline-flex; align-items: center; gap: var(--e-2); color: var(--rosa); font-weight: 800; }
+.pueblo-tarjeta__mas svg { width: 18px; }
+
+/* ---------- Ficha de pueblo ---------- */
+.portada-pueblo { position: relative; min-height: 360px; display: grid; align-items: end; background: var(--verde); margin-top: -40px; }
+.portada-pueblo__foto { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.portada-pueblo::after { content: ""; position: absolute; inset: 0; background: linear-gradient(to top, rgba(46, 16, 34, 0.85), rgba(46, 16, 34, 0.1) 70%); }
+.portada-pueblo__texto { position: relative; z-index: 1; color: var(--blanco); padding-block: var(--e-8) var(--e-6); }
+.portada-pueblo__texto .rotulo { color: var(--amarillo-claro); margin: 0; }
+.portada-pueblo__texto h1 { color: var(--blanco); }
+.ficha { padding-top: var(--e-6); }
+.ficha__resena { font-size: var(--t-lg); line-height: 1.7; }
+.bloque { margin-top: var(--e-7); }
+.bloque h2 { display: flex; align-items: center; gap: var(--e-3); color: var(--rosa-hover); }
+.bloque h2 img { width: 34px; height: 34px; }
+.bloque h2 small { font-size: var(--t-base); }
+.elementos { list-style: none; padding: 0; margin: 0; display: grid; gap: var(--e-4); grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); }
+.elemento { background: var(--superficie); border-radius: var(--radio); padding: var(--e-4) var(--e-5); border: 2px solid var(--borde); }
+.elemento h3 { font-size: var(--t-lg); margin-bottom: var(--e-2); }
+.elemento p { margin: 0; }
+.elemento__fecha { display: inline-block; background: var(--amarillo-claro); color: var(--texto); font-weight: 800; font-size: var(--t-sm); padding: 2px 10px; border-radius: var(--radio-pill); margin-bottom: var(--e-2) !important; }
+.frases { list-style: none; padding: 0; margin: 0; display: grid; gap: var(--e-3); grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); }
+.frase { display: grid; gap: var(--e-1); padding: var(--e-4); border-radius: var(--radio); background: var(--rosado); border: 2px dashed var(--rosa); }
+.frase__original { font-family: var(--letra-titulo); font-weight: 700; font-size: var(--t-xl); color: var(--rosa-hover); }
+
+/* ---------- Fichas de lugar (Explora, Zonas, Mi Ruta) ---------- */
+.lugares { display: grid; gap: var(--e-6); }
+.lugar { display: grid; grid-template-columns: minmax(240px, 2fr) 3fr; gap: var(--e-5); background: var(--superficie); border-radius: var(--radio-lg); overflow: hidden; box-shadow: var(--sombra-1); scroll-margin-top: var(--e-6); }
+.lugar:focus { outline: 3px solid var(--foco); outline-offset: 3px; }
+.lugar__foto img { width: 100%; height: 100%; min-height: 240px; object-fit: cover; }
+.lugar__ilustracion { object-fit: cover; background: var(--rosado); }
+.lugar__texto { padding: var(--e-5) var(--e-5) var(--e-5) 0; }
+.lugar__cabecera { display: flex; align-items: start; justify-content: space-between; gap: var(--e-3); }
+.lugar h2 { font-size: var(--t-xl); margin: 0; }
+.lugar h3 { font-size: var(--t-base); margin: var(--e-4) 0 var(--e-2); color: var(--verde-oscuro); }
+.lista { margin: 0 0 var(--e-3); padding-left: 1.2em; }
+.lista--actividades { list-style: none; padding: 0; display: grid; gap: var(--e-1); }
+.etiqueta--aire_libre { background: var(--verde-claro); color: var(--verde-oscuro); }
+.etiqueta--bajo_techo { background: var(--morado-claro); color: var(--morado); }
+.enlace-externo { display: inline-flex; align-items: center; gap: var(--e-1); font-weight: 700; }
+.enlace-externo svg { width: 16px; height: 16px; }
+.fuentes { margin-top: var(--e-4); font-size: var(--t-sm); }
+.fuentes summary { cursor: pointer; font-weight: 700; color: var(--texto-suave); min-height: 32px; }
+@media (max-width: 760px) {
+  .lugar { grid-template-columns: 1fr; }
+  .lugar__texto { padding: 0 var(--e-4) var(--e-5); }
+  .lugar__foto img { min-height: 0; aspect-ratio: 4 / 3; }
+  .cabecera-pagina { flex-direction: column; align-items: start; }
+  .cabecera-pagina img { width: 100px; }
+}
+
+/* ---------- Explora ---------- */
+.filtros { display: flex; flex-wrap: wrap; gap: var(--e-4); align-items: end; margin-bottom: var(--e-4); }
+.filtros label { display: grid; gap: var(--e-1); font-weight: 700; font-size: var(--t-sm); }
+.filtros select { min-height: 44px; padding: 0 var(--e-4); border-radius: var(--radio-pill); border: 2px solid var(--borde); background: var(--blanco); min-width: 200px; }
+.filtros__cuenta { margin: 0 0 var(--e-2); color: var(--texto-suave); }
+.mapa--grande { height: 70vh; min-height: 380px; }
+
+/* ---------- Galeria ---------- */
+.galeria { list-style: none; padding: 0; margin: 0; display: grid; gap: var(--e-3); grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); }
+.galeria__boton { padding: 0; border: 0; border-radius: var(--radio); overflow: hidden; display: block; width: 100%; background: var(--rosado); }
+.galeria__boton img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; transition: transform var(--movimiento); }
+.galeria__boton:hover img { transform: scale(1.05); }
+.visor { border: 0; padding: 0; border-radius: var(--radio-lg); max-width: min(92vw, 960px); background: var(--superficie); box-shadow: var(--sombra-2); }
+.visor::backdrop { background: rgba(46, 16, 34, 0.75); }
+.visor img { width: 100%; max-height: 72vh; object-fit: contain; background: var(--texto); }
+.visor__pie { padding: var(--e-3) var(--e-5) var(--e-4); }
+.visor__pie p { margin: 0 0 var(--e-1); }
+.visor__cerrar { position: absolute; top: var(--e-3); right: var(--e-3); background: var(--blanco); color: var(--texto); border-color: var(--blanco); }
+
+/* ---------- Acerca ---------- */
+.acerca h2 { margin-top: var(--e-6); color: var(--rosa-hover); }
+.acerca__ajolote { display: flex; gap: var(--e-5); align-items: center; background: var(--rosado); border-radius: var(--radio-lg); padding: var(--e-5); margin-top: var(--e-6); }
+.acerca__ajolote img { width: 160px; flex-shrink: 0; }
+.acerca__ajolote h2 { margin-top: 0; }
+.lista-fuentes { columns: 2 320px; font-size: var(--t-sm); padding-left: 1.2em; }
+.lista-fuentes li { break-inside: avoid; margin-bottom: var(--e-1); overflow-wrap: anywhere; }
+@media (max-width: 600px) { .acerca__ajolote { flex-direction: column; text-align: center; } }
