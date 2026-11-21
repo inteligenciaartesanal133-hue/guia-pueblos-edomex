@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" preserveAspectRatio="xMidYMax slice">
+  <!-- Fondo de la portada: volcan con nieve, cerros, iglesia y magueyes -->
+  <defs>
+    <linearGradient id="cielo" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F7C9D8"/><stop offset=".55" stop-color="#FCE3EA"/><stop offset="1" stop-color="#FFF4E8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="420" fill="url(#cielo)"/>
+  <circle cx="300" cy="110" r="46" fill="#FFF2D6" opacity=".9"/>
+  <!-- volcan -->
+  <path d="M760 300 L930 92 Q950 70 970 92 L1140 300 Z" fill="#B7A2C9"/>
+  <path d="M893 138 L930 92 Q950 70 970 92 L1008 138 Q990 128 975 140 Q962 126 948 140 Q930 126 915 142 Z" fill="#FFFFFF"/>
+  <!-- cerros -->
+  <path d="M0 300 Q160 200 330 260 T700 250 T1200 240 V420 H0 Z" fill="#9FB98A"/>
+  <path d="M0 330 Q220 270 460 310 T900 300 T1200 300 V420 H0 Z" fill="#7FA36A"/>
+  <!-- iglesia -->
+  <g fill="#E9D6C4" stroke="#8A6A55" stroke-width="2.5" stroke-linejoin="round">
+    <rect x="880" y="214" width="150" height="96"/>
+    <rect x="860" y="150" width="40" height="160"/>
+    <rect x="1010" y="150" width="40" height="160"/>
+    <path d="M860 150 L880 118 L900 150 Z M1010 150 L1030 118 L1050 150 Z"/>
+    <path d="M920 214 Q955 170 990 214 Z"/>
+    <path d="M940 310 V266 Q955 246 970 266 V310 Z" fill="#8A6A55"/>
+    <path d="M872 170 h16 v22 h-16 Z M1022 170 h16 v22 h-16 Z" fill="#8A6A55"/>
+    <path d="M880 118 v-14 M874 110 h12 M1030 118 v-14 M1024 110 h12" fill="none"/>
+  </g>
+  <!-- primer plano -->
+  <path d="M0 360 Q300 330 600 352 T1200 344 V420 H0 Z" fill="#5C8F3A"/>
+  <g fill="#4E7F34">
+    <path d="M140 360 l-24 -50 l30 40 l-6 -56 l16 56 l14 -50 l-4 56 l28 -36 l-20 48 Z"/>
+    <path d="M700 364 l-18 -40 l24 32 l-4 -44 l12 44 l12 -40 l-4 44 l22 -28 l-16 38 Z"/>
+  </g>
+</svg>

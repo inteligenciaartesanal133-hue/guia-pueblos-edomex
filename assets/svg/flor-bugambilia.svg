@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" stroke="#5A1E3C" stroke-width="2.5" stroke-linejoin="round">
+  <!-- Flor rosa de cinco petalos, como la de la cabeza del ajolote -->
+  <path d="M60 58 C66 52 72 54 76 60 C70 66 64 64 60 58 Z" fill="#3F8A3A"/>
+  <path d="M20 58 C14 52 8 54 4 60 C10 66 16 64 20 58 Z" fill="#3F8A3A"/>
+  <g fill="#EC4F8E">
+    <ellipse cx="40" cy="20" rx="13" ry="17"/>
+    <ellipse cx="40" cy="20" rx="13" ry="17" transform="rotate(72 40 40)"/>
+    <ellipse cx="40" cy="20" rx="13" ry="17" transform="rotate(144 40 40)"/>
+    <ellipse cx="40" cy="20" rx="13" ry="17" transform="rotate(216 40 40)"/>
+    <ellipse cx="40" cy="20" rx="13" ry="17" transform="rotate(288 40 40)"/>
+  </g>
+  <circle cx="40" cy="40" r="9" fill="#F2B705"/>
+  <circle cx="40" cy="40" r="3" fill="#E8820C" stroke="none"/>
+</svg>

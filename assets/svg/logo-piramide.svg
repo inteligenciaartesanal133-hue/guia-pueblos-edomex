@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 44" fill="none" stroke="currentColor" stroke-width="3" stroke-linejoin="round">
+  <!-- Piramide escalonada con templo arriba (logo) -->
+  <path d="M26 4 h12 v6 h-12 z"/>
+  <path d="M20 10 h24 l3 8 h-30 z"/>
+  <path d="M14 18 h36 l3 8 h-42 z"/>
+  <path d="M8 26 h48 l4 10 h-56 z"/>
+  <path d="M29 26 v10 M35 26 v10"/>
+  <path d="M2 40 h60"/>
+</svg>

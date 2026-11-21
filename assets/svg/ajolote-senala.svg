@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 312">
+  <!-- Ajolote señalando (recreado del diseño del usuario) -->
+  <defs>
+    <g id="br">
+      <path d="M0 0 L-0.0 -0.0 L-3.2 -7.0 L-6.4 -5.8 L-9.7 -12.3 L-12.9 -10.4 L-16.1 -16.0 L-19.3 -13.2 L-22.6 -17.8 L-25.8 -13.9 L-29.0 -17.4 L-32.2 -12.5 L-35.4 -15.2 L-38.7 -9.5 L-41.9 -11.5 L-45.1 -5.4 L-48.3 -7.1 L-51.6 -0.8 L-54.8 -4.0 L-58.0 -0.0 L-58.0 0.0 L-54.8 4.0 L-51.6 0.8 L-48.3 7.1 L-45.1 5.4 L-41.9 11.5 L-38.7 9.5 L-35.4 15.2 L-32.2 12.5 L-29.0 17.4 L-25.8 13.9 L-22.6 17.8 L-19.3 13.2 L-16.1 16.0 L-12.9 10.4 L-9.7 12.3 L-6.4 5.8 L-3.2 7.0 L-0.0 0.0 Z" fill="#D81B60" stroke="#4A1530" stroke-width="3.5" stroke-linejoin="round"/>
+      <path d="M-4 0 C-18 -2 -34 -2 -46 0" fill="none" stroke="#F7A1C0" stroke-width="7" stroke-linecap="round"/>
+    </g>
+    <radialGradient id="petalo-color" cx="40" cy="40" r="30" gradientUnits="userSpaceOnUse">
+      <stop offset=".25" stop-color="#F7931E"/><stop offset=".6" stop-color="#F0567F"/><stop offset="1" stop-color="#E23A72"/>
+    </radialGradient>
+  </defs>
+  <g stroke-linejoin="round" stroke-linecap="round">
+    <!-- cola ondulada -->
+    <path d="M86 236 C60 232 40 246 22 238 C10 232 8 248 18 256 C30 266 52 262 66 270 C80 278 94 270 98 258 Z" fill="#F7A6C1" stroke="#4A1530" stroke-width="3.5"/>
+    <path d="M30 248 C46 252 62 250 82 254" fill="none" stroke="#FBD0DE" stroke-width="4"/>
+
+    <!-- mochila (detras del cuerpo) -->
+    <path d="M60 176 C50 182 46 222 54 244 C62 254 82 254 88 246 L94 180 C84 172 68 172 60 176 Z" fill="#A0682F" stroke="#4A1530" stroke-width="3.5"/>
+    <path d="M56 208 C64 214 80 214 90 208" fill="none" stroke="#4A1530" stroke-width="2.5"/>
+
+    <!-- branquias izquierdas -->
+    <use href="#br" transform="translate(72 66) rotate(42)"/>
+    <use href="#br" transform="translate(60 96) rotate(8)"/>
+    <use href="#br" transform="translate(64 124) rotate(-24)"/>
+    <!-- branquias derechas (espejo) -->
+    <use href="#br" transform="translate(180 64) scale(-1 1) rotate(42)"/>
+    <use href="#br" transform="translate(194 92) scale(-1 1) rotate(8)"/>
+    <use href="#br" transform="translate(190 120) scale(-1 1) rotate(-24)"/>
+
+    <!-- pies -->
+    <path d="M90 286 C90 276 118 276 118 286 C118 294 90 294 90 286 Z" fill="#F9B9CD" stroke="#4A1530" stroke-width="3.5"/>
+    <path d="M140 286 C140 276 168 276 168 286 C168 294 140 294 140 286 Z" fill="#F9B9CD" stroke="#4A1530" stroke-width="3.5"/>
+    <path d="M98 292 v-4 M106 293 v-4 M148 292 v-4 M156 293 v-4" stroke="#4A1530" stroke-width="2"/>
+
+    <!-- falda con olanes -->
+    <path d="M78 230 C104 240 152 240 178 228 L192 270 Q184 280 176 272 Q168 282 158 274 Q148 284 138 276 Q128 286 118 276 Q108 284 98 274 Q88 282 80 272 Q70 280 64 270 Z" fill="#C2185B" stroke="#4A1530" stroke-width="3.5"/>
+    <path d="M100 248 L96 270 M128 250 V276 M156 248 L160 270" stroke="#9E1048" stroke-width="2.5"/>
+
+    <!-- blusa -->
+    <path d="M86 150 C110 142 148 142 170 150 L182 230 C150 244 106 244 74 230 Z" fill="#FFFFFF" stroke="#4A1530" stroke-width="3.5"/>
+    <!-- bordado de la blusa -->
+    <path d="M94 158 C112 168 146 168 162 158" fill="none" stroke="#E0357E" stroke-width="2.5" stroke-dasharray="1 5"/>
+    <g stroke="none">
+      <g transform="translate(104 178)"><circle r="7" fill="#D6204F"/><circle r="2.6" fill="#F2B705"/></g>
+      <g transform="translate(128 184)"><circle r="8" fill="#F0567F"/><circle r="3" fill="#F7931E"/></g>
+      <g transform="translate(152 178)"><circle r="7" fill="#6D2468"/><circle r="2.6" fill="#F2B705"/></g>
+      <ellipse cx="116" cy="188" rx="5" ry="2.4" fill="#3F8A3A" transform="rotate(30 116 188)"/>
+      <ellipse cx="140" cy="188" rx="5" ry="2.4" fill="#3F8A3A" transform="rotate(-30 140 188)"/>
+      <ellipse cx="93" cy="186" rx="4" ry="2" fill="#3F8A3A" transform="rotate(-40 93 186)"/>
+      <ellipse cx="163" cy="186" rx="4" ry="2" fill="#3F8A3A" transform="rotate(40 163 186)"/>
+      <circle cx="110" cy="200" r="2.6" fill="#E8820C"/><circle cx="128" cy="204" r="3" fill="#D6204F"/><circle cx="146" cy="200" r="2.6" fill="#E8820C"/>
+    </g>
+    <!-- faja rosa -->
+    <path d="M76 218 C104 230 152 230 180 216 L183 234 C152 248 104 248 73 234 Z" fill="#E23A72" stroke="#4A1530" stroke-width="3.5"/>
+
+    <!-- tirantes de la mochila -->
+    <path d="M94 150 C98 176 100 200 102 226" fill="none" stroke="#A0682F" stroke-width="11"/>
+    <path d="M94 150 C98 176 100 200 102 226" fill="none" stroke="#4A1530" stroke-width="2" stroke-dasharray="2 7"/>
+    <path d="M164 150 C162 172 160 196 158 222" fill="none" stroke="#A0682F" stroke-width="11"/>
+
+    <!-- manga izquierda abombada + brazo hacia abajo -->
+    <path d="M78 172 C68 200 72 222 84 230 C94 222 96 202 94 180 Z" fill="#F9B9CD" stroke="#4A1530" stroke-width="3.5"/>
+    <path d="M90 148 C72 148 62 162 66 176 C70 186 88 188 98 180 Z" fill="#FFFFFF" stroke="#4A1530" stroke-width="3.5"/>
+    <path d="M67 178 c4 3 8 3 12 0 c4 3 8 3 12 0" fill="none" stroke="#E0357E" stroke-width="2.4"/>
+
+    <!-- cabeza -->
+    <path d="M52 100 C52 52 86 32 126 32 C168 32 202 54 202 98 C202 142 168 160 126 160 C84 160 52 144 52 100 Z" fill="#F9B9CD" stroke="#4A1530" stroke-width="3.5"/>
+    <ellipse cx="114" cy="52" rx="28" ry="9" fill="#FCD6E2" stroke="none"/>
+    <path d="M150 44 q6 -4 12 0" fill="none" stroke="#4A1530" stroke-width="2"/>
+
+    <!-- flor en la cabeza -->
+    <g transform="translate(86 50)">
+      <path d="M-26 6 C-34 -4 -22 -14 -12 -6 Z M22 14 C32 8 34 22 22 24 Z M-20 22 C-30 26 -28 36 -16 30 Z" fill="#3F8A3A" stroke="#4A1530" stroke-width="2.5"/>
+      <g transform="translate(-40 -40)">
+        <path d="M40 40 C26 30 26 12 40 10 C54 12 54 30 40 40 Z" fill="url(#petalo-color)" stroke="#4A1530" stroke-width="2.5" transform="rotate(0 40 40)"/>
+        <path d="M40 40 C26 30 26 12 40 10 C54 12 54 30 40 40 Z" fill="url(#petalo-color)" stroke="#4A1530" stroke-width="2.5" transform="rotate(72 40 40)"/>
+        <path d="M40 40 C26 30 26 12 40 10 C54 12 54 30 40 40 Z" fill="url(#petalo-color)" stroke="#4A1530" stroke-width="2.5" transform="rotate(144 40 40)"/>
+        <path d="M40 40 C26 30 26 12 40 10 C54 12 54 30 40 40 Z" fill="url(#petalo-color)" stroke="#4A1530" stroke-width="2.5" transform="rotate(216 40 40)"/>
+        <path d="M40 40 C26 30 26 12 40 10 C54 12 54 30 40 40 Z" fill="url(#petalo-color)" stroke="#4A1530" stroke-width="2.5" transform="rotate(288 40 40)"/>
+      </g>
+      <circle r="7" fill="#F6E27A" stroke="#4A1530" stroke-width="2.5"/>
+      <circle r="2.8" fill="#C2185B" stroke="none"/>
+    </g>
+
+    <!-- mejillas -->
+    <ellipse cx="86" cy="120" rx="14" ry="9" fill="#F27BA5" opacity=".75" stroke="none"/>
+    <ellipse cx="170" cy="114" rx="14" ry="9" fill="#F27BA5" opacity=".75" stroke="none"/>
+    <!-- nariz -->
+    <circle cx="122" cy="104" r="1.8" fill="#4A1530" stroke="none"/><circle cx="136" cy="103" r="1.8" fill="#4A1530" stroke="none"/>
+    <!-- ojos abiertos -->
+    <ellipse cx="100" cy="98" rx="11" ry="13" fill="#2A0F1F" stroke="none"/>
+    <circle cx="104" cy="92" r="4.5" fill="#FFFFFF" stroke="none"/><circle cx="97" cy="104" r="2" fill="#FFFFFF" stroke="none"/>
+    <ellipse cx="154" cy="96" rx="11" ry="13" fill="#2A0F1F" stroke="none"/>
+    <circle cx="158" cy="90" r="4.5" fill="#FFFFFF" stroke="none"/><circle cx="151" cy="102" r="2" fill="#FFFFFF" stroke="none"/>
+    <path d="M114 112 C120 112 136 112 144 110 C144 126 136 136 128 136 C120 136 114 126 114 112 Z" fill="#9E1048" stroke="#4A1530" stroke-width="3.2"/>
+    <path d="M118 128 C122 122 134 122 138 128 C134 134 122 134 118 128 Z" fill="#F27BA5" stroke="none"/>
+    <!-- brazo derecho senalando -->
+    <path d="M168 162 C190 158 210 152 226 146 C232 152 232 162 226 166 C208 172 190 178 172 180 Z" fill="#F9B9CD" stroke="#4A1530" stroke-width="3.5"/>
+    <rect x="232" y="146" width="22" height="9" rx="4.5" fill="#F9B9CD" stroke="#4A1530" stroke-width="3.5"/>
+    <circle cx="232" cy="157" r="11" fill="#F9B9CD" stroke="#4A1530" stroke-width="3.5"/>
+    <!-- manga derecha -->
+    <path d="M164 146 C182 144 194 156 190 170 C186 180 168 182 160 174 Z" fill="#FFFFFF" stroke="#4A1530" stroke-width="3.5"/>
+    <path d="M168 178 c4 -3 8 -3 12 0 c3 -3 6 -3 9 -1" fill="none" stroke="#E0357E" stroke-width="2.4"/>
+  </g>
+</svg>
