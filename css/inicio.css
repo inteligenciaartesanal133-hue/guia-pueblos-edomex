@@ -36,6 +36,12 @@ main { padding-top: 0; }
   padding: var(--e-4); font-family: var(--letra-titulo); font-weight: 600; color: var(--texto); transform: rotate(3deg);
   box-shadow: var(--sombra-1); margin: 0;
 }
+/* Nota de papel rasgado (imagen del equipo): abajo a la derecha, sobre las flores. */
+.heroe__nota--papel {
+  align-self: end; justify-self: end; width: 100%; max-width: 240px; padding: 0; border: 0; border-radius: 0;
+  background: none; box-shadow: none; transform: rotate(5deg); margin-bottom: -8px;
+  filter: drop-shadow(0 6px 10px rgba(74, 21, 48, 0.3));
+}
 
 /* ---------- Buscador grande ---------- */
 .buscador-grande { position: relative; z-index: 5; margin-top: -34px; max-width: 760px; }

@@ -37,7 +37,9 @@ document.getElementById("principal").innerHTML = `
         <p class="heroe__banda">${esc(t("heroBanda"))}</p>
         <p class="heroe__lema">${esc(t("heroLema"))}</p>
       </div>
-      <p class="heroe__nota">${esc(t("heroNota"))} <span aria-hidden="true">♥</span></p>
+      ${idioma === "es"
+        ? `<img class="heroe__nota heroe__nota--papel" src="assets/img/nota-papel.png" alt="${esc(t("heroNota"))}" width="1233" height="724">`
+        : `<p class="heroe__nota">${esc(t("heroNota"))} <span aria-hidden="true">♥</span></p>`}
     </div>
   </section>
 
