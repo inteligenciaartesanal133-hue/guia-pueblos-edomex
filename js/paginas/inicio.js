@@ -57,8 +57,7 @@ document.getElementById("principal").innerHTML = `
     <ul>
       ${CATEGORIAS.map((c) => `
         <li class="${c.imagen === "cat-pueblos" ? "categoria-ancha" : ""}"><a class="categoria-papel" href="${c.url}">
-          <img src="assets/img/${c.imagen}.png" alt="${esc(t(c.clave))}" loading="lazy">
-          ${idioma === "es" ? "" : `<span class="categoria-papel__en">${esc(t(c.clave))}</span>`}
+          <img src="assets/img/${c.imagen}${idioma === "en" ? "-en" : ""}.png" alt="${esc(t(c.clave))}" loading="lazy">
         </a></li>`).join("")}
     </ul>
   </nav>
