@@ -137,3 +137,34 @@ test("puntosDesde filtra por tipo y por pueblo", () => {
 test("esc evita que un texto rompa el HTML", () => {
   assert.equal(esc('<b>"hola"</b>'), "&lt;b&gt;&quot;hola&quot;&lt;/b&gt;");
 });
+
+// ---------- correcciones de la revision final ----------
+import { fotosVisibles } from "../js/datos.js";
+
+test("crearAlmacen funciona aunque leer window.localStorage lance error", () => {
+  const previo = Object.getOwnPropertyDescriptor(globalThis, "localStorage");
+  Object.defineProperty(globalThis, "localStorage", { configurable: true, get() { throw new Error("SecurityError"); } });
+  try {
+    const alm = crearAlmacen();
+    alm.guardar("a", "1");
+    assert.equal(alm.leer("a"), "1");
+  } finally {
+    if (previo) Object.defineProperty(globalThis, "localStorage", previo); else delete globalThis.localStorage;
+  }
+});
+
+test("idiomaActual toma el idioma de la URL (?lang=en) aunque no haya almacenamiento", () => {
+  const alm = crearAlmacen(storageQueFalla);
+  assert.equal(idiomaActual(alm, "?lang=en"), "en");
+  assert.equal(idiomaActual(crearAlmacen(storageQueFalla), "?id=otomi&lang=fr"), "es");
+});
+
+test("fotosVisibles solo incluye fotos de pueblos y lugares verificados", () => {
+  const datos = {
+    pueblos: [{ id: "otomi", foto: "p" }],
+    destinos: [{ id: "destino-a", foto: "a", verificado: true }, { id: "destino-b", foto: "b", verificado: false }],
+    zonas: [{ id: "zona-c", foto: "c", verificado: true }],
+    fotos: { p: {}, a: {}, b: {}, c: {} },
+  };
+  assert.deepEqual(fotosVisibles(datos).map(([clave]) => clave).sort(), ["a", "c", "p"]);
+});

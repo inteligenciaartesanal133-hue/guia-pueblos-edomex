@@ -95,7 +95,10 @@ function pintarEncabezado({ pagina, idioma, t, almacen, indice }) {
   // Idioma
   header.querySelector(".boton-idioma").addEventListener("click", () => {
     cambiarIdioma(almacen, otro);
-    location.reload();
+    // El idioma viaja tambien en la URL por si el navegador no deja guardarlo.
+    const url = new URL(location.href);
+    url.searchParams.set("lang", otro);
+    location.href = url.toString();
   });
 
   // Buscador desplegable

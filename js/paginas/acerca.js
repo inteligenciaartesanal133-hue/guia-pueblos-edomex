@@ -1,5 +1,6 @@
 // Acerca del proyecto: que es, el ajolote asistente, equipo y todas las fuentes.
 import { iniciarPagina } from "../layout.js";
+import { lugaresVisibles } from "../datos.js";
 import { AJOLOTE, esc } from "../recursos.js";
 
 const ctx = await iniciarPagina("acerca");
@@ -35,7 +36,7 @@ const TEXTO = {
 
 // Todas las fuentes, sin repetir.
 const fuentes = new Map();
-for (const l of [...datos.pueblos, ...datos.destinos, ...datos.zonas]) {
+for (const l of lugaresVisibles(datos)) {
   for (const f of l.fuentes || []) if (f.url && !fuentes.has(f.url)) fuentes.set(f.url, f.titulo || f.url);
 }
 

@@ -1,11 +1,12 @@
 // Galeria de fotos con su credito.
 import { iniciarPagina } from "../layout.js";
+import { fotosVisibles } from "../datos.js";
 import { ICONO, esc } from "../recursos.js";
 
 const ctx = await iniciarPagina("galeria");
 const { datos, t, txt } = ctx;
 document.title = `${t("galeriaTitulo")} · EdoMéx`;
-const fotos = Object.entries(datos.fotos);
+const fotos = fotosVisibles(datos);
 
 const main = document.getElementById("principal");
 main.innerHTML = `

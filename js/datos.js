@@ -36,6 +36,17 @@ export function visibles(lista = []) {
   return lista.filter((el) => el.verificado !== false);
 }
 
+// Pueblos + destinos y zonas verificados (lo que la pagina puede mostrar).
+export function lugaresVisibles(datos) {
+  return [...datos.pueblos, ...visibles(datos.destinos), ...visibles(datos.zonas)];
+}
+
+// Fotos [clave, foto] usadas por algo visible (no muestra fotos de lugares ocultos).
+export function fotosVisibles(datos) {
+  const claves = new Set(lugaresVisibles(datos).map((l) => l.foto).filter(Boolean));
+  return Object.entries(datos.fotos).filter(([clave]) => claves.has(clave));
+}
+
 // Busca cualquier cosa por su id: un pueblo, un destino o una zona.
 export function buscarPorId(datos, id) {
   const pueblo = datos.pueblos.find((p) => p.id === id);

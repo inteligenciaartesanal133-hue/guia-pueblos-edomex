@@ -4,7 +4,11 @@ export const IDIOMAS = ["es", "en"];
 
 // Envoltorio de localStorage que nunca rompe la pagina.
 // En modo privado o con el almacenamiento bloqueado, guarda todo en memoria.
-export function crearAlmacen(storage = globalThis.localStorage) {
+export function crearAlmacen(storage) {
+  // Con cookies bloqueadas, solo LEER window.localStorage ya lanza error.
+  if (storage === undefined) {
+    try { storage = globalThis.localStorage; } catch { storage = null; }
+  }
   const memoria = new Map();
   return {
     leer(clave) {
@@ -22,7 +26,14 @@ export function crearAlmacen(storage = globalThis.localStorage) {
 }
 
 // Idioma guardado; si no hay o no es valido, espanol.
-export function idiomaActual(almacen) {
+// Si la URL trae ?lang=en (o es), ese manda: asi el cambio de idioma funciona
+// aunque el navegador no deje guardar nada.
+export function idiomaActual(almacen, busqueda = globalThis.location?.search ?? "") {
+  const deUrl = new URLSearchParams(busqueda).get("lang");
+  if (IDIOMAS.includes(deUrl)) {
+    almacen.guardar("idioma", deUrl);
+    return deUrl;
+  }
   const guardado = almacen.leer("idioma");
   return IDIOMAS.includes(guardado) ? guardado : "es";
 }
