@@ -148,7 +148,8 @@
   --morado: #6D2468;          /* pie, sitios historicos */
   --morado-claro: #EAD3E7;
   --rosa-palo: #F3C9D1;       /* encabezado y pie */
-  --rosa-palo-oscuro: #E3A1B2; /* tira de papel picado del encabezado */
+  --rosa-palo-oscuro: #E3A1B2;
+  --marco: #1A0A14;            /* linea negra que separa encabezado y pie */ /* tira de papel picado del encabezado */
   --crema: #FFF7EE;           /* fondo general */
   --rosado: #FCEAF0;          /* fondo suave de secciones */
   --blanco: #FFFFFF;
