@@ -102,11 +102,17 @@
 
 /* ================= Pie ================= */
 .pie { background: linear-gradient(transparent 40px, var(--morado) 40px); color: var(--blanco); margin-top: var(--e-8); }
-/* Pie centrado: logo, lema y hashtag uno debajo del otro */
-.pie__contenido { display: flex; flex-direction: column; align-items: center; gap: var(--e-4); padding-block: var(--e-6); text-align: center; }
-.pie__contenido .marca { margin-right: 0; }
-.pie__lema { font-family: var(--letra-rotulo); font-size: var(--t-xl); margin: 0; max-width: none; color: var(--amarillo-claro); }
+/* Pie: logo a la izquierda, lema exactamente al centro, hashtag a la derecha.
+   Las columnas de los lados miden lo mismo (1fr) para que el lema quede centrado. */
+.pie__contenido { display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: var(--e-5); padding-block: var(--e-6); }
+.pie__contenido .marca { margin-right: 0; justify-self: start; }
+.pie__lema { font-family: var(--letra-rotulo); font-size: var(--t-xl); margin: 0; max-width: none; text-align: center; color: var(--amarillo-claro); }
+.pie__extra { justify-self: end; }
 .pie__extra p { margin: 0; }
+@media (max-width: 720px) {
+  .pie__contenido { grid-template-columns: 1fr; justify-items: center; text-align: center; }
+  .pie__contenido .marca, .pie__extra { justify-self: center; }
+}
 .pie__hashtag { display: inline-block; background: var(--rosa-claro); color: var(--texto); padding: var(--e-2) var(--e-4); border-radius: var(--radio-pill); font-weight: 800; }
 
 /* ================= Secciones y titulos ================= */
