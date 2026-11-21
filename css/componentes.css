@@ -57,14 +57,17 @@
 }
 .boton-idioma:hover { background: rgba(255, 255, 255, 0.15); }
 
-/* Tira de papel picado: la forma es una mascara, el color lo pone background */
+/* Tira de papel picado de colores (imagen del equipo) que cuelga del encabezado */
 .papel-picado {
-  height: 40px; background: var(--barra-tira);
+  height: 46px; background: url("../assets/img/tira-papel-picado.png") repeat-x 0 0 / auto 46px;
+  position: absolute; left: 0; right: 0; top: 100%; pointer-events: none;
+}
+/* En el pie: tirita calada del mismo color que el pie (la forma es una mascara) */
+.papel-picado--pie {
+  position: static; height: 40px; background: var(--barra); transform: scaleY(-1);
   -webkit-mask: url("../assets/svg/papel-picado.svg") repeat-x 0 0 / 76px 40px;
   mask: url("../assets/svg/papel-picado.svg") repeat-x 0 0 / 76px 40px;
-  position: absolute; left: 0; right: 0; top: 100%;
 }
-.papel-picado--pie { position: static; background: var(--barra); transform: scaleY(-1); }
 
 /* Buscador desplegable */
 .buscador { padding-bottom: var(--e-4); }
@@ -116,7 +119,7 @@
 .pie__hashtag { display: inline-block; background: var(--blanco); color: var(--texto); padding: var(--e-2) var(--e-4); border-radius: var(--radio-pill); font-weight: 800; }
 
 /* ================= Secciones y titulos ================= */
-main { display: block; padding-top: 40px; }
+main { display: block; padding-top: 48px; }
 main:focus { outline: none; }
 .seccion { padding-block: var(--e-7); }
 .titulo-seccion { display: flex; align-items: center; gap: var(--e-3); color: var(--rosa-hover); }

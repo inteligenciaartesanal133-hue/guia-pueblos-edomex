@@ -22,7 +22,7 @@
 .pueblo-tarjeta__mas svg { width: 18px; }
 
 /* ---------- Ficha de pueblo ---------- */
-.portada-pueblo { position: relative; min-height: 360px; display: grid; align-items: end; background: var(--verde); margin-top: -40px; }
+.portada-pueblo { position: relative; min-height: 360px; display: grid; align-items: end; background: var(--verde); margin-top: -48px; }
 .portada-pueblo__foto { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
 .portada-pueblo::after { content: ""; position: absolute; inset: 0; background: linear-gradient(to top, rgba(46, 16, 34, 0.85), rgba(46, 16, 34, 0.1) 70%); }
 .portada-pueblo__texto { position: relative; z-index: 1; color: var(--blanco); padding-block: var(--e-8) var(--e-6); }
